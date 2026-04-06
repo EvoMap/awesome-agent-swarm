@@ -1,26 +1,13 @@
 [
   {
-    "name": "EvoMap",
-    "repo": "EvoMap/evolver",
-    "description": "Agent Swarm platform with task decomposition, Worker Pool orchestration, Evolution Circles, AI Council governance, Privacy Computing, and ARC-AGI-2 multi-agent arena.",
-    "category": "frameworks",
-    "maintainer": "EvoMap",
-    "tags": [
-      "swarm",
-      "orchestration",
-      "evolution"
-    ],
-    "stars": 1832
-  },
-  {
     "name": "Dify",
     "repo": "langgenius/dify",
-    "description": "Production-ready platform for agentic workflow development. Combines AI workflow, RAG pipeline, agent capabilities, and model management.",
+    "description": "Production-ready platform for agentic workflow development. Visual workflow builder with multi-agent orchestration, RAG pipeline, and model management.",
     "category": "orchestration",
     "maintainer": "langgenius",
     "tags": [
       "workflow",
-      "rag",
+      "orchestration",
       "production-ready"
     ],
     "stars": 136275
@@ -28,20 +15,21 @@
   {
     "name": "MetaGPT",
     "repo": "FoundationAgents/MetaGPT",
-    "description": "The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming.",
+    "description": "Virtual software company via multi-agent collaboration. SOPs encoded as prompts assign PM, architect, developer, and QA roles.",
     "category": "role-teams",
     "maintainer": "FoundationAgents",
     "tags": [
       "software-company",
       "role-playing",
-      "nlp"
+      "sops"
     ],
-    "stars": 66673
+    "stars": 66673,
+    "paper": "https://arxiv.org/abs/2308.00352"
   },
   {
     "name": "DeerFlow",
     "repo": "bytedance/deer-flow",
-    "description": "Open-source long-horizon SuperAgent harness by ByteDance. Researches, codes, and creates with multi-agent collaboration.",
+    "description": "Open-source long-horizon SuperAgent harness by ByteDance. Multi-agent collaboration for research, coding, and content creation.",
     "category": "orchestration",
     "maintainer": "bytedance",
     "tags": [
@@ -54,91 +42,66 @@
   {
     "name": "AutoGen",
     "repo": "microsoft/autogen",
-    "description": "A programming framework for agentic AI. Build multi-agent applications with conversational patterns.",
+    "description": "Programming framework for agentic AI by Microsoft. Build multi-agent applications with conversational patterns and group chat.",
     "category": "frameworks",
     "maintainer": "microsoft",
     "tags": [
       "conversational",
       "microsoft",
-      "agentic"
+      "group-chat"
     ],
     "stars": 56730
   },
   {
     "name": "CrewAI",
     "repo": "crewAIInc/crewAI",
-    "description": "Framework for orchestrating role-playing, autonomous AI agents. Collaborative intelligence for complex tasks.",
+    "description": "Framework for orchestrating role-playing, autonomous AI agents. Define crews with specialized roles, goals, and backstories for collaborative tasks.",
     "category": "role-teams",
     "maintainer": "crewAIInc",
     "tags": [
       "role-playing",
       "collaborative",
-      "orchestration"
+      "crews"
     ],
     "stars": 48116
   },
   {
-    "name": "DSPy",
-    "repo": "stanfordnlp/dspy",
-    "description": "Compiling declarative language model calls into state-of-the-art pipelines. Programming -- not prompting -- foundation models.",
-    "category": "orchestration",
-    "maintainer": "stanfordnlp",
-    "tags": [
-      "compiler",
-      "pipeline",
-      "stanford"
-    ],
-    "stars": 33467
-  },
-  {
     "name": "ChatDev",
     "repo": "OpenBMB/ChatDev",
-    "description": "Virtual software company via LLM-powered multi-agent collaboration. Agents play PM, architect, developer, and QA roles.",
+    "description": "Virtual software company via LLM-powered multi-agent conversation chains. Agents play CEO, CTO, programmer, and tester roles.",
     "category": "role-teams",
     "maintainer": "OpenBMB",
     "tags": [
       "software-company",
-      "role-playing",
+      "conversation-chains",
       "virtual-team"
     ],
-    "stars": 32589
+    "stars": 32589,
+    "paper": "https://arxiv.org/abs/2307.07924"
   },
   {
     "name": "LangGraph",
     "repo": "langchain-ai/langgraph",
-    "description": "Build resilient language agents as graphs. Low-level orchestration framework for stateful agents with durable execution.",
+    "description": "Build resilient language agents as graphs. Low-level orchestration framework for stateful, multi-actor applications with durable execution.",
     "category": "orchestration",
     "maintainer": "langchain-ai",
     "tags": [
       "graph",
-      "orchestration",
-      "stateful"
+      "stateful",
+      "durable-execution"
     ],
     "stars": 28493
   },
   {
-    "name": "Haystack",
-    "repo": "deepset-ai/haystack",
-    "description": "Open-source AI orchestration framework for building production-ready LLM applications with modular pipelines and agent workflows.",
-    "category": "orchestration",
-    "maintainer": "deepset-ai",
-    "tags": [
-      "pipelines",
-      "rag",
-      "production-ready"
-    ],
-    "stars": 24723
-  },
-  {
     "name": "AgentScope",
     "repo": "agentscope-ai/agentscope",
-    "description": "Build and run agents you can see, understand and trust. Production-ready framework with ReAct, memory, planning, and A2A support.",
+    "description": "Production-ready multi-agent framework with ReAct, memory, planning, and A2A support. Build and run agents you can see, understand and trust.",
     "category": "frameworks",
     "maintainer": "agentscope-ai",
     "tags": [
-      "trustworthy",
       "production-ready",
-      "a2a"
+      "a2a",
+      "trustworthy"
     ],
     "stars": 23021
   },
@@ -150,7 +113,7 @@
     "maintainer": "google",
     "tags": [
       "a2a",
-      "google",
+      "protocol",
       "standard"
     ],
     "stars": 23032
@@ -158,7 +121,7 @@
   {
     "name": "Mastra",
     "repo": "mastra-ai/mastra",
-    "description": "From the team behind Gatsby. A framework for building AI-powered applications and agents with modern TypeScript.",
+    "description": "TypeScript framework for building AI-powered multi-agent applications. From the team behind Gatsby.",
     "category": "frameworks",
     "maintainer": "mastra-ai",
     "tags": [
@@ -171,7 +134,7 @@
   {
     "name": "Swarm (OpenAI)",
     "repo": "openai/swarm",
-    "description": "Educational framework exploring ergonomic, lightweight multi-agent orchestration. Demonstrates handoffs and routines patterns.",
+    "description": "Educational framework exploring lightweight multi-agent orchestration. Demonstrates handoffs and routines patterns for agent coordination.",
     "category": "frameworks",
     "maintainer": "OpenAI",
     "tags": [
@@ -184,20 +147,33 @@
   {
     "name": "OpenAI Agents Python",
     "repo": "openai/openai-agents-python",
-    "description": "A lightweight, powerful framework for multi-agent workflows from OpenAI. Features handoffs, guardrails, and tracing.",
+    "description": "Production-ready multi-agent framework from OpenAI. Features agent handoffs, guardrails, and tracing for swarm workflows.",
     "category": "frameworks",
     "maintainer": "OpenAI",
     "tags": [
       "python",
-      "lightweight",
-      "handoffs"
+      "handoffs",
+      "tracing"
     ],
     "stars": 20587
   },
   {
+    "name": "OWL",
+    "repo": "camel-ai/owl",
+    "description": "Optimized Workforce Learning framework built on CAMEL-AI. #1 on GAIA benchmark (69.09) among open-source multi-agent systems for real-world task automation.",
+    "category": "intelligence",
+    "maintainer": "camel-ai",
+    "tags": [
+      "gaia-benchmark",
+      "task-automation",
+      "workforce"
+    ],
+    "stars": 19329
+  },
+  {
     "name": "Google ADK",
     "repo": "google/adk-python",
-    "description": "Open-source Python toolkit by Google for building, evaluating, and deploying sophisticated AI agents with multi-agent support.",
+    "description": "Open-source Python toolkit by Google for building, evaluating, and deploying multi-agent systems with orchestration support.",
     "category": "frameworks",
     "maintainer": "google",
     "tags": [
@@ -208,48 +184,23 @@
     "stars": 18765
   },
   {
-    "name": "DB-GPT",
-    "repo": "eosphoros-ai/DB-GPT",
-    "description": "AI Native Data App Development framework with AWEL (Agentic Workflow Expression Language) and Agents.",
-    "category": "orchestration",
-    "maintainer": "eosphoros-ai",
-    "tags": [
-      "data-app",
-      "workflow",
-      "awel"
-    ],
-    "stars": 18447
-  },
-  {
     "name": "CAMEL",
     "repo": "camel-ai/camel",
-    "description": "The first and the best multi-agent framework. Finding the Scaling Law of Agents.",
+    "description": "The first multi-agent framework. Finding the Scaling Law of Agents through role-playing and communicative agent collaboration.",
     "category": "intelligence",
     "maintainer": "camel-ai",
     "tags": [
       "scaling-law",
-      "research",
-      "multi-agent"
+      "role-playing",
+      "research"
     ],
-    "stars": 16601
-  },
-  {
-    "name": "mcp-use",
-    "repo": "mcp-use/mcp-use",
-    "description": "The fullstack MCP framework to develop MCP Apps for ChatGPT/Claude and MCP Servers for AI Agents.",
-    "category": "communication",
-    "maintainer": "mcp-use",
-    "tags": [
-      "mcp",
-      "fullstack",
-      "chatgpt"
-    ],
-    "stars": 9681
+    "stars": 16601,
+    "paper": "https://arxiv.org/abs/2303.17760"
   },
   {
     "name": "Spring AI Alibaba",
     "repo": "alibaba/spring-ai-alibaba",
-    "description": "Agentic AI framework for Java developers by Alibaba. Enterprise-grade multi-agent support with Spring ecosystem.",
+    "description": "Enterprise-grade multi-agent framework for Java developers by Alibaba. Spring ecosystem integration with agent orchestration.",
     "category": "frameworks",
     "maintainer": "alibaba",
     "tags": [
@@ -262,7 +213,7 @@
   {
     "name": "Microsoft Agent Framework",
     "repo": "microsoft/agent-framework",
-    "description": "A framework for building, orchestrating and deploying AI agents with support for Python and .NET.",
+    "description": "Framework for building, orchestrating and deploying multi-agent systems with support for Python and .NET.",
     "category": "frameworks",
     "maintainer": "microsoft",
     "tags": [
@@ -275,12 +226,12 @@
   {
     "name": "Agent Squad",
     "repo": "awslabs/agent-squad",
-    "description": "Flexible and powerful framework for managing multiple AI agents and handling complex conversations.",
+    "description": "AWS framework for managing multiple AI agents and handling complex conversations with intelligent routing.",
     "category": "orchestration",
     "maintainer": "awslabs",
     "tags": [
       "aws",
-      "flexible",
+      "routing",
       "conversations"
     ],
     "stars": 7554
@@ -288,41 +239,54 @@
   {
     "name": "MindSearch",
     "repo": "InternLM/MindSearch",
-    "description": "An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT).",
+    "description": "Multi-agent web search engine. Decomposes search queries into sub-tasks, delegates to specialized agents, and aggregates results.",
     "category": "task-decomposition",
     "maintainer": "InternLM",
     "tags": [
       "web-search",
-      "perplexity-like",
-      "research"
+      "decomposition",
+      "aggregation"
     ],
     "stars": 6830
   },
   {
     "name": "PraisonAI",
     "repo": "MervinPraison/PraisonAI",
-    "description": "Production-ready Multi AI Agents framework. Low-code solution for multi-agent LLM systems with 100+ tools.",
+    "description": "Low-code multi-agent framework with 100+ built-in tools. Define agent swarms via YAML configuration.",
     "category": "frameworks",
     "maintainer": "MervinPraison",
     "tags": [
       "low-code",
-      "production-ready",
-      "customizable"
+      "yaml-config",
+      "tools"
     ],
     "stars": 6725
   },
   {
     "name": "Swarms",
     "repo": "kyegomez/swarms",
-    "description": "The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework. Supports sequential, parallel, and hierarchical swarm patterns.",
+    "description": "Enterprise-grade multi-agent orchestration framework. Sequential, parallel, hierarchical, and mesh swarm topologies.",
     "category": "frameworks",
     "maintainer": "kyegomez",
     "tags": [
       "enterprise",
-      "orchestration",
+      "topologies",
       "production-ready"
     ],
     "stars": 6196
+  },
+  {
+    "name": "NeMo Guardrails",
+    "repo": "NVIDIA/NeMo-Guardrails",
+    "description": "NVIDIA's toolkit for adding programmable guardrails to LLM systems. Policy-based safety controls for multi-agent deployments.",
+    "category": "safety",
+    "maintainer": "NVIDIA",
+    "tags": [
+      "guardrails",
+      "nvidia",
+      "policy-engine"
+    ],
+    "stars": 5928
   },
   {
     "name": "Open Multi-Agent",
@@ -338,28 +302,28 @@
     "stars": 4942
   },
   {
-    "name": "Casibase",
-    "repo": "casibase/casibase",
-    "description": "AI Cloud OS: Enterprise-level AI knowledge base and MCP/A2A management platform with admin UI.",
-    "category": "communication",
-    "maintainer": "casibase",
+    "name": "ClawTeam",
+    "repo": "HKUDS/ClawTeam",
+    "description": "Agent Swarm Intelligence framework. Agents self-organize into collaborative teams with dynamic task allocation, inter-agent messaging, and git worktree isolation.",
+    "category": "intelligence",
+    "maintainer": "HKUDS",
     "tags": [
-      "a2a",
-      "mcp",
-      "enterprise"
+      "self-organizing",
+      "swarm-intelligence",
+      "git-worktree"
     ],
-    "stars": 4496
+    "stars": 4470
   },
   {
     "name": "Agency Swarm",
     "repo": "VRSEN/agency-swarm",
-    "description": "Reliable Multi-Agent Orchestration Framework for building agent teams with OpenAI Assistants API.",
+    "description": "Multi-agent orchestration framework built on OpenAI Agents SDK. Define agent teams with customizable roles and communication flows.",
     "category": "frameworks",
     "maintainer": "VRSEN",
     "tags": [
       "orchestration",
-      "reliable",
-      "agent-teams"
+      "agent-teams",
+      "openai-sdk"
     ],
     "stars": 4144
   },
@@ -370,191 +334,76 @@
     "category": "role-teams",
     "maintainer": "agentscope-ai",
     "tags": [
-      "collaborative",
+      "manager-workers",
       "human-in-the-loop",
       "enterprise"
     ],
     "stars": 3904
   },
   {
+    "name": "EvoMap",
+    "repo": "EvoMap/evolver",
+    "description": "Agent Swarm platform with task decomposition, Worker Pool orchestration, Evolution Circles, AI Council multi-agent governance, Privacy Computing, and ARC-AGI-2 arena.",
+    "category": "frameworks",
+    "maintainer": "EvoMap",
+    "tags": [
+      "swarm",
+      "evolution",
+      "governance"
+    ],
+    "stars": 1832
+  },
+  {
     "name": "AFlow",
     "repo": "geekan/AFlow",
-    "description": "Automating agentic workflow generation. Automatically designs optimal multi-agent workflows for given tasks via Monte Carlo tree search.",
+    "description": "Automated multi-agent workflow generation via Monte Carlo tree search. Designs optimal agent topologies for given tasks.",
     "category": "task-decomposition",
     "maintainer": "geekan",
     "tags": [
-      "workflow-automation",
+      "mcts",
       "auto-design",
-      "mcts"
+      "topology"
     ],
-    "stars": 1500
-  },
-  {
-    "name": "Python A2A",
-    "repo": "themanojdesai/python-a2a",
-    "description": "A powerful library for implementing Google's Agent-to-Agent (A2A) protocol for seamless inter-agent communication.",
-    "category": "communication",
-    "maintainer": "themanojdesai",
-    "tags": [
-      "a2a",
-      "google",
-      "python"
-    ],
-    "stars": 988
+    "stars": 1500,
+    "paper": "https://arxiv.org/abs/2410.10762"
   },
   {
     "name": "LatentMAS",
     "repo": "Gen-Verse/LatentMAS",
-    "description": "Latent collaboration in multi-agent systems. Agents reason and collaborate in continuous latent space instead of natural language.",
+    "description": "Latent collaboration in multi-agent systems. Agents reason and collaborate in continuous latent space instead of natural language, reducing communication overhead.",
     "category": "intelligence",
     "maintainer": "Gen-Verse",
     "tags": [
       "latent-reasoning",
-      "continuous-reasoning",
+      "continuous-space",
       "research"
     ],
-    "stars": 859
-  },
-  {
-    "name": "A2A x402",
-    "repo": "google-agentic-commerce/a2a-x402",
-    "description": "The A2A x402 Extension brings cryptocurrency payments to the Agent-to-Agent protocol, enabling agents to monetize their services.",
-    "category": "communication",
-    "maintainer": "google-agentic-commerce",
-    "tags": [
-      "a2a",
-      "payments",
-      "crypto"
-    ],
-    "stars": 486
-  },
-  {
-    "name": "ATLAS MCP Server",
-    "repo": "cyanheads/atlas-mcp-server",
-    "description": "Neo4j-powered task management system for LLM Agents with three-tier architecture (Projects, Tasks, Knowledge).",
-    "category": "task-decomposition",
-    "maintainer": "cyanheads",
-    "tags": [
-      "mcp",
-      "neo4j",
-      "task-management"
-    ],
-    "stars": 471
+    "stars": 859,
+    "paper": "https://arxiv.org/abs/2506.06637"
   },
   {
     "name": "Coral Anemoi",
     "repo": "Coral-Protocol/Anemoi",
-    "description": "A Semi-Centralized Multi-agent System based on Agent-to-Agent Communication MCP server.",
+    "description": "Semi-centralized multi-agent coordination via Agent-to-Agent Communication MCP server. Enables cross-framework agent collaboration.",
     "category": "communication",
     "maintainer": "Coral-Protocol",
     "tags": [
       "a2a",
       "mcp",
-      "semi-centralized"
+      "cross-framework"
     ],
     "stars": 373
   },
   {
-    "name": "A2A Go",
-    "repo": "a2aproject/a2a-go",
-    "description": "Golang SDK for the A2A Protocol. Type-safe agent-to-agent communication for Go developers.",
-    "category": "communication",
-    "maintainer": "a2aproject",
-    "tags": [
-      "a2a",
-      "golang",
-      "sdk"
-    ],
-    "stars": 333
-  },
-  {
-    "name": "Mangaba AI",
-    "repo": "Mangaba-ai/mangaba_ai",
-    "description": "Minimal framework for creating AI agents with A2A and MCP protocols.",
-    "category": "communication",
-    "maintainer": "Mangaba-ai",
-    "tags": [
-      "a2a",
-      "mcp",
-      "minimal"
-    ],
-    "stars": 189
-  },
-  {
-    "name": "A2A MCP Server",
-    "repo": "GongRzhe/A2A-MCP-Server",
-    "description": "Bridges Model Context Protocol with Agent-to-Agent protocol, enabling MCP-compatible assistants to interact with A2A agents.",
-    "category": "communication",
-    "maintainer": "GongRzhe",
-    "tags": [
-      "a2a",
-      "mcp",
-      "bridge"
-    ],
-    "stars": 146
-  },
-  {
-    "name": "NeMo Guardrails",
-    "repo": "NVIDIA/NeMo-Guardrails",
-    "description": "NVIDIA's toolkit for adding programmable guardrails to LLM conversational systems. Policy-based safety controls for agent swarms.",
-    "category": "safety",
-    "maintainer": "NVIDIA",
-    "tags": [
-      "guardrails",
-      "nvidia",
-      "policy-engine"
-    ],
-    "stars": 5928
-  },
-  {
-    "name": "Learn Agentic AI",
-    "repo": "panaversity/learn-agentic-ai",
-    "description": "Comprehensive curriculum covering DACA Design Pattern, OpenAI Agents SDK, Memory, MCP, A2A, Knowledge Graphs, Dapr, and Kubernetes.",
-    "category": "community",
-    "maintainer": "panaversity",
-    "tags": [
-      "education",
-      "a2a",
-      "mcp"
-    ],
-    "stars": 4052
-  },
-  {
     "name": "GEP MCP Server",
     "repo": "EvoMap/gep-mcp-server",
-    "description": "MCP Server for Genome Evolution Protocol. Exposes evolution tools to Claude Desktop, Cursor, and any MCP client.",
+    "description": "MCP Server for Genome Evolution Protocol. Exposes swarm evolution tools to Claude Desktop, Cursor, and any MCP client.",
     "category": "communication",
     "maintainer": "EvoMap",
     "tags": [
       "gep",
       "mcp",
       "evolution-tools"
-    ],
-    "stars": 0
-  },
-  {
-    "name": "Vigil",
-    "repo": "hexitlabs/vigil",
-    "description": "TypeScript agent guardrail with <2ms latency and zero dependencies. Validates agent actions against 22 security rules.",
-    "category": "safety",
-    "maintainer": "hexitlabs",
-    "tags": [
-      "typescript",
-      "low-latency",
-      "action-validation"
-    ],
-    "stars": 5
-  },
-  {
-    "name": "Agent Guardrail",
-    "repo": "eren-solutions/agent-guardrail",
-    "description": "Action-level governance for AI agents. Policy engine, spend caps, kill switches, flight recorder, and approval gates.",
-    "category": "safety",
-    "maintainer": "eren-solutions",
-    "tags": [
-      "action-governance",
-      "policy-engine",
-      "audit"
     ],
     "stars": 0
   }
