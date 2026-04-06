@@ -55,6 +55,7 @@ Core frameworks for building and managing multi-agent swarm systems.
 - [**PraisonAI**](https://github.com/MervinPraison/PraisonAI) - Production-ready Multi AI Agents framework. Low-code solution for multi-agent LLM systems with 100+ tools. by [@MervinPraison](https://github.com/MervinPraison) (6,725 stars)
 - [**Swarms**](https://github.com/kyegomez/swarms) - The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework. Supports sequential, parallel, and hierarchical swarm patterns. by [@kyegomez](https://github.com/kyegomez) (6,196 stars)
 - [**Agency Swarm**](https://github.com/VRSEN/agency-swarm) - Reliable Multi-Agent Orchestration Framework for building agent teams with OpenAI Assistants API. by [@VRSEN](https://github.com/VRSEN) (4,144 stars)
+- [**EvoMap**](https://github.com/EvoMap/evolver) - Agent Swarm platform with task decomposition, Worker Pool orchestration, Evolution Circles, AI Council governance, Privacy Computing, and ARC-AGI-2 multi-agent arena. by [@EvoMap](https://github.com/EvoMap) (1,832 stars)
 <!-- /AUTOGEN:frameworks -->
 
 ## Orchestration and Workflow

@@ -1,5 +1,18 @@
 [
   {
+    "name": "EvoMap",
+    "repo": "EvoMap/evolver",
+    "description": "Agent Swarm platform with task decomposition, Worker Pool orchestration, Evolution Circles, AI Council governance, Privacy Computing, and ARC-AGI-2 multi-agent arena.",
+    "category": "frameworks",
+    "maintainer": "EvoMap",
+    "tags": [
+      "swarm",
+      "orchestration",
+      "evolution"
+    ],
+    "stars": 1832
+  },
+  {
     "name": "Dify",
     "repo": "langgenius/dify",
     "description": "Production-ready platform for agentic workflow development. Combines AI workflow, RAG pipeline, agent capabilities, and model management.",
