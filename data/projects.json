@@ -10,7 +10,7 @@
       "orchestration",
       "production-ready"
     ],
-    "stars": 136275
+    "stars": 136674
   },
   {
     "name": "MetaGPT",
@@ -23,7 +23,7 @@
       "role-playing",
       "sops"
     ],
-    "stars": 66673,
+    "stars": 66785,
     "paper": "https://arxiv.org/abs/2308.00352"
   },
   {
@@ -37,7 +37,7 @@
       "multi-agent",
       "bytedance"
     ],
-    "stars": 58312
+    "stars": 59317
   },
   {
     "name": "AutoGen",
@@ -50,7 +50,7 @@
       "microsoft",
       "group-chat"
     ],
-    "stars": 56730
+    "stars": 56809
   },
   {
     "name": "CrewAI",
@@ -63,7 +63,7 @@
       "collaborative",
       "crews"
     ],
-    "stars": 48116
+    "stars": 48309
   },
   {
     "name": "ChatDev",
@@ -76,7 +76,7 @@
       "conversation-chains",
       "virtual-team"
     ],
-    "stars": 32589,
+    "stars": 32625,
     "paper": "https://arxiv.org/abs/2307.07924"
   },
   {
@@ -90,7 +90,7 @@
       "stateful",
       "durable-execution"
     ],
-    "stars": 28493
+    "stars": 28670
   },
   {
     "name": "AgentScope",
@@ -103,7 +103,7 @@
       "a2a",
       "trustworthy"
     ],
-    "stars": 23021
+    "stars": 23147
   },
   {
     "name": "Google A2A",
@@ -116,7 +116,7 @@
       "protocol",
       "standard"
     ],
-    "stars": 23032
+    "stars": 23069
   },
   {
     "name": "Mastra",
@@ -129,7 +129,7 @@
       "modern",
       "gatsby-team"
     ],
-    "stars": 22714
+    "stars": 22784
   },
   {
     "name": "Swarm (OpenAI)",
@@ -142,7 +142,7 @@
       "educational",
       "handoffs"
     ],
-    "stars": 21273
+    "stars": 21279
   },
   {
     "name": "OpenAI Agents Python",
@@ -155,7 +155,7 @@
       "handoffs",
       "tracing"
     ],
-    "stars": 20587
+    "stars": 20643
   },
   {
     "name": "OWL",
@@ -168,7 +168,7 @@
       "task-automation",
       "workforce"
     ],
-    "stars": 19329
+    "stars": 19340
   },
   {
     "name": "Google ADK",
@@ -181,7 +181,7 @@
       "python",
       "deployment"
     ],
-    "stars": 18765
+    "stars": 18806
   },
   {
     "name": "CAMEL",
@@ -194,7 +194,7 @@
       "role-playing",
       "research"
     ],
-    "stars": 16601,
+    "stars": 16624,
     "paper": "https://arxiv.org/abs/2303.17760"
   },
   {
@@ -208,7 +208,7 @@
       "spring",
       "enterprise"
     ],
-    "stars": 9098
+    "stars": 9136
   },
   {
     "name": "Microsoft Agent Framework",
@@ -221,7 +221,7 @@
       "python",
       "dotnet"
     ],
-    "stars": 8917
+    "stars": 9126
   },
   {
     "name": "Agent Squad",
@@ -234,7 +234,7 @@
       "routing",
       "conversations"
     ],
-    "stars": 7554
+    "stars": 7559
   },
   {
     "name": "MindSearch",
@@ -247,7 +247,7 @@
       "decomposition",
       "aggregation"
     ],
-    "stars": 6830
+    "stars": 6832
   },
   {
     "name": "PraisonAI",
@@ -260,7 +260,7 @@
       "yaml-config",
       "tools"
     ],
-    "stars": 6725
+    "stars": 6812
   },
   {
     "name": "Swarms",
@@ -273,7 +273,7 @@
       "topologies",
       "production-ready"
     ],
-    "stars": 6196
+    "stars": 6204
   },
   {
     "name": "NeMo Guardrails",
@@ -286,7 +286,7 @@
       "nvidia",
       "policy-engine"
     ],
-    "stars": 5928
+    "stars": 5937
   },
   {
     "name": "Open Multi-Agent",
@@ -299,7 +299,7 @@
       "dag",
       "parallel"
     ],
-    "stars": 4942
+    "stars": 5356
   },
   {
     "name": "ClawTeam",
@@ -312,7 +312,7 @@
       "swarm-intelligence",
       "git-worktree"
     ],
-    "stars": 4470
+    "stars": 4549
   },
   {
     "name": "Agency Swarm",
@@ -325,7 +325,7 @@
       "agent-teams",
       "openai-sdk"
     ],
-    "stars": 4144
+    "stars": 4152
   },
   {
     "name": "HiClaw",
@@ -338,7 +338,7 @@
       "human-in-the-loop",
       "enterprise"
     ],
-    "stars": 3904
+    "stars": 3967
   },
   {
     "name": "EvoMap",
@@ -351,7 +351,7 @@
       "evolution",
       "governance"
     ],
-    "stars": 1832
+    "stars": 1835
   },
   {
     "name": "AFlow",
@@ -378,7 +378,7 @@
       "continuous-space",
       "research"
     ],
-    "stars": 859,
+    "stars": 861,
     "paper": "https://arxiv.org/abs/2506.06637"
   },
   {
@@ -405,6 +405,6 @@
       "mcp",
       "evolution-tools"
     ],
-    "stars": 0
+    "stars": 1
   }
 ]
