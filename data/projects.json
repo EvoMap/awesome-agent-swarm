@@ -10,7 +10,7 @@
       "orchestration",
       "production-ready"
     ],
-    "stars": 136674
+    "stars": 137817
   },
   {
     "name": "MetaGPT",
@@ -23,7 +23,7 @@
       "role-playing",
       "sops"
     ],
-    "stars": 66785,
+    "stars": 67082,
     "paper": "https://arxiv.org/abs/2308.00352"
   },
   {
@@ -37,7 +37,7 @@
       "multi-agent",
       "bytedance"
     ],
-    "stars": 59317
+    "stars": 61643
   },
   {
     "name": "AutoGen",
@@ -50,7 +50,7 @@
       "microsoft",
       "group-chat"
     ],
-    "stars": 56809
+    "stars": 57099
   },
   {
     "name": "CrewAI",
@@ -63,7 +63,7 @@
       "collaborative",
       "crews"
     ],
-    "stars": 48309
+    "stars": 48922
   },
   {
     "name": "ChatDev",
@@ -76,7 +76,7 @@
       "conversation-chains",
       "virtual-team"
     ],
-    "stars": 32625,
+    "stars": 32715,
     "paper": "https://arxiv.org/abs/2307.07924"
   },
   {
@@ -90,7 +90,7 @@
       "stateful",
       "durable-execution"
     ],
-    "stars": 28670
+    "stars": 29306
   },
   {
     "name": "AgentScope",
@@ -103,7 +103,7 @@
       "a2a",
       "trustworthy"
     ],
-    "stars": 23147
+    "stars": 23752
   },
   {
     "name": "Google A2A",
@@ -116,7 +116,7 @@
       "protocol",
       "standard"
     ],
-    "stars": 23069
+    "stars": 23201
   },
   {
     "name": "Mastra",
@@ -129,7 +129,7 @@
       "modern",
       "gatsby-team"
     ],
-    "stars": 22784
+    "stars": 23012
   },
   {
     "name": "Swarm (OpenAI)",
@@ -142,7 +142,7 @@
       "educational",
       "handoffs"
     ],
-    "stars": 21279
+    "stars": 21311
   },
   {
     "name": "OpenAI Agents Python",
@@ -155,7 +155,7 @@
       "handoffs",
       "tracing"
     ],
-    "stars": 20643
+    "stars": 20784
   },
   {
     "name": "OWL",
@@ -168,7 +168,7 @@
       "task-automation",
       "workforce"
     ],
-    "stars": 19340
+    "stars": 19654
   },
   {
     "name": "Google ADK",
@@ -181,7 +181,7 @@
       "python",
       "deployment"
     ],
-    "stars": 18806
+    "stars": 18988
   },
   {
     "name": "CAMEL",
@@ -194,7 +194,7 @@
       "role-playing",
       "research"
     ],
-    "stars": 16624,
+    "stars": 16693,
     "paper": "https://arxiv.org/abs/2303.17760"
   },
   {
@@ -208,7 +208,7 @@
       "spring",
       "enterprise"
     ],
-    "stars": 9136
+    "stars": 9243
   },
   {
     "name": "Microsoft Agent Framework",
@@ -221,7 +221,7 @@
       "python",
       "dotnet"
     ],
-    "stars": 9126
+    "stars": 9462
   },
   {
     "name": "Agent Squad",
@@ -234,7 +234,7 @@
       "routing",
       "conversations"
     ],
-    "stars": 7559
+    "stars": 7570
   },
   {
     "name": "MindSearch",
@@ -247,7 +247,7 @@
       "decomposition",
       "aggregation"
     ],
-    "stars": 6832
+    "stars": 6839
   },
   {
     "name": "PraisonAI",
@@ -260,7 +260,7 @@
       "yaml-config",
       "tools"
     ],
-    "stars": 6812
+    "stars": 6934
   },
   {
     "name": "Swarms",
@@ -273,7 +273,7 @@
       "topologies",
       "production-ready"
     ],
-    "stars": 6204
+    "stars": 6235
   },
   {
     "name": "NeMo Guardrails",
@@ -286,7 +286,7 @@
       "nvidia",
       "policy-engine"
     ],
-    "stars": 5937
+    "stars": 5977
   },
   {
     "name": "Open Multi-Agent",
@@ -299,7 +299,7 @@
       "dag",
       "parallel"
     ],
-    "stars": 5356
+    "stars": 5708
   },
   {
     "name": "ClawTeam",
@@ -312,7 +312,7 @@
       "swarm-intelligence",
       "git-worktree"
     ],
-    "stars": 4549
+    "stars": 4769
   },
   {
     "name": "Agency Swarm",
@@ -325,7 +325,7 @@
       "agent-teams",
       "openai-sdk"
     ],
-    "stars": 4152
+    "stars": 4212
   },
   {
     "name": "HiClaw",
@@ -338,7 +338,7 @@
       "human-in-the-loop",
       "enterprise"
     ],
-    "stars": 3967
+    "stars": 4104
   },
   {
     "name": "EvoMap",
@@ -351,7 +351,7 @@
       "evolution",
       "governance"
     ],
-    "stars": 1835
+    "stars": 1898
   },
   {
     "name": "AFlow",
@@ -378,7 +378,7 @@
       "continuous-space",
       "research"
     ],
-    "stars": 861,
+    "stars": 873,
     "paper": "https://arxiv.org/abs/2506.06637"
   },
   {
@@ -392,7 +392,7 @@
       "mcp",
       "cross-framework"
     ],
-    "stars": 373
+    "stars": 374
   },
   {
     "name": "GEP MCP Server",
