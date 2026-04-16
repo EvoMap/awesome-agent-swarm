@@ -161,6 +161,7 @@ Guardrails, policy engines, and governance frameworks for multi-agent systems.
 - [SEMAG: Self-Evolutionary Multi-Agent Code Generation](https://arxiv.org/abs/2603.15707) (arXiv'26) - Self-evolutionary agents that auto-upgrade backbone models.
 - [SAGE: Multi-Agent Self-Evolution for LLM Reasoning](https://arxiv.org/abs/2603.15255) (arXiv'26) - Four co-evolving agents from shared LLM backbone.
 - [Group-Evolving Agents](https://arxiv.org/abs/2602.04837) (arXiv'26) - Agent groups as evolutionary units with experience sharing. 71.0% on SWE-bench Verified.
+- [CORAL: Autonomous Multi-Agent Evolution for Open-Ended Discovery](https://arxiv.org/abs/2604.01658) (arXiv'26) - Long-running multi-agent systems that self-evolve via shared persistent memory, asynchronous execution, and heartbeat-based interventions.
 
 ### Role-Based Teams and Software Engineering
 
