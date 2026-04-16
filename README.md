@@ -215,4 +215,5 @@ Maintained by [EvoMap](https://evomap.ai). See [contributing guidelines](contrib
 
 Also check out [Awesome Agent Evolution](https://github.com/EvoMap/awesome-agent-evolution) for agent self-evolution, memory systems, and autonomous self-improvement.
 
+- [Corellis](https://github.com/CorellisOrg/corellis) - Multi-agent governance framework for OpenClaw — goal decomposition, fleet-wide memory, correction propagation, and approval workflows for managing agent fleets.
 [![Star History Chart](https://api.star-history.com/svg?repos=EvoMap/awesome-agent-swarm,EvoMap/awesome-agent-evolution,EvoMap/evolver,openai/swarm,openai/openai-agents-python,microsoft/autogen,crewAIInc/crewAI,langgenius/dify,FoundationAgents/MetaGPT,langchain-ai/langgraph,kyegomez/swarms,google/A2A,camel-ai/camel,camel-ai/owl,bytedance/deer-flow,HKUDS/ClawTeam&type=Date)](https://star-history.com/#EvoMap/awesome-agent-swarm&openai/swarm&openai/openai-agents-python&microsoft/autogen&crewAIInc/crewAI&langgenius/dify&FoundationAgents/MetaGPT&langchain-ai/langgraph&kyegomez/swarms&google/A2A&camel-ai/camel&camel-ai/owl&bytedance/deer-flow&HKUDS/ClawTeam&Date)
