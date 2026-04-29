@@ -1,0 +1,2252 @@
+[
+  {
+    "repo": "lobehub/lobehub",
+    "description": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo",
+    "stars": 75825,
+    "suggestedCategory": "role-teams",
+    "allMatchedCategories": [
+      "role-teams"
+    ],
+    "topics": [
+      "agent",
+      "agent-collaboration",
+      "agent-harness",
+      "ai",
+      "chatgpt",
+      "claude",
+      "deepseek",
+      "gemini",
+      "gpt",
+      "knowledge-base"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "TauricResearch/TradingAgents",
+    "description": "Multi-agent LLM financial trading framework with fund manager, analyst, and risk advisor roles.",
+    "stars": 54512,
+    "suggestedCategory": "intelligence",
+    "allMatchedCategories": [
+      "frameworks"
+    ],
+    "topics": [
+      "agent",
+      "finance",
+      "llm",
+      "multiagent",
+      "trading"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "wshobson/agents",
+    "description": "Intelligent automation and multi-agent orchestration for Claude Code",
+    "stars": 34497,
+    "suggestedCategory": "swarm-coding",
+    "allMatchedCategories": [
+      "swarm-coding"
+    ],
+    "topics": [
+      "agents",
+      "anthropic",
+      "anthropic-claude",
+      "automation",
+      "claude",
+      "claude-code",
+      "claude-code-cli",
+      "claude-code-commands",
+      "claude-code-plugin",
+      "claude-code-plugins"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "ruvnet/ruflo",
+    "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archit",
+    "stars": 33911,
+    "suggestedCategory": "orchestration",
+    "allMatchedCategories": [
+      "orchestration",
+      "intelligence",
+      "swarm-coding"
+    ],
+    "topics": [
+      "agentic-ai",
+      "agentic-engineering",
+      "agentic-framework",
+      "agentic-rag",
+      "agentic-workflow",
+      "agents",
+      "ai-assistant",
+      "ai-tools",
+      "anthropic-claude",
+      "autonomous-agents"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "Yeachan-Heo/oh-my-claudecode",
+    "description": "Teams-first Multi-agent orchestration for Claude Code",
+    "stars": 31842,
+    "suggestedCategory": "swarm-coding",
+    "allMatchedCategories": [
+      "swarm-coding"
+    ],
+    "topics": [
+      "agentic-coding",
+      "ai-agents",
+      "automation",
+      "claude",
+      "claude-code",
+      "multi-agent-systems",
+      "oh-my-opencode",
+      "opencode",
+      "parallel-execution",
+      "vibe-coding"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "labring/FastGPT",
+    "description": "Knowledge-based platform built on LLMs with comprehensive out-of-the-box data processing and workflow orchestration.",
+    "stars": 27868,
+    "suggestedCategory": "orchestration",
+    "allMatchedCategories": [
+      "orchestration"
+    ],
+    "topics": [
+      "agent",
+      "claude",
+      "deepseek",
+      "llm",
+      "mcp",
+      "nextjs",
+      "openai",
+      "qwen",
+      "rag",
+      "workflow"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "deepset-ai/haystack",
+    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications.",
+    "stars": 25013,
+    "suggestedCategory": "orchestration",
+    "allMatchedCategories": [
+      "orchestration"
+    ],
+    "topics": [
+      "agent",
+      "agents",
+      "ai",
+      "gemini",
+      "generative-ai",
+      "gpt-4",
+      "information-retrieval",
+      "large-language-models",
+      "llm",
+      "machine-learning"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "a2aproject/A2A",
+    "description": "Agent2Agent open protocol by Google enabling communication and interoperability between opaque agent systems.",
+    "stars": 23491,
+    "suggestedCategory": "communication",
+    "allMatchedCategories": [
+      "communication"
+    ],
+    "topics": [
+      "a2a",
+      "a2a-mcp",
+      "a2a-protocol",
+      "a2a-server",
+      "agents",
+      "generative-ai",
+      "linux-foundation"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "langchain-ai/deepagents",
+    "description": "Agent harness built with LangChain and LangGraph with planning, filesystem backend, and multi-agent collaboration.",
+    "stars": 21967,
+    "suggestedCategory": "task-decomposition",
+    "allMatchedCategories": [
+      "task-decomposition"
+    ],
+    "topics": [
+      "ai",
+      "deepagents",
+      "langchain",
+      "langgraph"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "elizaOS/eliza",
+    "description": "Autonomous agent framework for building and deploying multi-agent swarms with personality-driven interactions.",
+    "stars": 18275,
+    "suggestedCategory": "frameworks",
+    "allMatchedCategories": [
+      "frameworks"
+    ],
+    "topics": [
+      "agent",
+      "agentic",
+      "ai",
+      "autonomous",
+      "chatbot",
+      "crypto",
+      "discord",
+      "eliza",
+      "elizaos",
+      "framework"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "raga-ai-hub/RagaAI-Catalyst",
+    "description": "Python SDK for Agent AI Observability, Monitoring and Evaluation Framework. Includes features like agent, llm and tools tracing, debugging multi-agentic system, self-hosted dashboard and advanced anal",
+    "stars": 16146,
+    "suggestedCategory": "frameworks",
+    "allMatchedCategories": [
+      "frameworks"
+    ],
+    "topics": [
+      "agentic-ai",
+      "agentic-ai-development",
+      "agentneo",
+      "agents",
+      "ai-agent-monitoring",
+      "ai-application-debugging",
+      "ai-evaluation-tools",
+      "ai-performance-optimization",
+      "ai-tool-interaction-monitoring",
+      "llm-testing"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "triggerdotdev/trigger.dev",
+    "description": "Build and deploy fully managed AI agents and multi-agent workflows with durable execution.",
+    "stars": 14702,
+    "suggestedCategory": "orchestration",
+    "allMatchedCategories": [
+      "orchestration"
+    ],
+    "topics": [
+      "ai",
+      "ai-agent-framework",
+      "ai-agents",
+      "automation",
+      "background-jobs",
+      "mcp",
+      "mcp-server",
+      "nextjs",
+      "orchestration",
+      "scheduler"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "dataelement/bisheng",
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SF",
+    "stars": 11336,
+    "suggestedCategory": "orchestration",
+    "allMatchedCategories": [
+      "orchestration"
+    ],
+    "topics": [
+      "agent",
+      "ai",
+      "chatbot",
+      "enterprise",
+      "finetune",
+      "genai",
+      "gpt",
+      "langchian",
+      "llama",
+      "llm"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "mcp-use/mcp-use",
+    "description": "Fullstack MCP framework to develop MCP applications for ChatGPT, Claude, and AI agents.",
+    "stars": 9850,
+    "suggestedCategory": "communication",
+    "allMatchedCategories": [
+      "communication"
+    ],
+    "topics": [
+      "agentic-framework",
+      "ai",
+      "apps-sdk",
+      "chatgpt",
+      "claude-code",
+      "llms",
+      "mcp",
+      "mcp-apps",
+      "mcp-client",
+      "mcp-gateway"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "yzhao062/pyod",
+    "description": "A Python library for anomaly detection across tabular, time series, graph, text, and image data. 60+ detectors, benchmark-backed ADEngine orchestration, and an agentic workflow for AI agents.",
+    "stars": 9829,
+    "suggestedCategory": "orchestration",
+    "allMatchedCategories": [
+      "orchestration"
+    ],
+    "topics": [
+      "agentic-ai",
+      "anomaly-detection",
+      "data-mining",
+      "data-science",
+      "deep-learning",
+      "foundation-models",
+      "fraud-detection",
+      "graph-anomaly-detection",
+      "image-anomaly-detection",
+      "machine-learning"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "Piebald-AI/claude-code-system-prompts",
+    "description": "All parts of Claude Code's system prompt, 24 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact,  statusline, magic docs, WebFetch, Bash cmd, securit",
+    "stars": 9671,
+    "suggestedCategory": "task-decomposition",
+    "allMatchedCategories": [
+      "task-decomposition"
+    ],
+    "topics": [
+      "claude-code",
+      "claude-code-system-prompts",
+      "system-prompts"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "YishenTu/claudian",
+    "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
+    "stars": 9525,
+    "suggestedCategory": "swarm-coding",
+    "allMatchedCategories": [
+      "swarm-coding"
+    ],
+    "topics": [
+      "claude-code",
+      "ide",
+      "obsidian",
+      "obsidian-plugin",
+      "productivity"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "jnMetaCode/agency-agents-zh",
+    "description": "🎭 211 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 16 种工具，覆盖工程/设计/营销/金融等 18 个部门。含 46 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉等）",
+    "stars": 9014,
+    "suggestedCategory": "swarm-coding",
+    "allMatchedCategories": [
+      "swarm-coding"
+    ],
+    "topics": [
+      "agency-orchestrator",
+      "agent-definitions",
+      "ai-agents",
+      "ai-roles",
+      "chinese",
+      "claude",
+      "claude-code",
+      "copilot-agent",
+      "cursor-rules",
+      "deepseek"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "iflytek/astron-agent",
+    "description": "Enterprise-grade, commercial-friendly agentic workflow platform by iFlytek for building next-generation SuperAgents.",
+    "stars": 8813,
+    "suggestedCategory": "orchestration",
+    "allMatchedCategories": [
+      "orchestration"
+    ],
+    "topics": [
+      "agent",
+      "agentic-workflow",
+      "ai",
+      "enterprise",
+      "iflytek-astron",
+      "llm",
+      "low-code",
+      "mcp",
+      "multi-agent",
+      "next-gen"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "kreuzberg-dev/kreuzberg",
+    "description": "A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 97+ formats. Available for Rust, Python",
+    "stars": 8133,
+    "suggestedCategory": "communication",
+    "allMatchedCategories": [
+      "communication"
+    ],
+    "topics": [
+      "bun",
+      "csharp",
+      "document-intelligence",
+      "elixir",
+      "ffi",
+      "golang",
+      "java",
+      "metadata-extraction",
+      "node",
+      "pdf-extraction"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "automazeio/ccpm",
+    "description": "Project management skill system for Agents that uses GitHub Issues and Git worktrees for parallel agent execution.",
+    "stars": 8050,
+    "suggestedCategory": "task-decomposition",
+    "allMatchedCategories": [
+      "task-decomposition"
+    ],
+    "topics": [
+      "ai-agents",
+      "ai-coding",
+      "claude",
+      "claude-code",
+      "project-management",
+      "vibe-coding"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "webiny/webiny-js",
+    "description": "Open-source, self-hosted CMS platform on AWS serverless (Lambda, DynamoDB, S3). TypeScript framework with multi-tenancy, lifecycle hooks, GraphQL API, and AI-assisted development via MCP server. Built",
+    "stars": 7971,
+    "suggestedCategory": "communication",
+    "allMatchedCategories": [
+      "communication"
+    ],
+    "topics": [
+      "ai-assisted-development",
+      "aws",
+      "aws-lambda",
+      "cms",
+      "graphql",
+      "headless-cms",
+      "lambda",
+      "lambda-functions",
+      "mcp",
+      "multi-tenant"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "ringhyacinth/Star-Office-UI",
+    "description": "A pixel office for your OpenClaw: turn invisible work states into a cozy little space with characters, daily notes, and guest agents. Code under MIT; art assets for non-commercial learning only.",
+    "stars": 6896,
+    "suggestedCategory": "swarm-coding",
+    "allMatchedCategories": [
+      "swarm-coding"
+    ],
+    "topics": [
+      "agent-collaboration",
+      "ai-assistant",
+      "dashboard",
+      "flask",
+      "mobile-friendly",
+      "multi-agent",
+      "openclaw",
+      "phaser",
+      "pixel-art",
+      "status-visiualzation"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "ComposioHQ/agent-orchestrator",
+    "description": "Agentic orchestrator for parallel coding agents with task planning, agent spawning, and autonomous handoffs.",
+    "stars": 6618,
+    "suggestedCategory": "task-decomposition",
+    "allMatchedCategories": [
+      "task-decomposition",
+      "swarm-coding"
+    ],
+    "topics": [
+      "agent-fleet",
+      "agent-swarm",
+      "claude-code",
+      "codex-cli",
+      "git-worktrees",
+      "multi-agent",
+      "orchestration",
+      "orchestrator",
+      "parallel-agents",
+      "parallel-coding"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "kuafuai/DevOpsGPT",
+    "description": "Multi agent system for AI-driven software development. Combine LLM with DevOps tools to convert natural language requirements into working software. Supports any development language and extends the e",
+    "stars": 5957,
+    "suggestedCategory": "swarm-coding",
+    "allMatchedCategories": [
+      "swarm-coding"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "sentient-agi/ROMA",
+    "description": "Recursive Open Meta-Agent framework to build high-performance multi-agent applications with composable architecture.",
+    "stars": 5027,
+    "suggestedCategory": "frameworks",
+    "allMatchedCategories": [
+      "frameworks"
+    ],
+    "topics": [],
+    "status": "added",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "dtyq/magic",
+    "description": "Magicrew. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)",
+    "stars": 4790,
+    "suggestedCategory": "orchestration",
+    "allMatchedCategories": [
+      "orchestration"
+    ],
+    "topics": [
+      "agent",
+      "agi",
+      "ai",
+      "gpt",
+      "llm",
+      "low-code",
+      "mcp",
+      "no-code",
+      "sandbox",
+      "super-magic"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "the-open-agent/openagent",
+    "description": "⚡️AI Cloud OS: Open-source enterprise-level AI knowledge base and MCP (model-context-protocol)/A2A (agent-to-agent) management platform with admin UI, user management and Single-Sign-On⚡️, supports Ch",
+    "stars": 4513,
+    "suggestedCategory": "communication",
+    "allMatchedCategories": [
+      "communication"
+    ],
+    "topics": [
+      "a2a",
+      "agent",
+      "agentic",
+      "agentic-ai",
+      "agi",
+      "chatbot",
+      "chatgpt",
+      "claude",
+      "gemini",
+      "gpt"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "builderz-labs/mission-control",
+    "description": "Self-hosted AI agent orchestration platform: dispatch tasks, run multi-agent workflows, monitor spend, and govern operations from one mission control dashboard.",
+    "stars": 4437,
+    "suggestedCategory": "orchestration",
+    "allMatchedCategories": [
+      "orchestration"
+    ],
+    "topics": [
+      "agent-orchestration",
+      "ai-agents",
+      "ai-automation",
+      "ai-dashboard",
+      "claude",
+      "dashboard",
+      "developer-tools",
+      "llm",
+      "mcp",
+      "nextjs"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "ModelEngine-Group/nexent",
+    "description": "Nexent is a zero-code platform for auto-generating production-grade AI agents using Harness Engineering principles — unified tools, skills, memory, and orchestration with built-in constraints, feedbac",
+    "stars": 4363,
+    "suggestedCategory": "swarm-coding",
+    "allMatchedCategories": [
+      "swarm-coding"
+    ],
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "agentic-framework",
+      "agentic-rag",
+      "agentic-workflow",
+      "ai",
+      "harness",
+      "harness-engineering",
+      "llm",
+      "mcp"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "filipecalegario/awesome-vibe-coding",
+    "description": "A curated list of vibe coding references, collaborating with AI to write code.",
+    "stars": 3994,
+    "suggestedCategory": "swarm-coding",
+    "allMatchedCategories": [
+      "swarm-coding"
+    ],
+    "topics": [
+      "ai-agent",
+      "ai-agents",
+      "ai-coding-assistant",
+      "ai-coding-tools",
+      "awesome",
+      "awesome-list",
+      "cursor",
+      "lovable",
+      "vibe-coding"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "LazyAGI/LazyLLM",
+    "description": "Easiest and laziest way for building multi-agent LLM applications with minimal boilerplate.",
+    "stars": 3812,
+    "suggestedCategory": "frameworks",
+    "allMatchedCategories": [
+      "frameworks"
+    ],
+    "topics": [
+      "agents",
+      "ai-agent",
+      "data",
+      "deep-learning",
+      "documentation-tool",
+      "finetuning",
+      "framework",
+      "knowlege-graph",
+      "langchain",
+      "lazyllm"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "opensumi/core",
+    "description": "A framework helps you quickly build AI Native IDE products. MCP Client, supports Model Context Protocol (MCP) tools via MCP server.",
+    "stars": 3629,
+    "suggestedCategory": "communication",
+    "allMatchedCategories": [
+      "communication"
+    ],
+    "topics": [
+      "ai",
+      "ai-first",
+      "ai-native",
+      "editor",
+      "electron",
+      "ide",
+      "ide-framework",
+      "mcp",
+      "mcp-client",
+      "opensumi"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "smallcloudai/refact",
+    "description": "AI Agent that handles engineering tasks end-to-end: integrates with developers’ tools, plans, executes, and iterates until it achieves a successful result.",
+    "stars": 3538,
+    "suggestedCategory": "task-decomposition",
+    "allMatchedCategories": [
+      "task-decomposition"
+    ],
+    "topics": [
+      "ai-agent",
+      "developer-tools",
+      "enterprise",
+      "fine-tuning",
+      "on-prem",
+      "open-source",
+      "rag",
+      "self-hosted",
+      "swe-bench",
+      "vscode"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "SkyworkAI/DeepResearchAgent",
+    "description": "Hierarchical multi-agent system for deep research tasks with adaptive planning and tool integration.",
+    "stars": 3360,
+    "suggestedCategory": "frameworks",
+    "allMatchedCategories": [
+      "frameworks",
+      "task-decomposition"
+    ],
+    "topics": [
+      "gaia",
+      "general-purpose",
+      "multiagent-systems",
+      "multimodel"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "SolaceLabs/solace-agent-mesh",
+    "description": "Event-driven framework for building and orchestrating multi-agent AI systems with seamless integration.",
+    "stars": 3344,
+    "suggestedCategory": "frameworks",
+    "allMatchedCategories": [
+      "frameworks",
+      "orchestration"
+    ],
+    "topics": [
+      "a2a",
+      "agentframework",
+      "agentic",
+      "agentic-ai",
+      "agentic-framework",
+      "agentic-workflow",
+      "agenticai",
+      "agents",
+      "ai",
+      "ai-agents"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "golutra/golutra",
+    "description": "Multi-agent AI orchestration platform for automation, workflows, and developer tools. Golutra transforms Codex, Claude Code, and OpenClaw into a unified agent system with parallel execution, task orch",
+    "stars": 3316,
+    "suggestedCategory": "orchestration",
+    "allMatchedCategories": [
+      "orchestration",
+      "task-decomposition",
+      "swarm-coding"
+    ],
+    "topics": [
+      "agent",
+      "ai",
+      "automation",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "codex",
+      "codex-cli",
+      "desktop-app",
+      "developer"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "punkpeye/fastmcp",
+    "description": "TypeScript framework for building MCP servers with minimal setup.",
+    "stars": 3064,
+    "suggestedCategory": "communication",
+    "allMatchedCategories": [
+      "communication"
+    ],
+    "topics": [
+      "mcp",
+      "sse"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "SciSharp/BotSharp",
+    "description": "AI multi-agent framework in .NET for building enterprise conversational agent systems.",
+    "stars": 3049,
+    "suggestedCategory": "frameworks",
+    "allMatchedCategories": [
+      "frameworks"
+    ],
+    "topics": [
+      "ai-agent",
+      "chatbot",
+      "multi-agent"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "cirosantilli/china-dictatorship",
+    "description": "反中共政治宣传库。Anti Chinese government propaganda. 住在中国真名用户的网友请别给星星，不然你要被警察请喝茶。常见问答集，新闻集和饭店和音乐建议。卐习万岁卐。冠状病毒审查郝海东新疆改造中心六四事件法轮功 996.ICU709大抓捕巴拿马文件邓家贵低端人口西藏骚乱。Friends who live in China and have real name on ac",
+    "stars": 2956,
+    "suggestedCategory": "frameworks",
+    "allMatchedCategories": [
+      "frameworks"
+    ],
+    "topics": [
+      "996",
+      "censorship",
+      "censorship-circumvention",
+      "china",
+      "china-dictatorship",
+      "chinese-communist-party",
+      "covid-19",
+      "covid-19-china",
+      "dictator",
+      "dictatorship"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "openai/openai-agents-js",
+    "description": "Lightweight JavaScript framework for multi-agent workflows and voice agents by OpenAI.",
+    "stars": 2876,
+    "suggestedCategory": "frameworks",
+    "allMatchedCategories": [
+      "frameworks"
+    ],
+    "topics": [
+      "agents",
+      "openai",
+      "openai-api",
+      "realtime-api",
+      "typescript"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "stellarlinkco/myclaude",
+    "description": "Multi-agent orchestration workflow (Claude Code  Codex Gemini OpenCode)",
+    "stars": 2626,
+    "suggestedCategory": "orchestration",
+    "allMatchedCategories": [
+      "orchestration",
+      "swarm-coding"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "moazbuilds/CodeMachine-CLI",
+    "description": "CodeMachine is an open-source tool that orchestrates AI coding agents into repeatable, long-running workflows. ⚡️",
+    "stars": 2451,
+    "suggestedCategory": "orchestration",
+    "allMatchedCategories": [
+      "orchestration"
+    ],
+    "topics": [
+      "ai",
+      "automation",
+      "cli",
+      "cli-tool",
+      "code-generation",
+      "developer-tools",
+      "generative-ai",
+      "multi-agent-systems",
+      "orchestration",
+      "scaffolding"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "trypromptly/LLMStack",
+    "description": "No-code multi-agent framework to build LLM Agents, workflows and applications with your data",
+    "stars": 2292,
+    "suggestedCategory": "frameworks",
+    "allMatchedCategories": [
+      "frameworks",
+      "swarm-coding"
+    ],
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents-framework",
+      "generative-ai",
+      "llm-agents",
+      "llm-chain",
+      "llm-framework",
+      "llmops",
+      "llms",
+      "no-code-ai"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "sdi2200262/agentic-project-management",
+    "description": "A framework for managing complex projects with spec-driven multi-agent workflows.",
+    "stars": 2225,
+    "suggestedCategory": "frameworks",
+    "allMatchedCategories": [
+      "frameworks"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "agentuniverse-ai/agentUniverse",
+    "description": "agentUniverse is a LLM multi-agent framework that allows developers to easily build multi-agent applications. ",
+    "stars": 2211,
+    "suggestedCategory": "frameworks",
+    "allMatchedCategories": [
+      "frameworks"
+    ],
+    "topics": [
+      "agent",
+      "ai",
+      "ai-agents",
+      "autonomous",
+      "awesome",
+      "awesome-list",
+      "llm",
+      "multi-agent",
+      "python"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "oxwhirl/pymarl",
+    "description": "Python Multi-Agent Reinforcement Learning framework",
+    "stars": 2182,
+    "suggestedCategory": "frameworks",
+    "allMatchedCategories": [
+      "frameworks"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "catlog22/Claude-Code-Workflow",
+    "description": " JSON-driven multi-agent  cadence-team development framework with   intelligent CLI orchestration (Gemini/Qwen/Codex),   context-first architecture, and automated workflow   execution",
+    "stars": 1926,
+    "suggestedCategory": "frameworks",
+    "allMatchedCategories": [
+      "frameworks",
+      "orchestration"
+    ],
+    "topics": [
+      "claude",
+      "claude-code",
+      "cli-tools",
+      "codex",
+      "context-management",
+      "gemini-cli",
+      "json-driven",
+      "qwen-code",
+      "task-orchestration",
+      "workflow-automation"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "The-Swarm-Corporation/AutoHedge",
+    "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
+    "stars": 1905,
+    "suggestedCategory": "intelligence",
+    "allMatchedCategories": [
+      "intelligence"
+    ],
+    "topics": [
+      "ai",
+      "blackrock",
+      "finance",
+      "goldmansachs",
+      "hedgefund",
+      "jpmorgan",
+      "ml",
+      "quant",
+      "quantitative-finance",
+      "quantitative-trading"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "rocketride-org/rocketride-server",
+    "description": "High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers, 8+ vector databases, and agent orchestration, all f",
+    "stars": 1871,
+    "suggestedCategory": "orchestration",
+    "allMatchedCategories": [
+      "orchestration"
+    ],
+    "topics": [
+      "ai",
+      "cpp",
+      "data-pipeline",
+      "data-processing",
+      "machine-learning",
+      "mcp",
+      "python",
+      "sdk",
+      "typescript",
+      "vscode-extension"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "jd-opensource/OxyGent",
+    "description": "Multi-agent collaboration framework",
+    "stars": 1862,
+    "suggestedCategory": "frameworks",
+    "allMatchedCategories": [
+      "frameworks"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "gege-circle/.github",
+    "description": "这里是GitHub的草场，也是戈戈圈爱好者的交流地，主要讨论动漫、游戏、科技、人文、生活等所有话题，欢迎各位小伙伴们在此讨论趣事。This is GitHub grassland, and the community place for Gege circle lovers, mainly discusses anime, games, technology, lifing and other t",
+    "stars": 1861,
+    "suggestedCategory": "frameworks",
+    "allMatchedCategories": [
+      "frameworks"
+    ],
+    "topics": [
+      "a-soul",
+      "acfun",
+      "bilibili",
+      "china",
+      "gege-circle",
+      "message-board",
+      "vtuber",
+      "vup"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "Kocoro-lab/Shannon",
+    "description": "A production-oriented multi-agent orchestration framework.",
+    "stars": 1791,
+    "suggestedCategory": "frameworks",
+    "allMatchedCategories": [
+      "frameworks"
+    ],
+    "topics": [
+      "agent",
+      "ai",
+      "multi-agent-systems"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "doobidoo/mcp-memory-service",
+    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph + autonomous consolidation.",
+    "stars": 1746,
+    "suggestedCategory": "orchestration",
+    "allMatchedCategories": [
+      "orchestration"
+    ],
+    "topics": [
+      "agent-memory",
+      "agentic-ai",
+      "ai-agents",
+      "autogen",
+      "claude",
+      "crewai",
+      "knowledge-graph",
+      "langgraph",
+      "long-term-memory",
+      "mcp"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "guy-hartstein/company-research-agent",
+    "description": "An agentic company research tool powered by LangGraph and Tavily that conducts deep diligence on companies using a multi-agent framework. It leverages Google's Gemini 2.5 Flash and OpenAI's GPT-5.1 on",
+    "stars": 1707,
+    "suggestedCategory": "frameworks",
+    "allMatchedCategories": [
+      "frameworks"
+    ],
+    "topics": [
+      "agents",
+      "ai",
+      "company",
+      "financial-analysis",
+      "gemini",
+      "gemini-3-flash",
+      "langchain",
+      "langgraph-python",
+      "multi-agent-systems",
+      "openai"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "parruda/swarm",
+    "description": "Ruby gems for general-purpose AI agent systems: automation, research, data processing, customer support, content creation. SwarmSDK provides single-process orchestration, persistent memory with semant",
+    "stars": 1706,
+    "suggestedCategory": "orchestration",
+    "allMatchedCategories": [
+      "orchestration"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "vercel-labs/coding-agent-template",
+    "description": "Multi-agent AI coding platform powered by Vercel Sandbox and AI Gateway",
+    "stars": 1699,
+    "suggestedCategory": "swarm-coding",
+    "allMatchedCategories": [
+      "swarm-coding"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "agentjido/jido",
+    "description": "🤖 Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows.",
+    "stars": 1675,
+    "suggestedCategory": "orchestration",
+    "allMatchedCategories": [
+      "orchestration"
+    ],
+    "topics": [
+      "agent",
+      "ai",
+      "artificial-intelligence",
+      "elixir",
+      "event-driven-architecture",
+      "functional-programming",
+      "orchestration",
+      "workflow"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "showlab/Code2Video",
+    "description": "Video generation via code",
+    "stars": 1660,
+    "suggestedCategory": "swarm-coding",
+    "allMatchedCategories": [
+      "swarm-coding"
+    ],
+    "topics": [
+      "coding",
+      "education",
+      "multi-agent",
+      "video-generation"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "johnson7788/MultiAgentPPT",
+    "description": "MultiAgentPPT 是一个集成了 A2A（Agent2Agent）+ MCP（Model Context Protocol）+ ADK（Agent Development Kit） 架构的智能化演示文稿生成系统，支持通过多智能体协作和流式并发机制",
+    "stars": 1589,
+    "suggestedCategory": "communication",
+    "allMatchedCategories": [
+      "communication"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "google/adk-java",
+    "description": "An open-source, code-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+    "stars": 1521,
+    "suggestedCategory": "swarm-coding",
+    "allMatchedCategories": [
+      "swarm-coding"
+    ],
+    "topics": [
+      "agent",
+      "agentic",
+      "agentic-ai",
+      "agentic-workflow",
+      "agents",
+      "agents-sdk",
+      "ai",
+      "ai-agents",
+      "aiagentframework",
+      "genai"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "RTGS2017/NagaAgent",
+    "description": "A simple yet powerful agent framework for personal assistants, designed to enable intelligent interaction, multi-agent collaboration, and seamless tool integration.",
+    "stars": 1515,
+    "suggestedCategory": "frameworks",
+    "allMatchedCategories": [
+      "frameworks"
+    ],
+    "topics": [
+      "agentic-ai",
+      "agents",
+      "mcp",
+      "mcp-client",
+      "openai",
+      "openclaw",
+      "toolcall"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "covibes/zeroshot",
+    "description": "Your autonomous engineering team in a CLI. Point Zeroshot at an issue, walk away, and return to production-grade code. Supports Claude Code, OpenAI Codex, OpenCode, and Gemini CLI.",
+    "stars": 1445,
+    "suggestedCategory": "swarm-coding",
+    "allMatchedCategories": [
+      "swarm-coding"
+    ],
+    "topics": [
+      "agent-orchestration",
+      "agentic-workflow",
+      "ai-agent",
+      "ai-agents",
+      "autonomous-agents",
+      "claude",
+      "cli",
+      "codex",
+      "coding-assistant",
+      "developer-tools"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "Dicklesworthstone/agentic_coding_flywheel_setup",
+    "description": "Bootstraps a fresh Ubuntu VPS into a complete multi-agent AI development environment in 30 minutes: coding agents, session management, safety tools, and coordination infrastructure",
+    "stars": 1431,
+    "suggestedCategory": "swarm-coding",
+    "allMatchedCategories": [
+      "swarm-coding"
+    ],
+    "topics": [
+      "agentic-ai",
+      "agentic-workflow",
+      "agentmail",
+      "beads",
+      "bv"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "kaiban-ai/KaibanJS",
+    "description": "KaibanJS is a JavaScript-native framework for building and managing multi-agent systems  with a Kanban-inspired approach.",
+    "stars": 1420,
+    "suggestedCategory": "frameworks",
+    "allMatchedCategories": [
+      "frameworks"
+    ],
+    "topics": [
+      "agentic",
+      "agentic-framework",
+      "agenticjs",
+      "agents",
+      "ai",
+      "javascript",
+      "kanban",
+      "langchain-js",
+      "llms",
+      "multi-agent-systems"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "datawhalechina/hugging-multi-agent",
+    "description": "A tutorial based on MetaGPT to quickly help you understand the concept of agent and muti-agent and get started with coding development. 基于MetaGPT的多智能体入门与开发教程",
+    "stars": 1388,
+    "suggestedCategory": "swarm-coding",
+    "allMatchedCategories": [
+      "swarm-coding"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "disler/claude-code-hooks-multi-agent-observability",
+    "description": "Real-time monitoring for Claude Code agents through simple hook event tracking.",
+    "stars": 1387,
+    "suggestedCategory": "swarm-coding",
+    "allMatchedCategories": [
+      "swarm-coding"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "Danau5tin/multi-agent-coding-system",
+    "description": "Reached #13 on Stanford's Terminal Bench leaderboard. Orchestrator, explorer & coder agents working together with intelligent context sharing.",
+    "stars": 1370,
+    "suggestedCategory": "swarm-coding",
+    "allMatchedCategories": [
+      "swarm-coding"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "codefuse-ai/codefuse-chatbot",
+    "description": "An intelligent assistant serving the entire software development lifecycle, powered by a Multi-Agent Framework, working with DevOps Toolkits, Code&Doc Repo RAG,  etc.",
+    "stars": 1289,
+    "suggestedCategory": "frameworks",
+    "allMatchedCategories": [
+      "frameworks",
+      "swarm-coding"
+    ],
+    "topics": [
+      "aiops",
+      "chatbot",
+      "code-repo-analysis",
+      "code-repo-generation",
+      "devops",
+      "gpt",
+      "knowledge-graph",
+      "langchain",
+      "multi-agent",
+      "rag"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "agent-network-protocol/AgentNetworkProtocol",
+    "description": "Open source protocol for agent communication with discovery, routing, and cross-network interoperability.",
+    "stars": 1279,
+    "suggestedCategory": "communication",
+    "allMatchedCategories": [
+      "communication"
+    ],
+    "topics": [
+      "agent",
+      "communication",
+      "protocol"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "ZHangZHengEric/Sage",
+    "description": "Multi-Agent System Framework For Complex Tasks",
+    "stars": 1265,
+    "suggestedCategory": "frameworks",
+    "allMatchedCategories": [
+      "frameworks"
+    ],
+    "topics": [
+      "agents",
+      "ai",
+      "llm",
+      "manus",
+      "muilt-agents",
+      "workflow"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "jayminwest/overstory",
+    "description": "Multi-agent orchestration for AI coding agents — pluggable runtime adapters for Claude Code, Pi, and more",
+    "stars": 1255,
+    "suggestedCategory": "swarm-coding",
+    "allMatchedCategories": [
+      "swarm-coding"
+    ],
+    "topics": [
+      "agent-swarms",
+      "ai-agents",
+      "claude-code",
+      "tmux"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "yohey-w/multi-agent-shogun",
+    "description": "Samurai-inspired multi-agent system for Claude Code. Orchestrate parallel AI tasks via tmux with shogun → karo → ashigaru hierarchy.",
+    "stars": 1244,
+    "suggestedCategory": "swarm-coding",
+    "allMatchedCategories": [
+      "swarm-coding"
+    ],
+    "topics": [
+      "ai-agent",
+      "anthropic",
+      "automation",
+      "claude-code",
+      "llm",
+      "multi-agent",
+      "parallel-processing",
+      "samurai",
+      "shogun",
+      "tmux"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "uluckyXH/OpenMOSS",
+    "description": "A self-organizing multi-agent collaboration platform for OpenClaw. Multiple AI agents work as an autonomous team — planning, executing, reviewing, and patrolling tasks with zero human intervention.",
+    "stars": 1239,
+    "suggestedCategory": "role-teams",
+    "allMatchedCategories": [
+      "role-teams",
+      "task-decomposition"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "rinadelph/Agent-MCP",
+    "description": "Agent-MCP is a framework for creating multi-agent systems that enables coordinated, efficient AI collaboration through the Model Context Protocol (MCP). The system is designed for developers building ",
+    "stars": 1230,
+    "suggestedCategory": "frameworks",
+    "allMatchedCategories": [
+      "frameworks"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "study8677/antigravity-workspace-template",
+    "description": "Workspace template + MCP server for Claude Code, Codex CLI, Cursor & Windsurf. Multi-agent knowledge engine (ag-refresh / ag-ask) that turns any codebase into a queryable AI assistant.",
+    "stars": 1200,
+    "suggestedCategory": "swarm-coding",
+    "allMatchedCategories": [
+      "swarm-coding"
+    ],
+    "topics": [
+      "agentic-ai",
+      "agentic-coding",
+      "ai-agents",
+      "ai-coding",
+      "ai-ide",
+      "ai-workspace",
+      "claude-code",
+      "claude-code-template",
+      "code-search",
+      "codex"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "langchain-ai/deepagentsjs",
+    "description": "Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.",
+    "stars": 1175,
+    "suggestedCategory": "task-decomposition",
+    "allMatchedCategories": [
+      "task-decomposition"
+    ],
+    "topics": [
+      "ai",
+      "deepagents",
+      "langchain",
+      "langgraph"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "zylos-ai/zylos-core",
+    "description": "🐙 Give your AI a life — open-source agent infrastructure for team collaboration.",
+    "stars": 1165,
+    "suggestedCategory": "role-teams",
+    "allMatchedCategories": [
+      "role-teams"
+    ],
+    "topics": [
+      "ai",
+      "ai-worker",
+      "own-your-data",
+      "personal-ai-assistant",
+      "self-evolving",
+      "team-collaboration"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "inkeep/agents",
+    "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.",
+    "stars": 1113,
+    "suggestedCategory": "swarm-coding",
+    "allMatchedCategories": [
+      "swarm-coding"
+    ],
+    "topics": [
+      "agent",
+      "agent-builder",
+      "agent-framework",
+      "agents-sdk",
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "aiagentframework",
+      "developer-sdk",
+      "inkeep"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "Doriandarko/make-it-heavy",
+    "description": "A Python framework that emulates Grok Heavy functionality using intelligent multi-agent orchestration. Deploy 4 (or more) specialized AI agents in parallel to deliver comprehensive, multi-perspective ",
+    "stars": 1110,
+    "suggestedCategory": "frameworks",
+    "allMatchedCategories": [
+      "frameworks"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "Aas-ee/open-webSearch",
+    "description": "Multi-engine MCP server, CLI, and local daemon for agent web search and content retrieval — skill-guided workflows, no API keys.",
+    "stars": 1088,
+    "suggestedCategory": "orchestration",
+    "allMatchedCategories": [
+      "orchestration"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "DeepMyst/Mysti",
+    "description": "AI coding dream team of agents for VS Code. Claude Code + openai Codex collaborate in brainstorm mode, debate solutions, and synthesize the best approach for your code.",
+    "stars": 1038,
+    "suggestedCategory": "swarm-coding",
+    "allMatchedCategories": [
+      "swarm-coding"
+    ],
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "agentic-coding",
+      "agentic-workflow",
+      "agents",
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-coding",
+      "claude-ai"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "whoenig/libMultiRobotPlanning",
+    "description": "Library with search algorithms for task and path planning for multi robot/agent systems",
+    "stars": 1003,
+    "suggestedCategory": "task-decomposition",
+    "allMatchedCategories": [
+      "task-decomposition"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "victordibia/autogen-ui",
+    "description": "Web UI for AutoGen (A Framework Multi-Agent LLM Applications)",
+    "stars": 997,
+    "suggestedCategory": "frameworks",
+    "allMatchedCategories": [
+      "frameworks"
+    ],
+    "topics": [
+      "agent-based-framework",
+      "ai",
+      "ai-agents",
+      "autogen",
+      "autogen-sample",
+      "chatgpt",
+      "deep-learning",
+      "visualization"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "themanojdesai/python-a2a",
+    "description": "Python A2A is a powerful, easy-to-use library for implementing Google's [Agent-to-Agent (A2A) protocol](https://google.github.io/A2A/). It enables seamless communication between AI agents, creating in",
+    "stars": 986,
+    "suggestedCategory": "communication",
+    "allMatchedCategories": [
+      "communication"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "ExplosiveCoderflome/AI-Novel-Writing-Assistant",
+    "description": "面向长篇小说创作的 AI Native 开源系统，用 Agent、世界观、写法引擎、RAG 和整本生产工作流，帮助新手从一句灵感走到完整小说。AI-native engine for end-to-end novel creation — from idea to full chapters, with structured planning, worldbuilding, and agent-d",
+    "stars": 963,
+    "suggestedCategory": "orchestration",
+    "allMatchedCategories": [
+      "orchestration"
+    ],
+    "topics": [
+      "agent-workflow",
+      "ai",
+      "creative-writing",
+      "long-form-fiction",
+      "narrative-engine",
+      "novel-writing",
+      "rag",
+      "story-generation",
+      "worldbuilding",
+      "writing-assistant"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "jonwiggins/optio",
+    "description": "Workflow orchestration for AI coding agents, from task to merged PR.",
+    "stars": 921,
+    "suggestedCategory": "orchestration",
+    "allMatchedCategories": [
+      "orchestration"
+    ],
+    "topics": [
+      "agent",
+      "agents",
+      "ai",
+      "claude-code",
+      "copilot",
+      "gemini",
+      "kubernetes",
+      "opencode",
+      "orchestration"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "wanxingai/LightAgent",
+    "description": "LightAgent: Lightweight AI agent framework with memory, mcp & skill. Supports multi-agent collaboration, self-learning, and major LLMs (OpenAI/DeepSeek/Qwen). Open-source with MCP/SSE protocol integra",
+    "stars": 908,
+    "suggestedCategory": "frameworks",
+    "allMatchedCategories": [
+      "frameworks"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "liweiphys/layra",
+    "description": "LAYRA—an enterprise-ready, out-of-the-box solution—unlocks next-generation intelligent systems powered by visual RAG and limitless visual multi-step agent workflow orchestration.",
+    "stars": 901,
+    "suggestedCategory": "orchestration",
+    "allMatchedCategories": [
+      "orchestration"
+    ],
+    "topics": [
+      "agent",
+      "colpali",
+      "document-parser",
+      "fastapi",
+      "gpt-4o",
+      "knowledge-base",
+      "llm",
+      "visual-rag",
+      "workflow"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "first-fluke/oh-my-agent",
+    "description": "Portable multi-agent harness for .agents-based skills, workflows, and standards-aware agent teams across Antigravity, Claude Code, Codex, Cursor, OpenCode, and more.",
+    "stars": 866,
+    "suggestedCategory": "orchestration",
+    "allMatchedCategories": [
+      "orchestration"
+    ],
+    "topics": [
+      "agent-harness",
+      "agent-skills",
+      "agentic-coding",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "cursor",
+      "multi-agent",
+      "multi-agent-systems",
+      "oh-my-agent"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "ru-yee/Life-Agent-RU-YEE",
+    "description": "Life Agent RU YEE — An AI-powered life management agent that autonomously        handles daily routines including meal planning, grocery shopping, schedule    coordination, and household task automati",
+    "stars": 847,
+    "suggestedCategory": "task-decomposition",
+    "allMatchedCategories": [
+      "task-decomposition"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "golf-mcp/golf",
+    "description": "Production-Ready MCP Server Framework • Build, deploy & scale secure AI agent infrastructure • Includes Auth, Observability, Debugger, Telemetry & Runtime • Run real-world MCPs powering AI Agents ",
+    "stars": 820,
+    "suggestedCategory": "communication",
+    "allMatchedCategories": [
+      "communication"
+    ],
+    "topics": [
+      "agent-runtime",
+      "ai",
+      "ai-agent",
+      "ai-agent-tools",
+      "ai-agents",
+      "ai-platform",
+      "aiagents",
+      "auth",
+      "authentication",
+      "authorization"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "ChesterRa/cccc",
+    "description": "Coordinate your coding agents like a group chat — read receipts, delivery tracking, and remote ops from your phone. One pip install, zero infrastructure. A production‑minded orchestrator for 24/7 work",
+    "stars": 801,
+    "suggestedCategory": "orchestration",
+    "allMatchedCategories": [
+      "orchestration"
+    ],
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "codex-cli",
+      "gemini-cli",
+      "group-chat",
+      "llm-orchestration",
+      "local-first",
+      "multi-agent",
+      "opencode",
+      "zero-infra"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "microsoft/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator",
+    "description": "The Multi-Agent Custom Automation Engine Solution Accelerator is an AI-driven system that manages a group of AI agents to accomplish tasks based on user input. Powered by Microsoft Agent Framework, Az",
+    "stars": 792,
+    "suggestedCategory": "frameworks",
+    "allMatchedCategories": [
+      "frameworks"
+    ],
+    "topics": [
+      "ai-azd-templates",
+      "azd-templates"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "go-kratos/blades",
+    "description": "Blades is a Go-based multimodal AI Agent framework.",
+    "stars": 763,
+    "suggestedCategory": "frameworks",
+    "allMatchedCategories": [
+      "frameworks"
+    ],
+    "topics": [
+      "agent",
+      "agent-framework",
+      "agent-kit",
+      "agent-sdk",
+      "agent-workflow",
+      "ai",
+      "golang",
+      "llm",
+      "multi-agent",
+      "studio"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "fjb040911/ai-rules",
+    "description": "ai-rules is a governance framework designed to solve \"Architectural Decay\" in AI-driven development. It forces AI Agents (Cursor, Windsurf, Copilot) to respect your project's boundaries, UI libraries,",
+    "stars": 760,
+    "suggestedCategory": "safety",
+    "allMatchedCategories": [
+      "safety"
+    ],
+    "topics": [
+      "ai-code-review",
+      "ai-coding",
+      "code-review",
+      "code-rules",
+      "repair-prompt"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "nex-crm/wuphf",
+    "description": "WUPHF is a collaborative office of AI employees who build and maintain their own knowledge base to never lose context for the tasks you give them. Supports Claude Code, Codex, OpenClaw and local LLMs ",
+    "stars": 755,
+    "suggestedCategory": "swarm-coding",
+    "allMatchedCategories": [
+      "swarm-coding"
+    ],
+    "topics": [
+      "agents",
+      "autonomous-agents",
+      "claude-code",
+      "knowledge-graph"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "bytechefhq/bytechef",
+    "description": "Open-source, AI-native, low-code platform for API orchestration, workflow automation, and AI agent integration across internal systems and SaaS products.",
+    "stars": 752,
+    "suggestedCategory": "orchestration",
+    "allMatchedCategories": [
+      "orchestration"
+    ],
+    "topics": [
+      "ai",
+      "ai-agents",
+      "api",
+      "automation",
+      "embedded-ipaas",
+      "hacktoberfest",
+      "integrations",
+      "ipaas",
+      "java",
+      "llm"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "quoroom-ai/room",
+    "description": "Open-source earning-focused swarm intelligence engine. Self-governing AI collectives (queen, workers, quorum voting) running locally via MCP. Works with Claude Code, Codex, or pay-per-use APIs.",
+    "stars": 729,
+    "suggestedCategory": "intelligence",
+    "allMatchedCategories": [
+      "intelligence"
+    ],
+    "topics": [
+      "ai",
+      "automaton",
+      "claude",
+      "claudecode",
+      "giminiapi",
+      "linux",
+      "llm",
+      "macos",
+      "openclaw",
+      "windows"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "NVlabs/ToolOrchestra",
+    "description": "ToolOrchestra is an end-to-end RL training framework for orchestrating tools and agentic workflows.",
+    "stars": 714,
+    "suggestedCategory": "orchestration",
+    "allMatchedCategories": [
+      "orchestration"
+    ],
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "deep-learning",
+      "large-language-models"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "a5c-ai/babysitter",
+    "description": "Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows through deterministic, hallucination-free self-orchestration",
+    "stars": 691,
+    "suggestedCategory": "orchestration",
+    "allMatchedCategories": [
+      "orchestration"
+    ],
+    "topics": [
+      "agent-orchestration",
+      "agent-skills",
+      "agentic-ai",
+      "agentic-workflow",
+      "ai-agents",
+      "ai-automation",
+      "babysitter",
+      "claude-code",
+      "claude-code-skills",
+      "claude-skills"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "Haervwe/open-webui-tools",
+    "description": "Open‑WebUI Tools is a modular toolkit designed to extend and enrich your Open WebUI instance, turning it into a powerful AI workstation. With a suite of over 15 specialized tools, function pipelines, ",
+    "stars": 686,
+    "suggestedCategory": "orchestration",
+    "allMatchedCategories": [
+      "orchestration"
+    ],
+    "topics": [
+      "academic-research",
+      "ai-agents",
+      "ai-workstation",
+      "arxiv",
+      "comfyui",
+      "image-generation",
+      "letta",
+      "llm",
+      "llm-tools",
+      "llms"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "rnadigital/agentcloud",
+    "description": "Agent Cloud is like having your own GPT builder with a bunch extra goodies. The GUI features 1) RAG pipeline which can natively embed 260+ datasources 2) Create Conversational apps (like GPTs) 3) Crea",
+    "stars": 682,
+    "suggestedCategory": "orchestration",
+    "allMatchedCategories": [
+      "orchestration"
+    ],
+    "topics": [
+      "ai",
+      "autogen",
+      "chatgpt",
+      "crewai",
+      "dockerized-application",
+      "genai",
+      "llm",
+      "model",
+      "nextjs",
+      "python"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "xark-argo/argo",
+    "description": "ARGO is an open-source AI Agent platform that brings Local Manus to your desktop. With one-click model downloads, seamless closed LLM integration, and offline-first RAG knowledge bases, ARGO becomes a",
+    "stars": 678,
+    "suggestedCategory": "task-decomposition",
+    "allMatchedCategories": [
+      "task-decomposition"
+    ],
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "ai",
+      "aigc",
+      "anthropic",
+      "artifacts",
+      "assistant",
+      "chatbot",
+      "deepresearch",
+      "deepseek"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "dapr/dapr-agents",
+    "description": "Build autonomous, resilient and observable AI agents with built-in workflow orchestration, security, statefulness and telemetry.",
+    "stars": 663,
+    "suggestedCategory": "orchestration",
+    "allMatchedCategories": [
+      "orchestration"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "Pipelex/pipelex",
+    "description": "Declarative language for composable Al workflows. Devtool for agents and mere humans.",
+    "stars": 657,
+    "suggestedCategory": "orchestration",
+    "allMatchedCategories": [
+      "orchestration"
+    ],
+    "topics": [
+      "agents",
+      "ai",
+      "automation",
+      "dsl",
+      "language",
+      "llm",
+      "orchestration",
+      "pipeline",
+      "workflows"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "featureform/enrichmcp",
+    "description": "EnrichMCP is a python framework for building data driven MCP servers",
+    "stars": 643,
+    "suggestedCategory": "communication",
+    "allMatchedCategories": [
+      "communication"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "whchien/ai-trader",
+    "description": "Backtrader-powered backtesting framework for algorithmic trading, featuring 20+ strategies, multi-market support, CLI tools, and an integrated MCP server for professional traders.",
+    "stars": 631,
+    "suggestedCategory": "communication",
+    "allMatchedCategories": [
+      "communication"
+    ],
+    "topics": [
+      "ai",
+      "ai-agents",
+      "algorithmic-trading",
+      "backtrader",
+      "cli",
+      "mcp",
+      "mcp-server",
+      "portfolio-management",
+      "quantitative-finance",
+      "stock-price-prediction"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "hofstadter-io/hof",
+    "description": "A developer experience centered on CUE. Unifies schemas, data models, deterministic and agentic code generation, workflow and task engine, dagger powered environments, coding assistant, and vscode ext",
+    "stars": 605,
+    "suggestedCategory": "orchestration",
+    "allMatchedCategories": [
+      "orchestration"
+    ],
+    "topics": [
+      "adk-go",
+      "agents",
+      "cli",
+      "code-generator",
+      "cuelang",
+      "dagger",
+      "data-modeling",
+      "llms",
+      "schemas",
+      "tui"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "liquidos-ai/AutoAgents",
+    "description": "A  multi-agent framework written in Rust that enables you to build, deploy, and coordinate multiple intelligent agents",
+    "stars": 603,
+    "suggestedCategory": "frameworks",
+    "allMatchedCategories": [
+      "frameworks"
+    ],
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "ai-agents-framework",
+      "llm"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "lofcz/LLMTornado",
+    "description": "The .NET library to build AI agents with 30+ built-in connectors.",
+    "stars": 600,
+    "suggestedCategory": "orchestration",
+    "allMatchedCategories": [
+      "orchestration"
+    ],
+    "topics": [
+      "a2a",
+      "agent",
+      "agent-framework",
+      "agent-orchestration",
+      "agent2agent",
+      "agentic-ai",
+      "agentic-rag",
+      "agentic-workflow",
+      "agents",
+      "agents-sdk"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "Grigorij-Dudnik/Clean-Coder-AI",
+    "description": "✅2-in-1 AI Developer and Project Manager. AI agents plan an entire project in Todoist and code it task by task.",
+    "stars": 574,
+    "suggestedCategory": "task-decomposition",
+    "allMatchedCategories": [
+      "task-decomposition"
+    ],
+    "topics": [
+      "agent",
+      "ai",
+      "cli",
+      "code-generation",
+      "code-writing",
+      "coding-agents"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "puppetlabs/bolt",
+    "description": "Bolt is an open source orchestration tool that automates the manual work it takes to maintain your infrastructure on an as-needed basis or as part of a greater orchestration workflow. It can be instal",
+    "stars": 549,
+    "suggestedCategory": "orchestration",
+    "allMatchedCategories": [
+      "orchestration"
+    ],
+    "topics": [
+      "bolt",
+      "devops",
+      "orchestration",
+      "puppet",
+      "ssh",
+      "winrm"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "InfinitiBit/graphbit",
+    "description": "GraphBit is the world’s first enterprise-grade Agentic AI framework, built on a Rust core with a Python wrapper for unmatched speed, security, and scalability. It enables reliable multi-agent workflow",
+    "stars": 530,
+    "suggestedCategory": "frameworks",
+    "allMatchedCategories": [
+      "frameworks"
+    ],
+    "topics": [
+      "agentic-ai",
+      "agentic-framework",
+      "agentic-workflow",
+      "ai",
+      "ai-agents",
+      "llm",
+      "multi-agent-systems",
+      "python",
+      "rust"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "gastownhall/gascity",
+    "description": "Orchestration-builder SDK for multi-agent coding workflows",
+    "stars": 519,
+    "suggestedCategory": "orchestration",
+    "allMatchedCategories": [
+      "orchestration"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  }
+]
