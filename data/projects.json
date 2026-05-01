@@ -635,5 +635,57 @@
       "protocol"
     ],
     "stars": 1279
+  },
+  {
+    "name": "Cubiczan Swarm Pack",
+    "repo": "zan-maker/cubiczan-swarm-pack",
+    "description": "Zero-token agent swarm intelligence platform combining stigmergic coordination, adversarial consensus (CHP), and Parallel Advantage-Reviewer Learning (PARL) for 9 enterprise domains.",
+    "category": "intelligence",
+    "maintainer": "zan-maker",
+    "tags": [
+      "multi-agent",
+      "swarm",
+      "orchestration"
+    ],
+    "stars": 0
+  },
+  {
+    "name": "GenSwarm",
+    "repo": "zan-maker/genswarm-contract",
+    "description": "Stigmergic Agent Coordination Protocol on GenLayer. A coordination layer for the agentic economy using indirect communication via shared environment markers.",
+    "category": "communication",
+    "maintainer": "zan-maker",
+    "tags": [
+      "multi-agent",
+      "a2a",
+      "open-source"
+    ],
+    "stars": 0
+  },
+  {
+    "name": "SwarmFi",
+    "repo": "zan-maker/swarmfi",
+    "description": "AI swarm intelligence oracle and prediction market protocol on Solana/Initia. Multi-agent consensus mechanisms power decentralized prediction markets with stigmergic coordination.",
+    "category": "intelligence",
+    "maintainer": "zan-maker",
+    "tags": [
+      "multi-agent",
+      "swarm",
+      "research"
+    ],
+    "stars": 0
+  },
+  {
+    "name": "SwarmChat",
+    "repo": "zan-maker/swarmchat",
+    "description": "Multi-agent AI debate platform where three AI personas debate any topic in real-time and reach consensus. Inspired by swarm intelligence with visible deliberation.",
+    "category": "intelligence",
+    "maintainer": "zan-maker",
+    "tags": [
+      "multi-agent",
+      "collaborative",
+      "research"
+    ],
+    "stars": 0
   }
 ]

@@ -92,6 +92,7 @@ Standards and protocols for inter-agent messaging, discovery, and interoperabili
 - [**AgentNetworkProtocol**](https://github.com/agent-network-protocol/AgentNetworkProtocol) - Open source protocol for agent communication with discovery, routing, and cross-network interoperability. by [@agent-network-protocol](https://github.com/agent-network-protocol) (1,279 stars)
 - [**Coral Anemoi**](https://github.com/Coral-Protocol/Anemoi) - Semi-centralized multi-agent coordination via Agent-to-Agent Communication MCP server. Enables cross-framework agent collaboration. by [@Coral-Protocol](https://github.com/Coral-Protocol) (372 stars)
 - [**GEP MCP Server**](https://github.com/EvoMap/gep-mcp-server) - MCP Server for Genome Evolution Protocol. Exposes swarm evolution tools to Claude Desktop, Cursor, and any MCP client. by [@EvoMap](https://github.com/EvoMap) (2 stars)
+- [**GenSwarm**](https://github.com/zan-maker/genswarm-contract) - Stigmergic Agent Coordination Protocol on GenLayer. A coordination layer for the agentic economy using indirect communication via shared environment markers. by [@zan-maker](https://github.com/zan-maker)
 <!-- /AUTOGEN:communication -->
 
 ## Swarm Intelligence
@@ -104,6 +105,9 @@ Emergent behavior, collective reasoning, and self-organizing multi-agent systems
 - [**CAMEL**](https://github.com/camel-ai/camel) - The first multi-agent framework. Finding the Scaling Law of Agents through role-playing and communicative agent collaboration. by [@camel-ai](https://github.com/camel-ai) (16,844 stars)
 - [**ClawTeam**](https://github.com/HKUDS/ClawTeam) - Agent Swarm Intelligence framework. Agents self-organize into collaborative teams with dynamic task allocation, inter-agent messaging, and git worktree isolation. by [@HKUDS](https://github.com/HKUDS) (5,036 stars)
 - [**LatentMAS**](https://github.com/Gen-Verse/LatentMAS) - Latent collaboration in multi-agent systems. Agents reason and collaborate in continuous latent space instead of natural language, reducing communication overhead. by [@Gen-Verse](https://github.com/Gen-Verse) (897 stars)
+- [**Cubiczan Swarm Pack**](https://github.com/zan-maker/cubiczan-swarm-pack) - Zero-token agent swarm intelligence platform combining stigmergic coordination, adversarial consensus (CHP), and Parallel Advantage-Reviewer Learning (PARL) for 9 enterprise domains. by [@zan-maker](https://github.com/zan-maker)
+- [**SwarmFi**](https://github.com/zan-maker/swarmfi) - AI swarm intelligence oracle and prediction market protocol on Solana/Initia. Multi-agent consensus mechanisms power decentralized prediction markets with stigmergic coordination. by [@zan-maker](https://github.com/zan-maker)
+- [**SwarmChat**](https://github.com/zan-maker/swarmchat) - Multi-agent AI debate platform where three AI personas debate any topic in real-time and reach consensus. Inspired by swarm intelligence with visible deliberation. by [@zan-maker](https://github.com/zan-maker)
 <!-- /AUTOGEN:intelligence -->
 
 ## Role-Based Agent Teams
