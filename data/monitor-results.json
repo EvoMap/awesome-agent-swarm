@@ -1,767 +1,821 @@
 {
-  "generated_at": "2026-05-04T11:06:48.305Z",
+  "generated_at": "2026-05-11T12:12:48.767Z",
   "query_count": 8,
-  "total_results": 64,
+  "total_results": 67,
   "items": [
     {
-      "title": "🌐 Global Tech Briefing - 2026-05-04",
-      "url": "https://github.com/AtomChen0425/Global_Trends/issues/77",
-      "repo": "AtomChen0425/Global_Trends",
-      "author": "github-actions[bot]",
-      "comments": 0,
-      "created": "2026-05-04T10:05:37Z",
-      "score": 23,
-      "labels": [
-        "daily-report",
-        "automated"
-      ]
-    },
-    {
-      "title": "🦞 OpenClaw Ecosystem Digest 2026-05-03",
-      "url": "https://github.com/DenisZheng/agents-radar/issues/642",
-      "repo": "DenisZheng/agents-radar",
-      "author": "github-actions[bot]",
-      "comments": 0,
-      "created": "2026-05-03T00:33:10Z",
-      "score": 23,
-      "labels": [
-        "openclaw-en"
-      ]
-    },
-    {
-      "title": "🦞 OpenClaw Ecosystem Digest 2026-05-03",
-      "url": "https://github.com/duanyytop/agents-radar/issues/912",
-      "repo": "duanyytop/agents-radar",
-      "author": "github-actions[bot]",
-      "comments": 0,
-      "created": "2026-05-03T00:32:14Z",
-      "score": 23,
-      "labels": [
-        "openclaw-en"
-      ]
-    },
-    {
-      "title": "🦞 OpenClaw Ecosystem Digest 2026-05-03",
-      "url": "https://github.com/lib182071-prog/agents-radar/issues/14",
-      "repo": "lib182071-prog/agents-radar",
-      "author": "github-actions[bot]",
-      "comments": 0,
-      "created": "2026-05-03T04:00:47Z",
-      "score": 21,
-      "labels": [
-        "openclaw-en"
-      ]
-    },
-    {
-      "title": "RFC: Async / event-driven communication as a first-class capability for Claude Code agents",
-      "url": "https://github.com/anthropics/claude-code/issues/55981",
-      "repo": "anthropics/claude-code",
-      "author": "abaumanndev",
-      "comments": 0,
-      "created": "2026-05-04T10:55:24Z",
-      "score": 19,
-      "labels": [
-        "enhancement",
-        "area:mcp",
-        "area:hooks",
-        "area:agents"
-      ]
-    },
-    {
-      "title": "🦞 Bản tin hàng ngày hệ sinh thái OpenClaw 2026-05-03",
-      "url": "https://github.com/thanhtantran/agents-radar/issues/37",
+      "title": "🦞 Bản tin hàng ngày hệ sinh thái OpenClaw 2026-05-11",
+      "url": "https://github.com/thanhtantran/agents-radar/issues/52",
       "repo": "thanhtantran/agents-radar",
       "author": "thanhtantran",
       "comments": 0,
-      "created": "2026-05-03T02:06:50Z",
+      "created": "2026-05-11T04:45:55Z",
+      "score": 23,
+      "labels": [
+        "openclaw"
+      ]
+    },
+    {
+      "title": "📊 AI CLI Tools Digest 2026-05-11",
+      "url": "https://github.com/wangsehn/agents-radar/issues/97",
+      "repo": "wangsehn/agents-radar",
+      "author": "github-actions[bot]",
+      "comments": 0,
+      "created": "2026-05-11T03:02:25Z",
+      "score": 22,
+      "labels": [
+        "digest-en"
+      ]
+    },
+    {
+      "title": "🦞 OpenClaw Ecosystem Digest 2026-05-11",
+      "url": "https://github.com/yinwm/agents-radar/issues/494",
+      "repo": "yinwm/agents-radar",
+      "author": "github-actions[bot]",
+      "comments": 0,
+      "created": "2026-05-11T02:19:55Z",
+      "score": 22,
+      "labels": [
+        "openclaw-en"
+      ]
+    },
+    {
+      "title": "📊 AI CLI Tools Digest 2026-05-11",
+      "url": "https://github.com/lib182071-prog/agents-radar/issues/116",
+      "repo": "lib182071-prog/agents-radar",
+      "author": "github-actions[bot]",
+      "comments": 0,
+      "created": "2026-05-11T12:02:28Z",
+      "score": 19,
+      "labels": [
+        "digest-en"
+      ]
+    },
+    {
+      "title": "🦞 OpenClaw 生态日报 2026-05-11",
+      "url": "https://github.com/duanyytop/agents-radar/issues/1044",
+      "repo": "duanyytop/agents-radar",
+      "author": "github-actions[bot]",
+      "comments": 0,
+      "created": "2026-05-11T00:31:54Z",
       "score": 19,
       "labels": [
         "openclaw"
       ]
     },
     {
-      "title": "📈 AI Open Source Trends 2026-05-04",
-      "url": "https://github.com/lib182071-prog/agents-radar/issues/17",
-      "repo": "lib182071-prog/agents-radar",
-      "author": "github-actions[bot]",
-      "comments": 0,
-      "created": "2026-05-04T08:51:45Z",
-      "score": 17,
-      "labels": [
-        "trending-en"
-      ]
-    },
-    {
-      "title": "📈 AI Open Source Trends 2026-05-04",
-      "url": "https://github.com/borq168/big_model_radar/issues/135",
-      "repo": "borq168/big_model_radar",
-      "author": "github-actions[bot]",
-      "comments": 0,
-      "created": "2026-05-04T02:09:51Z",
-      "score": 17,
-      "labels": [
-        "trending-en"
-      ]
-    },
-    {
-      "title": "📈 AI Open Source Trends 2026-05-04",
-      "url": "https://github.com/yinwm/agents-radar/issues/421",
+      "title": "📊 AI CLI Tools Digest 2026-05-11",
+      "url": "https://github.com/yinwm/agents-radar/issues/493",
       "repo": "yinwm/agents-radar",
       "author": "github-actions[bot]",
       "comments": 0,
-      "created": "2026-05-04T02:05:20Z",
-      "score": 17,
+      "created": "2026-05-11T02:19:54Z",
+      "score": 18,
       "labels": [
-        "trending-en"
+        "digest-en"
       ]
     },
     {
-      "title": "📈 AI Open Source Trends 2026-05-04",
-      "url": "https://github.com/DenisZheng/agents-radar/issues/644",
-      "repo": "DenisZheng/agents-radar",
+      "title": "📊 AI CLI 工具社区动态日报 2026-05-11",
+      "url": "https://github.com/wangsehn/agents-radar/issues/95",
+      "repo": "wangsehn/agents-radar",
       "author": "github-actions[bot]",
       "comments": 0,
-      "created": "2026-05-04T00:33:14Z",
+      "created": "2026-05-11T03:02:24Z",
       "score": 17,
       "labels": [
-        "trending-en"
+        "digest"
       ]
     },
     {
-      "title": "🦞 OpenClaw Ecosystem Digest 2026-05-04",
-      "url": "https://github.com/lib182071-prog/agents-radar/issues/27",
-      "repo": "lib182071-prog/agents-radar",
+      "title": "🦞 OpenClaw 生态日报 2026-05-11",
+      "url": "https://github.com/yinwm/agents-radar/issues/492",
+      "repo": "yinwm/agents-radar",
       "author": "github-actions[bot]",
       "comments": 0,
-      "created": "2026-05-04T08:54:11Z",
-      "score": 17,
-      "labels": [
-        "openclaw-en"
-      ]
-    },
-    {
-      "title": "Latest 15 Papers - May 04, 2026",
-      "url": "https://github.com/csyifan/ArxivDaily/issues/247",
-      "repo": "csyifan/ArxivDaily",
-      "author": "github-actions[bot]",
-      "comments": 0,
-      "created": "2026-05-04T05:39:16Z",
+      "created": "2026-05-11T02:19:53Z",
       "score": 16,
-      "labels": [
-        "documentation"
-      ]
-    },
-    {
-      "title": "GitHub Daily Top 10 @2026-05-04",
-      "url": "https://github.com/skipmaple/github-daily/issues/1210",
-      "repo": "skipmaple/github-daily",
-      "author": "dailytop10[bot]",
-      "comments": 0,
-      "created": "2026-05-04T00:54:40Z",
-      "score": 15,
-      "labels": []
-    },
-    {
-      "title": "Latest 15 Papers - May 04, 2026",
-      "url": "https://github.com/yanghlll/ArxivDaily-Haolin/issues/204",
-      "repo": "yanghlll/ArxivDaily-Haolin",
-      "author": "github-actions[bot]",
-      "comments": 0,
-      "created": "2026-05-04T05:35:17Z",
-      "score": 14,
-      "labels": [
-        "documentation"
-      ]
-    },
-    {
-      "title": "[Daily Digest] AI Trending - 2026-05-04",
-      "url": "https://github.com/huiyishalou/ai-trending-hub/issues/27",
-      "repo": "huiyishalou/ai-trending-hub",
-      "author": "github-actions[bot]",
-      "comments": 0,
-      "created": "2026-05-04T10:17:37Z",
-      "score": 13,
-      "labels": [
-        "trending",
-        "ai",
-        "daily"
-      ]
-    },
-    {
-      "title": "2026-05-04 AI 早报",
-      "url": "https://github.com/gaohui0611/ai-daily/issues/57",
-      "repo": "gaohui0611/ai-daily",
-      "author": "github-actions[bot]",
-      "comments": 0,
-      "created": "2026-05-04T01:50:23Z",
-      "score": 13,
-      "labels": []
-    },
-    {
-      "title": "🦞 OpenClaw 生态日报 2026-05-03",
-      "url": "https://github.com/DenisZheng/agents-radar/issues/640",
-      "repo": "DenisZheng/agents-radar",
-      "author": "github-actions[bot]",
-      "comments": 0,
-      "created": "2026-05-03T00:33:08Z",
-      "score": 13,
       "labels": [
         "openclaw"
       ]
     },
     {
-      "title": "LLM Daily Update - 2026-05-04 (15 items)",
-      "url": "https://github.com/changao1/updater-for-LLM-tech/issues/77",
-      "repo": "changao1/updater-for-LLM-tech",
+      "title": "📈 AI Open Source Trends 2026-05-11",
+      "url": "https://github.com/wangsehn/agents-radar/issues/88",
+      "repo": "wangsehn/agents-radar",
       "author": "github-actions[bot]",
       "comments": 0,
-      "created": "2026-05-04T10:08:48Z",
-      "score": 11,
+      "created": "2026-05-11T03:00:27Z",
+      "score": 14,
       "labels": [
-        "daily-update"
+        "trending-en"
       ]
     },
     {
-      "title": "Latest 15 Papers - May 04, 2026",
-      "url": "https://github.com/somewordstoolate/DailyArXiv/issues/246",
-      "repo": "somewordstoolate/DailyArXiv",
+      "title": "🦞 OpenClaw 生态日报 2026-05-11",
+      "url": "https://github.com/gsscsd/big_model_radar/issues/326",
+      "repo": "gsscsd/big_model_radar",
       "author": "github-actions[bot]",
       "comments": 0,
-      "created": "2026-05-04T04:42:15Z",
-      "score": 11,
+      "created": "2026-05-11T01:51:29Z",
+      "score": 14,
       "labels": [
-        "documentation"
+        "openclaw"
       ]
     },
     {
-      "title": "AstraNL coordination protocol — possible integration with bytedance/deer-flow",
-      "url": "https://github.com/bytedance/deer-flow/issues/2719",
-      "repo": "bytedance/deer-flow",
-      "author": "tolegm",
+      "title": "📈 Bản tin xu hướng AI mã nguồn mở 2026-05-11",
+      "url": "https://github.com/thanhtantran/agents-radar/issues/51",
+      "repo": "thanhtantran/agents-radar",
+      "author": "thanhtantran",
       "comments": 0,
-      "created": "2026-05-04T09:01:06Z",
-      "score": 11,
-      "labels": []
-    },
-    {
-      "title": "📈 AI 开源趋势日报 2026-05-04",
-      "url": "https://github.com/rollysys/agents-radar/issues/327",
-      "repo": "rollysys/agents-radar",
-      "author": "github-actions[bot]",
-      "comments": 0,
-      "created": "2026-05-04T03:40:37Z",
-      "score": 10,
+      "created": "2026-05-11T04:45:53Z",
+      "score": 13,
       "labels": [
         "trending"
       ]
     },
     {
-      "title": "Implement multi-agent orchestration supervisor/worker pattern",
-      "url": "https://github.com/MukundaKatta/karna/issues/85",
-      "repo": "MukundaKatta/karna",
-      "author": "MukundaKatta",
+      "title": "Implement second AgentBackend (validate protocol shape)",
+      "url": "https://github.com/ColeB1722/fin-assist/issues/140",
+      "repo": "ColeB1722/fin-assist",
+      "author": "ColeB1722",
       "comments": 0,
-      "created": "2026-05-04T08:27:08Z",
-      "score": 10,
-      "labels": [
-        "enhancement",
-        "agent"
-      ]
-    },
-    {
-      "title": "PRD: Add agent-triggered macOS visual snapshot updater",
-      "url": "https://github.com/motech-development/cv-maxxing/issues/126",
-      "repo": "motech-development/cv-maxxing",
-      "author": "mogusbi-motech",
-      "comments": 0,
-      "created": "2026-05-04T10:32:15Z",
-      "score": 9,
+      "created": "2026-05-10T20:03:23Z",
+      "score": 13,
       "labels": []
     },
     {
-      "title": "每日速报 (Daily Digest): 2026-05-04",
-      "url": "https://github.com/xmkxabc/InsightArxiv/issues/223",
-      "repo": "xmkxabc/InsightArxiv",
+      "title": "🦞 OpenClaw 生态日报 2026-05-11",
+      "url": "https://github.com/lib182071-prog/agents-radar/issues/115",
+      "repo": "lib182071-prog/agents-radar",
       "author": "github-actions[bot]",
       "comments": 0,
-      "created": "2026-05-04T08:56:06Z",
-      "score": 9,
+      "created": "2026-05-11T12:02:27Z",
+      "score": 13,
       "labels": [
-        "daily-digest",
-        "automated"
+        "openclaw"
       ]
     },
     {
-      "title": "Latest 15 Papers - May 04, 2026",
-      "url": "https://github.com/likeyan666/DailyArXiv/issues/360",
-      "repo": "likeyan666/DailyArXiv",
+      "title": "External audit (AlphaSignal AI, May 2026): independent review of v3.6.30 functional gaps",
+      "url": "https://github.com/ruvnet/ruflo/issues/1896",
+      "repo": "ruvnet/ruflo",
+      "author": "ruvnet",
+      "comments": 1,
+      "created": "2026-05-11T03:07:24Z",
+      "score": 11,
+      "labels": []
+    },
+    {
+      "title": "📄 New paper candidates: week of 2026-W20",
+      "url": "https://github.com/Rem1L/awesome-ipi-defense/issues/5",
+      "repo": "Rem1L/awesome-ipi-defense",
       "author": "github-actions[bot]",
       "comments": 0,
-      "created": "2026-05-04T02:12:20Z",
+      "created": "2026-05-11T11:58:12Z",
+      "score": 10,
+      "labels": [
+        "paper-candidate"
+      ]
+    },
+    {
+      "title": "[Tech Spec] Self-healing framework: shared checks module powering preflight guards + /diagnose",
+      "url": "https://github.com/dsj1984/agent-protocols/issues/1274",
+      "repo": "dsj1984/agent-protocols",
+      "author": "dsj1984",
+      "comments": 0,
+      "created": "2026-05-11T11:09:10Z",
+      "score": 10,
+      "labels": [
+        "context::tech-spec"
+      ]
+    },
+    {
+      "title": "Weekly Report 2026-05-11",
+      "url": "https://github.com/kagenti/kagenti/issues/1533",
+      "repo": "kagenti/kagenti",
+      "author": "xjacka",
+      "comments": 0,
+      "created": "2026-05-11T08:03:03Z",
+      "score": 10,
+      "labels": []
+    },
+    {
+      "title": "📊 AI CLI 工具社区动态日报 2026-05-11",
+      "url": "https://github.com/lib182071-prog/agents-radar/issues/114",
+      "repo": "lib182071-prog/agents-radar",
+      "author": "github-actions[bot]",
+      "comments": 0,
+      "created": "2026-05-11T12:02:26Z",
+      "score": 10,
+      "labels": [
+        "digest"
+      ]
+    },
+    {
+      "title": "🔍 Weekly Discovery: 50 new tools found (2026-05-11)",
+      "url": "https://github.com/heylabs-co/dev-tools-portal/issues/4",
+      "repo": "heylabs-co/dev-tools-portal",
+      "author": "github-actions[bot]",
+      "comments": 0,
+      "created": "2026-05-11T12:06:21Z",
+      "score": 9,
+      "labels": [
+        "new-tool-discovery"
+      ]
+    },
+    {
+      "title": "docs: cover features added to cuga-agent in the last 6 months",
+      "url": "https://github.com/cuga-project/docs/issues/2",
+      "repo": "cuga-project/docs",
+      "author": "haroldship",
+      "comments": 0,
+      "created": "2026-05-11T12:02:32Z",
+      "score": 9,
+      "labels": [
+        "documentation",
+        "enhancement"
+      ]
+    },
+    {
+      "title": "Latest 15 Papers - May 11, 2026",
+      "url": "https://github.com/yuque01/DailyArXiv/issues/206",
+      "repo": "yuque01/DailyArXiv",
+      "author": "github-actions[bot]",
+      "comments": 0,
+      "created": "2026-05-11T04:53:01Z",
+      "score": 9,
+      "labels": [
+        "documentation"
+      ]
+    },
+    {
+      "title": "Weekly digest — week of 2026-05-11",
+      "url": "https://github.com/AgentWorkforce/proactive-agents/issues/1",
+      "repo": "AgentWorkforce/proactive-agents",
+      "author": "proactive-agents[bot]",
+      "comments": 0,
+      "created": "2026-05-11T09:17:18Z",
+      "score": 9,
+      "labels": [
+        "weekly-digest"
+      ]
+    },
+    {
+      "title": "Latest 15 Papers - May 11, 2026",
+      "url": "https://github.com/Ponkux/DailyArXiv-cp/issues/457",
+      "repo": "Ponkux/DailyArXiv-cp",
+      "author": "github-actions[bot]",
+      "comments": 0,
+      "created": "2026-05-11T05:40:50Z",
       "score": 8,
       "labels": [
         "documentation"
       ]
     },
     {
-      "title": "Proposal: agent.json — universal agent manifest for cross-registry discovery",
-      "url": "https://github.com/punkpeye/awesome-mcp-servers/issues/5762",
-      "repo": "punkpeye/awesome-mcp-servers",
-      "author": "HOTAgithub",
+      "title": "Latest 15 Papers - May 11, 2026",
+      "url": "https://github.com/pstAmbition/DailyArXiv_Multimodal/issues/355",
+      "repo": "pstAmbition/DailyArXiv_Multimodal",
+      "author": "github-actions[bot]",
       "comments": 0,
-      "created": "2026-05-03T05:31:10Z",
-      "score": 8,
-      "labels": []
-    },
-    {
-      "title": "Arxiv Paper Digest for 2026-05-04",
-      "url": "https://github.com/mismayil/daily-arxiv-digest/issues/325",
-      "repo": "mismayil/daily-arxiv-digest",
-      "author": "mismayil",
-      "comments": 0,
-      "created": "2026-05-04T08:55:55Z",
+      "created": "2026-05-11T04:59:30Z",
       "score": 8,
       "labels": [
-        "creativity",
-        "creative"
+        "documentation"
       ]
     },
     {
-      "title": "audit: run pipeline-scripts/audit-unwired-trackers.py once across full codebase to file backlog of wire-in issues (Tier 5 of #6836)",
-      "url": "https://github.com/mrveiss/AutoBot-AI/issues/6872",
-      "repo": "mrveiss/AutoBot-AI",
-      "author": "mrveiss",
+      "title": "Latest 15 Papers - May 11, 2026",
+      "url": "https://github.com/ZCjenny549/DailyArXiv/issues/177",
+      "repo": "ZCjenny549/DailyArXiv",
+      "author": "github-actions[bot]",
       "comments": 0,
-      "created": "2026-05-04T10:48:58Z",
+      "created": "2026-05-11T04:58:41Z",
+      "score": 8,
+      "labels": [
+        "documentation"
+      ]
+    },
+    {
+      "title": "Latest 15 Papers - May 11, 2026",
+      "url": "https://github.com/yanghlll/ArxivDaily-Haolin/issues/209",
+      "repo": "yanghlll/ArxivDaily-Haolin",
+      "author": "github-actions[bot]",
+      "comments": 0,
+      "created": "2026-05-11T05:59:18Z",
+      "score": 8,
+      "labels": [
+        "documentation"
+      ]
+    },
+    {
+      "title": "Workflow automation-v2-0af90431-6b5e-40fd-8b9d-7b982770a851 failed at map_docs_to_ui: One of \"input\" or \"previous_response_id\"or 'prompt'or 'conversation_id' must be provided.",
+      "url": "https://github.com/frumu-ai/tandem/issues/1404",
+      "repo": "frumu-ai/tandem",
+      "author": "tacshade",
+      "comments": 0,
+      "created": "2026-05-11T12:08:54Z",
       "score": 7,
       "labels": [
-        "backend",
-        "infrastructure",
-        "tech-debt",
-        "not-wired"
+        "bug-monitor"
       ]
     },
     {
-      "title": "process: systemic premature-closure pattern — 7+ feature trackers closed before integration (orchestration audit evidence)",
-      "url": "https://github.com/mrveiss/AutoBot-AI/issues/6836",
-      "repo": "mrveiss/AutoBot-AI",
-      "author": "mrveiss",
+      "title": "Check: sub-agent fan-out preflight (no nested Agent dispatch)",
+      "url": "https://github.com/dsj1984/agent-protocols/issues/1306",
+      "repo": "dsj1984/agent-protocols",
+      "author": "dsj1984",
       "comments": 0,
-      "created": "2026-05-04T10:12:54Z",
+      "created": "2026-05-11T11:29:11Z",
       "score": 7,
       "labels": [
-        "frontend",
-        "backend",
-        "testing",
-        "infrastructure",
-        "architecture",
-        "tech-debt",
-        "docs"
+        "type::task",
+        "persona::engineer"
       ]
     },
     {
-      "title": "discovery(agents): RLRouter (Issue #2092) infrastructure-complete but unreachable in production paths (354 LOC)",
-      "url": "https://github.com/mrveiss/AutoBot-AI/issues/6829",
-      "repo": "mrveiss/AutoBot-AI",
-      "author": "mrveiss",
+      "title": "Implement Hermes runtime delegate_task bridge for AgentOrchestratedTranslator",
+      "url": "https://github.com/perejaslav/hermes-ru-document-translator/issues/3",
+      "repo": "perejaslav/hermes-ru-document-translator",
+      "author": "perejaslav",
       "comments": 0,
-      "created": "2026-05-04T10:07:27Z",
-      "score": 7,
-      "labels": [
-        "frontend",
-        "backend",
-        "testing",
-        "infrastructure",
-        "tech-debt",
-        "not-wired"
-      ]
-    },
-    {
-      "title": "[Idea] Project Chimera: Dynamic HyperFrames NFT Generation & Governance via Layer-2 ZK Proofs & Agent Orche",
-      "url": "https://github.com/MosslandOpenDevs/agentic-orchestrator/issues/1713",
-      "repo": "MosslandOpenDevs/agentic-orchestrator",
-      "author": "mossland",
-      "comments": 0,
-      "created": "2026-05-04T09:47:18Z",
-      "score": 7,
-      "labels": [
-        "type:idea",
-        "status:backlog",
-        "generated:by-orchestrator"
-      ]
-    },
-    {
-      "title": "discovery(orchestration): wire in 4 orphaned modules — workflow_planner, workflow_documentation, workflow_memory, agent_registry (~1,260 LOC, 0 production callers)",
-      "url": "https://github.com/mrveiss/AutoBot-AI/issues/6820",
-      "repo": "mrveiss/AutoBot-AI",
-      "author": "mrveiss",
-      "comments": 0,
-      "created": "2026-05-04T09:47:09Z",
-      "score": 7,
-      "labels": [
-        "refactoring",
-        "backend",
-        "tech-debt",
-        "not-wired"
-      ]
-    },
-    {
-      "title": "discovery(orchestration): dual AgentRouter classes (522 LOC vs 68 LOC) with same name, different scope",
-      "url": "https://github.com/mrveiss/AutoBot-AI/issues/6819",
-      "repo": "mrveiss/AutoBot-AI",
-      "author": "mrveiss",
-      "comments": 0,
-      "created": "2026-05-04T09:46:54Z",
-      "score": 7,
-      "labels": [
-        "backend",
-        "testing",
-        "infrastructure",
-        "architecture",
-        "tech-debt",
-        "advanced",
-        "docs"
-      ]
-    },
-    {
-      "title": "spec: SolidJS renderer for A2UI v0.9",
-      "url": "https://github.com/omniaura/solid-gen-ui/issues/13",
-      "repo": "omniaura/solid-gen-ui",
-      "author": "Peyton-Spencer",
-      "comments": 0,
-      "created": "2026-05-03T05:53:21Z",
-      "score": 7,
-      "labels": [
-        "enhancement"
-      ]
-    },
-    {
-      "title": "[Scheduled] Weekly Roadmap Review - 2026-05-04",
-      "url": "https://github.com/jikig-ai/soleur/issues/3161",
-      "repo": "jikig-ai/soleur",
-      "author": "claude[bot]",
-      "comments": 0,
-      "created": "2026-05-04T11:03:05Z",
-      "score": 7,
-      "labels": [
-        "scheduled-roadmap-review"
-      ]
-    },
-    {
-      "title": "HTTP API sidecar for kernel execution to enable agent/CLI tooling integration",
-      "url": "https://github.com/marimo-team/marimo/issues/9444",
-      "repo": "marimo-team/marimo",
-      "author": "atemate",
-      "comments": 0,
-      "created": "2026-05-04T11:01:24Z",
+      "created": "2026-05-11T11:25:42Z",
       "score": 7,
       "labels": [
         "enhancement",
-        "needs discussion"
+        "hermes-runtime",
+        "integration"
       ]
     },
     {
-      "title": "[refactor] Semantic Function Clustering Analysis — Refactoring Opportunities",
-      "url": "https://github.com/github/gh-aw-mcpg/issues/5075",
-      "repo": "github/gh-aw-mcpg",
-      "author": "github-actions[bot]",
-      "comments": 0,
-      "created": "2026-05-04T10:58:20Z",
+      "title": "RFC: Composable Agent Persona Layers — Decoupling Domain Axes from Behavior Norms",
+      "url": "https://github.com/Q00/ouroboros/issues/830",
+      "repo": "Q00/ouroboros",
+      "author": "Q00",
+      "comments": 1,
+      "created": "2026-05-11T11:17:18Z",
       "score": 7,
       "labels": [
-        "refactoring",
-        "code-quality",
-        "automated-analysis"
+        "enhancement",
+        "needs-design"
       ]
     },
     {
-      "title": "PRD: Agent Operations Tooling and Custom Operation Mode",
-      "url": "https://github.com/DIII-SDU-Group/III-Drone-ros2-ws/issues/15",
-      "repo": "DIII-SDU-Group/III-Drone-ros2-ws",
-      "author": "frnyb",
+      "title": "📈 AI 开源趋势日报 2026-05-11",
+      "url": "https://github.com/wangsehn/agents-radar/issues/87",
+      "repo": "wangsehn/agents-radar",
+      "author": "github-actions[bot]",
       "comments": 0,
-      "created": "2026-05-04T10:57:27Z",
+      "created": "2026-05-11T03:00:27Z",
+      "score": 7,
+      "labels": [
+        "trending"
+      ]
+    },
+    {
+      "title": "Latest 15 Papers - May 11, 2026",
+      "url": "https://github.com/likeyan666/DailyArXiv/issues/363",
+      "repo": "likeyan666/DailyArXiv",
+      "author": "github-actions[bot]",
+      "comments": 1,
+      "created": "2026-05-11T02:34:53Z",
       "score": 6,
       "labels": [
-        "needs-triage"
+        "documentation"
       ]
     },
     {
-      "title": "feat: robust A2A integration — actor identity resolution, protocol bridge backend, and outbound path",
-      "url": "https://github.com/casehubio/qhorus/issues/135",
-      "repo": "casehubio/qhorus",
-      "author": "mdproctor",
-      "comments": 1,
-      "created": "2026-05-04T00:54:13Z",
-      "score": 5,
+      "title": "Workflow automation-v2-65662b51-ab4e-4348-8349-ea10e7b634c6 failed at gather_reddit_signals: automation run failed from node outcomes: gather_reddit_signals, inspect_notion_row",
+      "url": "https://github.com/frumu-ai/tandem/issues/1410",
+      "repo": "frumu-ai/tandem",
+      "author": "tacshade",
+      "comments": 0,
+      "created": "2026-05-11T12:10:18Z",
+      "score": 6,
       "labels": [
-        "enhancement"
+        "bug-monitor"
       ]
     },
     {
-      "title": "Kagenti integration: Agent Card discovery and operator labels for OCP",
-      "url": "https://github.com/jordigilh/kubernaut-apifrontend/issues/27",
-      "repo": "jordigilh/kubernaut-apifrontend",
-      "author": "jordigilh",
-      "comments": 1,
-      "created": "2026-05-02T23:34:04Z",
+      "title": "Workflow automation-v2-65662b51-ab4e-4348-8349-ea10e7b634c6 failed at gather_reddit_signals: automation run blocked: no runnable nodes remain",
+      "url": "https://github.com/frumu-ai/tandem/issues/1408",
+      "repo": "frumu-ai/tandem",
+      "author": "tacshade",
+      "comments": 0,
+      "created": "2026-05-11T12:09:53Z",
+      "score": 6,
+      "labels": [
+        "bug-monitor"
+      ]
+    },
+    {
+      "title": "Workflow automation-v2-951fded3-a645-4a5f-be55-cccffce4c2b2 failed at extract_pain_points: automation run blocked by upstream node outcome",
+      "url": "https://github.com/frumu-ai/tandem/issues/1407",
+      "repo": "frumu-ai/tandem",
+      "author": "tacshade",
+      "comments": 0,
+      "created": "2026-05-11T12:09:46Z",
+      "score": 6,
+      "labels": [
+        "bug-monitor"
+      ]
+    },
+    {
+      "title": "Workflow automation-v2-65662b51-ab4e-4348-8349-ea10e7b634c6 failed at validate_report: automation run failed from node outcomes: validate_report",
+      "url": "https://github.com/frumu-ai/tandem/issues/1403",
+      "repo": "frumu-ai/tandem",
+      "author": "tacshade",
+      "comments": 0,
+      "created": "2026-05-11T12:08:47Z",
+      "score": 6,
+      "labels": [
+        "bug-monitor"
+      ]
+    },
+    {
+      "title": "Workflow automation-v2-65662b51-ab4e-4348-8349-ea10e7b634c6 failed at automation_v2: automation run blocked by upstream node outcome",
+      "url": "https://github.com/frumu-ai/tandem/issues/1402",
+      "repo": "frumu-ai/tandem",
+      "author": "tacshade",
+      "comments": 0,
+      "created": "2026-05-11T12:08:40Z",
+      "score": 6,
+      "labels": [
+        "bug-monitor"
+      ]
+    },
+    {
+      "title": "Build a parallel Cursor Cloud Agents workflow",
+      "url": "https://github.com/tinyhumansai/openhuman/issues/1480",
+      "repo": "tinyhumansai/openhuman",
+      "author": "Al629176",
+      "comments": 0,
+      "created": "2026-05-11T07:42:30Z",
+      "score": 6,
+      "labels": []
+    },
+    {
+      "title": "Extract workflow logic from YAML to agentic-devtools library with CI-provider abstraction",
+      "url": "https://github.com/ayaiayorg/agentic-devtools/issues/1400",
+      "repo": "ayaiayorg/agentic-devtools",
+      "author": "acmarsnik",
+      "comments": 2,
+      "created": "2026-05-11T11:46:37Z",
       "score": 5,
       "labels": []
     },
     {
-      "title": "🔍 Weekly Discovery: 50 new tools found (2026-05-04)",
-      "url": "https://github.com/heylabs-co/dev-tools-portal/issues/2",
-      "repo": "heylabs-co/dev-tools-portal",
-      "author": "github-actions[bot]",
+      "title": "Refactor agent: first-class Basecamp module (messaging/storage/accounts deps), public API, daemon vs logos-core",
+      "url": "https://github.com/vpavlin/lmao/issues/19",
+      "repo": "vpavlin/lmao",
+      "author": "vpavlin",
       "comments": 0,
-      "created": "2026-05-04T11:01:39Z",
-      "score": 5,
-      "labels": [
-        "new-tool-discovery"
-      ]
-    },
-    {
-      "title": "LiteLLM issue summary - 2026-05-04",
-      "url": "https://github.com/arielb1-sun-security/copilot-studio-test/issues/961",
-      "repo": "arielb1-sun-security/copilot-studio-test",
-      "author": "arielb1-sun-security",
-      "comments": 0,
-      "created": "2026-05-04T11:00:20Z",
+      "created": "2026-05-10T14:28:31Z",
       "score": 5,
       "labels": []
     },
     {
       "title": "🔄 Skill drift detected — bundled references may be outdated",
-      "url": "https://github.com/tensorlakeai/tensorlake-skills/issues/50",
+      "url": "https://github.com/tensorlakeai/tensorlake-skills/issues/53",
       "repo": "tensorlakeai/tensorlake-skills",
       "author": "github-actions[bot]",
       "comments": 0,
-      "created": "2026-05-04T09:51:37Z",
+      "created": "2026-05-11T10:19:48Z",
       "score": 5,
       "labels": [
         "drift"
       ]
     },
     {
-      "title": "perf: simplified planning route slower than baseline LangChain deep agent on simple tasks",
-      "url": "https://github.com/cuga-project/cuga-agent/issues/187",
-      "repo": "cuga-project/cuga-agent",
-      "author": "haroldship",
-      "comments": 1,
-      "created": "2026-05-04T10:39:32Z",
+      "title": "security",
+      "url": "https://github.com/0x4m4/hexstrike-ai/issues/183",
+      "repo": "0x4m4/hexstrike-ai",
+      "author": "samsongetengah-coder",
+      "comments": 0,
+      "created": "2026-05-11T10:14:36Z",
       "score": 5,
+      "labels": []
+    },
+    {
+      "title": "New workflow: archon-idea-to-wo (interactive idea → BKM Work Orders)",
+      "url": "https://github.com/lamachine/Archon/issues/1",
+      "repo": "lamachine/Archon",
+      "author": "lamachine",
+      "comments": 0,
+      "created": "2026-05-11T05:15:35Z",
+      "score": 5,
+      "labels": [
+        "enhancement",
+        "workflow"
+      ]
+    },
+    {
+      "title": "[CVE] CVE-2026-27124: upgrade fastmcp from 3.1.0",
+      "url": "https://github.com/sebastiantonap/superset/issues/224",
+      "repo": "sebastiantonap/superset",
+      "author": "github-actions[bot]",
+      "comments": 0,
+      "created": "2026-05-11T12:09:27Z",
+      "score": 4,
+      "labels": [
+        "vulnerability"
+      ]
+    },
+    {
+      "title": "feat: MCP サーバー — Claude Desktop / Cursor / Cline から NoteDeck capability を呼び出す",
+      "url": "https://github.com/hitalin/notedeck/issues/513",
+      "repo": "hitalin/notedeck",
+      "author": "hitalin",
+      "comments": 0,
+      "created": "2026-05-11T12:05:02Z",
+      "score": 4,
+      "labels": [
+        "✨Feature",
+        "🗺Roadmap",
+        "[Feat] Plugin",
+        "[Feat] AI"
+      ]
+    },
+    {
+      "title": "bug: /idd-verify 結束沒確認 teams 被關掉 — TeamDelete fails on idle-but-active reviewers + no cleanup SOP",
+      "url": "https://github.com/PsychQuant/issue-driven-development/issues/70",
+      "repo": "PsychQuant/issue-driven-development",
+      "author": "kiki830621",
+      "comments": 0,
+      "created": "2026-05-11T11:14:40Z",
+      "score": 4,
+      "labels": [
+        "bug"
+      ]
+    },
+    {
+      "title": "Stage C: Debug Loop — auto-fix on integration holdout failure",
+      "url": "https://github.com/liker0704/haru/issues/240",
+      "repo": "liker0704/haru",
+      "author": "liker0704",
+      "comments": 0,
+      "created": "2026-05-11T08:40:14Z",
+      "score": 4,
+      "labels": [
+        "enhancement",
+        "priority:high",
+        "difficulty:complex",
+        "area:mission",
+        "area:agents"
+      ]
+    },
+    {
+      "title": "Automated code refactoring analysis",
+      "url": "https://github.com/devdocket/devdocket/issues/531",
+      "repo": "devdocket/devdocket",
+      "author": "github-actions[bot]",
+      "comments": 1,
+      "created": "2026-05-11T06:01:53Z",
+      "score": 4,
+      "labels": [
+        "refactoring",
+        "automated",
+        "copilot"
+      ]
+    },
+    {
+      "title": "Lack of Resource Limits and DoS Vulnerability",
+      "url": "https://github.com/google-gemini/gemini-cli/issues/26821",
+      "repo": "google-gemini/gemini-cli",
+      "author": "Codeleafly",
+      "comments": 1,
+      "created": "2026-05-10T17:10:30Z",
+      "score": 3,
+      "labels": [
+        "priority/p2",
+        "area/core",
+        "area/security",
+        "status/bot-triaged",
+        "kind/bug",
+        "effort/large"
+      ]
+    },
+    {
+      "title": "Temporal Knowledge Leakage in LLM Backtesting (Model-Level Future Information Contamination)",
+      "url": "https://github.com/TauricResearch/TradingAgents/issues/805",
+      "repo": "TauricResearch/TradingAgents",
+      "author": "KenCheung-AIxFinance",
+      "comments": 0,
+      "created": "2026-05-11T08:33:23Z",
+      "score": 3,
+      "labels": []
+    },
+    {
+      "title": "Gemini CLI Reliability Issue – Misleading Execution Progress and Unsafe Fallback Behavior",
+      "url": "https://github.com/google-gemini/gemini-cli/issues/26855",
+      "repo": "google-gemini/gemini-cli",
+      "author": "haocyclone",
+      "comments": 1,
+      "created": "2026-05-11T11:03:00Z",
+      "score": 2,
+      "labels": [
+        "priority/p2",
+        "area/agent",
+        "status/bot-triaged",
+        "kind/bug"
+      ]
+    },
+    {
+      "title": "Defense #5 v2: UserPromptSubmit journal + orchestrator Human:-prefix self-check (supersedes #705)",
+      "url": "https://github.com/Synaptic-Labs-AI/PACT-Plugin/issues/715",
+      "repo": "Synaptic-Labs-AI/PACT-Plugin",
+      "author": "michael-wojcik",
+      "comments": 1,
+      "created": "2026-05-11T07:17:45Z",
+      "score": 2,
       "labels": [
         "enhancement"
       ]
     },
     {
-      "title": "[ALERT] Predictor API failed (2026-05-04 11:00 UTC)",
-      "url": "https://github.com/scottaubuchon/aubuchon-it-command-center/issues/84",
-      "repo": "scottaubuchon/aubuchon-it-command-center",
-      "author": "scottaubuchon",
-      "comments": 0,
-      "created": "2026-05-04T11:01:11Z",
-      "score": 4,
-      "labels": []
-    },
-    {
-      "title": "Exercise: Integrate MCP with Copilot",
-      "url": "https://github.com/abinrimal/skills-integrate-mcp-with-copilot/issues/1",
-      "repo": "abinrimal/skills-integrate-mcp-with-copilot",
-      "author": "github-actions[bot]",
-      "comments": 2,
-      "created": "2026-05-04T10:58:13Z",
-      "score": 4,
-      "labels": []
-    },
-    {
-      "title": "Add a changelog or release notes for v1.0.0",
-      "url": "https://github.com/withAIx/DeepSeek-AppForge/issues/5",
-      "repo": "withAIx/DeepSeek-AppForge",
-      "author": "withAIx",
-      "comments": 0,
-      "created": "2026-05-04T08:29:18Z",
-      "score": 4,
+      "title": "[Epic] Genpano product governance reset: PRD, frontend, architecture, and delivery plan",
+      "url": "https://github.com/jotamotk/X/issues/462",
+      "repo": "jotamotk/X",
+      "author": "jotamotk",
+      "comments": 1,
+      "created": "2026-05-11T08:07:52Z",
+      "score": 2,
       "labels": [
-        "documentation",
-        "good first issue"
+        "agent:lead",
+        "type:epic",
+        "status:briefing",
+        "area:governance",
+        "area:architecture",
+        "priority:p0"
       ]
     },
     {
-      "title": "[orchestrate] Layered network refactor — 11-phase execution",
-      "url": "https://github.com/chughtapan/moltzap/issues/415",
-      "repo": "chughtapan/moltzap",
-      "author": "chughtapan",
-      "comments": 4,
-      "created": "2026-05-04T09:16:06Z",
-      "score": 3,
+      "title": "Exercise: Getting Started with GitHub Copilot",
+      "url": "https://github.com/1191034852-tech/skills-getting-started-with-github-copilot/issues/1",
+      "repo": "1191034852-tech/skills-getting-started-with-github-copilot",
+      "author": "github-actions[bot]",
+      "comments": 2,
+      "created": "2026-05-11T12:04:31Z",
+      "score": 1,
+      "labels": []
+    },
+    {
+      "title": "Exercise: Getting Started with GitHub Copilot",
+      "url": "https://github.com/denisgular/skills-getting-started-with-github-copilot/issues/1",
+      "repo": "denisgular/skills-getting-started-with-github-copilot",
+      "author": "github-actions[bot]",
+      "comments": 2,
+      "created": "2026-05-11T12:03:23Z",
+      "score": 1,
+      "labels": []
+    },
+    {
+      "title": "Exercise: Getting Started with GitHub Copilot",
+      "url": "https://github.com/pavitrapapiofficial/skills-getting-started-with-github-copilot/issues/1",
+      "repo": "pavitrapapiofficial/skills-getting-started-with-github-copilot",
+      "author": "github-actions[bot]",
+      "comments": 2,
+      "created": "2026-05-11T11:53:59Z",
+      "score": 1,
+      "labels": []
+    },
+    {
+      "title": "Exercise: Getting Started with GitHub Copilot",
+      "url": "https://github.com/SubhamDey497/skills-getting-started-with-github-copilot/issues/1",
+      "repo": "SubhamDey497/skills-getting-started-with-github-copilot",
+      "author": "github-actions[bot]",
+      "comments": 2,
+      "created": "2026-05-11T11:53:35Z",
+      "score": 1,
+      "labels": []
+    },
+    {
+      "title": "Exercise: Getting Started with GitHub Copilot",
+      "url": "https://github.com/waglcom/skills-getting-started-with-github-copilot/issues/1",
+      "repo": "waglcom/skills-getting-started-with-github-copilot",
+      "author": "github-actions[bot]",
+      "comments": 2,
+      "created": "2026-05-11T11:48:52Z",
+      "score": 1,
+      "labels": []
+    },
+    {
+      "title": "Exercise: Getting Started with GitHub Copilot",
+      "url": "https://github.com/mitheeleshpawar/skills-getting-started-with-github-copilot/issues/1",
+      "repo": "mitheeleshpawar/skills-getting-started-with-github-copilot",
+      "author": "github-actions[bot]",
+      "comments": 2,
+      "created": "2026-05-11T11:48:06Z",
+      "score": 1,
+      "labels": []
+    },
+    {
+      "title": "Exercise: Getting Started with GitHub Copilot",
+      "url": "https://github.com/Aakrity9/skills-getting-started-with-github-copilot/issues/1",
+      "repo": "Aakrity9/skills-getting-started-with-github-copilot",
+      "author": "github-actions[bot]",
+      "comments": 2,
+      "created": "2026-05-11T11:45:50Z",
+      "score": 1,
+      "labels": []
+    },
+    {
+      "title": "Exercise: Getting Started with GitHub Copilot",
+      "url": "https://github.com/m-kno/skills-getting-started-with-github-copilot/issues/1",
+      "repo": "m-kno/skills-getting-started-with-github-copilot",
+      "author": "github-actions[bot]",
+      "comments": 2,
+      "created": "2026-05-11T11:39:22Z",
+      "score": 1,
+      "labels": []
+    },
+    {
+      "title": "Exercise: Getting Started with GitHub Copilot",
+      "url": "https://github.com/nehachauhan2812/skills-getting-started-with-github-copilot/issues/1",
+      "repo": "nehachauhan2812/skills-getting-started-with-github-copilot",
+      "author": "github-actions[bot]",
+      "comments": 2,
+      "created": "2026-05-11T11:37:06Z",
+      "score": 1,
+      "labels": []
+    },
+    {
+      "title": "guided 'optimize for my workload' flow — connecting primitives into an opinionated orchestrator",
+      "url": "https://github.com/kstrat2001/darkmux/issues/35",
+      "repo": "kstrat2001/darkmux",
+      "author": "kstrat2001",
+      "comments": 2,
+      "created": "2026-05-11T07:40:04Z",
+      "score": 1,
       "labels": [
-        "triaged"
+        "enhancement"
       ]
     },
     {
-      "title": "omx setup writes `command = \"node\"` which fails on systems without node on PATH (NixOS, distroless containers)",
-      "url": "https://github.com/Yeachan-Heo/oh-my-codex/issues/2098",
-      "repo": "Yeachan-Heo/oh-my-codex",
-      "author": "zitongcharliedeng",
-      "comments": 1,
-      "created": "2026-05-04T10:56:29Z",
-      "score": 2,
-      "labels": []
-    },
-    {
-      "title": "[Legitimate Site Blocked] csgofast.store [support@csgofast.com]",
-      "url": "https://github.com/msurgenor/Support-Repo/issues/543",
-      "repo": "msurgenor/Support-Repo",
-      "author": "ftech-byt",
-      "comments": 1,
-      "created": "2026-05-04T07:40:11Z",
-      "score": 2,
-      "labels": []
-    },
-    {
-      "title": "Hard E2E runtime-regression failures after RFC-007 closeout",
-      "url": "https://github.com/krisshkodrani/OpenSidebar/issues/19",
-      "repo": "krisshkodrani/OpenSidebar",
-      "author": "krisshkodrani",
-      "comments": 0,
-      "created": "2026-05-04T05:49:29Z",
-      "score": 2,
-      "labels": []
-    },
-    {
-      "title": "[trace-curation] swebench: per-call trace metrics from HAL Mini-50 ZIPs",
-      "url": "https://github.com/aims-foundations/measurement-db/issues/2",
-      "repo": "aims-foundations/measurement-db",
-      "author": "AlfredSjoqvist",
-      "comments": 1,
-      "created": "2026-05-04T05:08:57Z",
-      "score": 2,
-      "labels": []
-    },
-    {
-      "title": "Exercise: Getting Started with GitHub Copilot",
-      "url": "https://github.com/Philj1605/skills-getting-started-with-github-copilot/issues/1",
-      "repo": "Philj1605/skills-getting-started-with-github-copilot",
-      "author": "github-actions[bot]",
-      "comments": 2,
-      "created": "2026-05-04T10:58:12Z",
+      "title": "[source] Seedance Makes A Splash, Nvidia's AI-Guided Chip Designs, Helping Robots Not Forget",
+      "url": "https://github.com/steveash/hitchhikers-guide-to-ai-native-engineering/issues/653",
+      "repo": "steveash/hitchhikers-guide-to-ai-native-engineering",
+      "author": "steveash",
+      "comments": 3,
+      "created": "2026-05-11T07:07:12Z",
       "score": 1,
+      "labels": [
+        "new-source",
+        "source-submission",
+        "priority:medium",
+        "pre-screen:pass",
+        "mining-queued",
+        "trusted-feed",
+        "triaged:text"
+      ]
+    },
+    {
+      "title": "Stabilize canon access and extract useful work before new ratification",
+      "url": "https://github.com/atlaslattice/manus-artifacts/issues/67",
+      "repo": "atlaslattice/manus-artifacts",
+      "author": "atlaslattice",
+      "comments": 25,
+      "created": "2026-05-11T08:26:15Z",
+      "score": 0,
+      "labels": [
+        "not-canon",
+        "continuity",
+        "ops",
+        "canon-access",
+        "extraction",
+        "high-priority"
+      ]
+    },
+    {
+      "title": "[Sprint] 260511-Sprint-16:08 - market_monitoring이 KIS 프로그램·회원사 프록시와 REST 보정값으로 주체별 수급 강도·가격 연관성을 표시한다",
+      "url": "https://github.com/Kims-DeveloperGroup/every-day-agent/issues/56",
+      "repo": "Kims-DeveloperGroup/every-day-agent",
+      "author": "rica-v3",
+      "comments": 65,
+      "created": "2026-05-11T11:56:13Z",
+      "score": 0,
       "labels": []
     },
     {
-      "title": "Exercise: Getting Started with GitHub Copilot",
-      "url": "https://github.com/rahula72/skills-getting-started-with-github-copilot/issues/1",
-      "repo": "rahula72/skills-getting-started-with-github-copilot",
-      "author": "github-actions[bot]",
-      "comments": 2,
-      "created": "2026-05-04T10:55:17Z",
-      "score": 1,
-      "labels": []
-    },
-    {
-      "title": "Exercise: Getting Started with GitHub Copilot",
-      "url": "https://github.com/ReddyCBalaji/skills-getting-started-with-github-copilot/issues/1",
-      "repo": "ReddyCBalaji/skills-getting-started-with-github-copilot",
-      "author": "github-actions[bot]",
-      "comments": 2,
-      "created": "2026-05-04T10:45:48Z",
-      "score": 1,
-      "labels": []
-    },
-    {
-      "title": "Exercise: Getting Started with GitHub Copilot",
-      "url": "https://github.com/dMakarow/skills-getting-started-with-github-copilot/issues/1",
-      "repo": "dMakarow/skills-getting-started-with-github-copilot",
-      "author": "github-actions[bot]",
-      "comments": 2,
-      "created": "2026-05-04T10:38:23Z",
-      "score": 1,
-      "labels": []
-    },
-    {
-      "title": "Exercise: Getting Started with GitHub Copilot",
-      "url": "https://github.com/bartkezet/skills-getting-started-with-github-copilot/issues/1",
-      "repo": "bartkezet/skills-getting-started-with-github-copilot",
-      "author": "github-actions[bot]",
-      "comments": 2,
-      "created": "2026-05-04T10:32:03Z",
-      "score": 1,
-      "labels": []
-    },
-    {
-      "title": "Exercise: Getting Started with GitHub Copilot",
-      "url": "https://github.com/SagaciousAO/skills-getting-started-with-github-copilot/issues/1",
-      "repo": "SagaciousAO/skills-getting-started-with-github-copilot",
-      "author": "github-actions[bot]",
-      "comments": 2,
-      "created": "2026-05-04T10:28:44Z",
-      "score": 1,
-      "labels": []
-    },
-    {
-      "title": "Exercise: Getting Started with GitHub Copilot",
-      "url": "https://github.com/ZwGe/skills-getting-started-with-github-copilot/issues/1",
-      "repo": "ZwGe/skills-getting-started-with-github-copilot",
-      "author": "github-actions[bot]",
-      "comments": 5,
-      "created": "2026-05-04T10:04:01Z",
-      "score": 1,
-      "labels": []
-    },
-    {
-      "title": "Exercise: Getting Started with GitHub Copilot",
-      "url": "https://github.com/HariKrishnaChowdhary/githubcopilotexercise/issues/1",
-      "repo": "HariKrishnaChowdhary/githubcopilotexercise",
-      "author": "github-actions[bot]",
-      "comments": 2,
-      "created": "2026-05-04T10:01:58Z",
-      "score": 1,
-      "labels": []
-    },
-    {
-      "title": "赠送干员礼物时，干员联络台联系到的干员满好感导致无法赠送礼物",
-      "url": "https://github.com/MaaEnd/MaaEnd/issues/2676",
-      "repo": "MaaEnd/MaaEnd",
-      "author": "MiXWonder",
-      "comments": 1,
-      "created": "2026-05-04T10:56:40Z",
+      "title": "validate_session_json.py: false-positive 'Evidence contradiction' warnings on multi-scope evidence",
+      "url": "https://github.com/rjmurillo/ai-agents/issues/2007",
+      "repo": "rjmurillo/ai-agents",
+      "author": "rjmurillo",
+      "comments": 3,
+      "created": "2026-05-11T03:45:27Z",
       "score": 0,
       "labels": [
         "bug",
-        "task: 赠送干员礼物"
-      ]
-    },
-    {
-      "title": "Reviewer breaks the auto Review↔Iterate loop after the 1st iteration (ignores limits.max_iterations cap)",
-      "url": "https://github.com/big-emotion/ferry/issues/168",
-      "repo": "big-emotion/ferry",
-      "author": "kooljo",
-      "comments": 4,
-      "created": "2026-05-04T08:41:18Z",
-      "score": 0,
-      "labels": []
-    },
-    {
-      "title": "[P0 blocker] Linear credential propagation prevents NEX team issue checks",
-      "url": "https://github.com/rapartlu/agent-orchestrator/issues/1496",
-      "repo": "rapartlu/agent-orchestrator",
-      "author": "rapartlu",
-      "comments": 5,
-      "created": "2026-05-04T07:14:31Z",
-      "score": 0,
-      "labels": []
-    },
-    {
-      "title": "[agent]",
-      "url": "https://github.com/KirillWeb2/ghi-agent-pipeline/issues/27",
-      "repo": "KirillWeb2/ghi-agent-pipeline",
-      "author": "KirillWeb2",
-      "comments": 1,
-      "created": "2026-05-04T05:19:32Z",
-      "score": 0,
-      "labels": [
-        "agent:planned"
+        "documentation",
+        "agent-critic",
+        "agent-qa",
+        "agent-explainer",
+        "agent-memory",
+        "area-infrastructure",
+        "priority:P2",
+        "area-skills"
       ]
     }
   ]
