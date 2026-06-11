@@ -13,7 +13,7 @@ permissions:
 
 jobs:
   check:
-    runs-on: ubuntu-latest
+    runs-on: ${{ fromJSON(vars.CI_LABEL_LINUX_X64) }}
     steps:
       - uses: actions/checkout@v4
 
