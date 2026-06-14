@@ -2248,5 +2248,635 @@
     "topics": [],
     "status": "rejected",
     "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "zhayujie/CowAgent",
+    "description": "Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (form",
+    "stars": 45295,
+    "suggestedCategory": "task-decomposition",
+    "allMatchedCategories": [
+      "task-decomposition"
+    ],
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "chatgpt-on-wechat",
+      "claude",
+      "claude-code",
+      "codex",
+      "cowagent",
+      "deepseek",
+      "harness"
+    ],
+    "status": "pending",
+    "discoveredAt": "2026-06-14"
+  },
+  {
+    "repo": "conductor-oss/conductor",
+    "description": "Event-driven agentic workflow engine providing durable, highly resilient orchestration for applications and AI agent pipelines",
+    "stars": 31955,
+    "suggestedCategory": "orchestration",
+    "allMatchedCategories": [
+      "orchestration"
+    ],
+    "topics": [
+      "distributed-systems",
+      "durable-execution",
+      "grpc",
+      "java",
+      "javascript",
+      "microservice-orchestration",
+      "orchestration-engine",
+      "orchestrator",
+      "reactjs",
+      "spring-boot"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-06-14",
+    "name": "Conductor"
+  },
+  {
+    "repo": "OthmanAdi/planning-with-files",
+    "description": "Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic completion gate and multi-agen",
+    "stars": 23285,
+    "suggestedCategory": "task-decomposition",
+    "allMatchedCategories": [
+      "task-decomposition",
+      "swarm-coding"
+    ],
+    "topics": [
+      "agent-skills",
+      "agentic-ai",
+      "ai-agents",
+      "autonomous-agents",
+      "claude",
+      "claude-code",
+      "claude-skills",
+      "codex",
+      "coding-agent",
+      "context-engineering"
+    ],
+    "status": "pending",
+    "discoveredAt": "2026-06-14"
+  },
+  {
+    "repo": "AgentWrapper/agent-orchestrator",
+    "description": " Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI    fixes, merge conflicts, and code reviews.",
+    "stars": 7544,
+    "suggestedCategory": "task-decomposition",
+    "allMatchedCategories": [
+      "task-decomposition",
+      "swarm-coding"
+    ],
+    "topics": [
+      "agent-fleet",
+      "agent-swarm",
+      "claude-code",
+      "codex-cli",
+      "git-worktrees",
+      "multi-agent",
+      "orchestration",
+      "orchestrator",
+      "parallel-agents",
+      "parallel-coding"
+    ],
+    "status": "pending",
+    "discoveredAt": "2026-06-14"
+  },
+  {
+    "repo": "hatchet-dev/hatchet",
+    "description": "Orchestration engine for background tasks, AI agents, and durable workflows. Queues, scheduling, and durable execution for agent pipelines",
+    "stars": 7341,
+    "suggestedCategory": "orchestration",
+    "allMatchedCategories": [
+      "orchestration"
+    ],
+    "topics": [
+      "concurrency",
+      "dag",
+      "distributed",
+      "distributed-systems",
+      "durable-execution",
+      "event-driven",
+      "fastapi",
+      "golang",
+      "nodejs",
+      "python"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-06-14",
+    "name": "Hatchet"
+  },
+  {
+    "repo": "stagewise-io/stagewise",
+    "description": "Open-source agentic IDE. Create and orchestrate multiple coding agents, preview apps, and run git workflows across model providers",
+    "stars": 6678,
+    "suggestedCategory": "swarm-coding",
+    "allMatchedCategories": [
+      "orchestration"
+    ],
+    "topics": [
+      "agent",
+      "agent-orchestration",
+      "ide"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-06-14",
+    "name": "stagewise"
+  },
+  {
+    "repo": "dagucloud/dagu",
+    "description": "Local-first workflow engine with a Web UI for small teams. Define DAGs in a declarative YAML format. Self-contained and no DBMS required. Use any AI agent to manage your DAGs.",
+    "stars": 3482,
+    "suggestedCategory": "orchestration",
+    "allMatchedCategories": [
+      "orchestration"
+    ],
+    "topics": [
+      "agentic-workflow",
+      "cron",
+      "data-pipeline",
+      "devops",
+      "durable-execution",
+      "durable-workflows",
+      "human-in-the-loop",
+      "job-scheduler",
+      "mcp-server",
+      "multiplayer-agent"
+    ],
+    "status": "pending",
+    "discoveredAt": "2026-06-14"
+  },
+  {
+    "repo": "SeemSeam/claude_codex_bridge",
+    "description": "Visible multi-agent CLI workspace for mixing Codex, Claude, Gemini, Kimi, Qwen, Cursor, Copilot, Pi, OpenCode, and other AI coding agents",
+    "stars": 2982,
+    "suggestedCategory": "swarm-coding",
+    "allMatchedCategories": [
+      "swarm-coding"
+    ],
+    "topics": [
+      "ai-coding",
+      "ai-collaboration",
+      "antigravity",
+      "claude-code",
+      "cli",
+      "codex",
+      "coding-agent",
+      "crush",
+      "cursor-agent",
+      "gemini"
+    ],
+    "status": "pending",
+    "discoveredAt": "2026-06-14"
+  },
+  {
+    "repo": "browser-act/skills",
+    "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated m",
+    "stars": 2483,
+    "suggestedCategory": "task-decomposition",
+    "allMatchedCategories": [
+      "task-decomposition"
+    ],
+    "topics": [
+      "ai-agents",
+      "automation",
+      "claude-cli",
+      "claude-code",
+      "claude-code-skills",
+      "claude-skills",
+      "codex",
+      "codex-cli",
+      "codex-skill",
+      "cursor"
+    ],
+    "status": "pending",
+    "discoveredAt": "2026-06-14"
+  },
+  {
+    "repo": "wquguru/harness-books",
+    "description": "📚 Two books on harness engineering — the design philosophies behind Claude Code & Codex: constraints, query loops, context governance, multi-agent verification. harness-books.agentway.dev",
+    "stars": 2467,
+    "suggestedCategory": "swarm-coding",
+    "allMatchedCategories": [
+      "swarm-coding"
+    ],
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "ai-engineering",
+      "claude-code",
+      "codex",
+      "context-engineering",
+      "developer-tools",
+      "llm",
+      "prompt-engineering"
+    ],
+    "status": "pending",
+    "discoveredAt": "2026-06-14"
+  },
+  {
+    "repo": "IBM/AssetOpsBench",
+    "description": "AssetOpsBench - Industry 4.0: A unified benchmark and framework for building, orchestrating, and evaluating domain-specific AI agents for Industry 4.0 asset operations and maintenance, with 460+ scena",
+    "stars": 1778,
+    "suggestedCategory": "frameworks",
+    "allMatchedCategories": [
+      "frameworks"
+    ],
+    "topics": [
+      "ai-for-physical-assets",
+      "condition-based-maintenance",
+      "hvac-maintenance",
+      "iot",
+      "llm-agents",
+      "model-context-protocol",
+      "predictive-maintenance",
+      "time-series-forecasting"
+    ],
+    "status": "pending",
+    "discoveredAt": "2026-06-14"
+  },
+  {
+    "repo": "xintaofei/codeg",
+    "description": "Collaborative multi-agent AI coding workspace: aggregate sessions from Claude Code, Codex, Gemini CLI, etc. Desktop app, self-hosted server, or Docker.",
+    "stars": 1646,
+    "suggestedCategory": "swarm-coding",
+    "allMatchedCategories": [
+      "swarm-coding"
+    ],
+    "topics": [
+      "acp",
+      "agent",
+      "claude-code",
+      "code-generation",
+      "codex",
+      "gemini-cli",
+      "git",
+      "gui",
+      "ilink",
+      "lark"
+    ],
+    "status": "pending",
+    "discoveredAt": "2026-06-14"
+  },
+  {
+    "repo": "lidangzzz/goal-driven",
+    "description": "A multi-agent system that keeps running for ~100 hours and solve a very complicated coding or math problem that can be verified",
+    "stars": 1392,
+    "suggestedCategory": "swarm-coding",
+    "allMatchedCategories": [
+      "swarm-coding"
+    ],
+    "topics": [],
+    "status": "pending",
+    "discoveredAt": "2026-06-14"
+  },
+  {
+    "repo": "trpc-group/trpc-agent-go",
+    "description": "Go framework for production multi-agent systems with graph workflows, tools, memory, and built-in A2A and MCP support",
+    "stars": 1351,
+    "suggestedCategory": "frameworks",
+    "allMatchedCategories": [
+      "frameworks"
+    ],
+    "topics": [
+      "a2a",
+      "a2a-protocol",
+      "ag-ui",
+      "agent",
+      "agent-framework",
+      "ai",
+      "ai-agents",
+      "evaluation",
+      "go",
+      "golang"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-06-14",
+    "name": "trpc-agent-go"
+  },
+  {
+    "repo": "poco-ai/poco-claw",
+    "description": "A more beautiful and easier-to-use alternative to OpenClaw. It features a nicer Web UI, built-in IM support, a sandboxed runtime and channel-based team collaboration. Under the hood, it is powered by ",
+    "stars": 1338,
+    "suggestedCategory": "role-teams",
+    "allMatchedCategories": [
+      "role-teams"
+    ],
+    "topics": [
+      "agent",
+      "ai",
+      "chatbot",
+      "claude-code",
+      "clawdbot",
+      "manus",
+      "openclaw"
+    ],
+    "status": "pending",
+    "discoveredAt": "2026-06-14"
+  },
+  {
+    "repo": "jieyefriic/rp-engine",
+    "description": "YAML-native agent workflow execution engine, written in Rust",
+    "stars": 1235,
+    "suggestedCategory": "orchestration",
+    "allMatchedCategories": [
+      "orchestration"
+    ],
+    "topics": [
+      "agent",
+      "llm",
+      "mcp",
+      "rust",
+      "workflow",
+      "yaml"
+    ],
+    "status": "pending",
+    "discoveredAt": "2026-06-14"
+  },
+  {
+    "repo": "simonlin1212/TradingAgents-astock",
+    "description": "A股多Agent投研框架 — 适配A股数据源(龙虎榜/游资/解禁等)，7位分析师基于A股规则的辩论决策，基于TradingAgents深度改造，适配大A。A-share multi-agent investment research framework — 7 AI analysts, bull/bear debate, risk assessment。",
+    "stars": 1195,
+    "suggestedCategory": "frameworks",
+    "allMatchedCategories": [
+      "frameworks"
+    ],
+    "topics": [],
+    "status": "pending",
+    "discoveredAt": "2026-06-14"
+  },
+  {
+    "repo": "asklokesh/loki-mode",
+    "description": "Multi-agent autonomous SDLC framework. Spec to deployed app. PRD, GitHub issue, OpenAPI/JSON/YAML, or one-line brief. 5 AI providers, 11 quality gates.",
+    "stars": 978,
+    "suggestedCategory": "frameworks",
+    "allMatchedCategories": [
+      "frameworks"
+    ],
+    "topics": [
+      "ai-agents",
+      "aider",
+      "anthropic",
+      "autonomous",
+      "ci-cd",
+      "claude",
+      "cline",
+      "code-review",
+      "devops",
+      "gemini"
+    ],
+    "status": "pending",
+    "discoveredAt": "2026-06-14"
+  },
+  {
+    "repo": "omnigent-ai/omnigent",
+    "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check",
+    "stars": 959,
+    "suggestedCategory": "swarm-coding",
+    "allMatchedCategories": [
+      "swarm-coding"
+    ],
+    "topics": [],
+    "status": "pending",
+    "discoveredAt": "2026-06-14"
+  },
+  {
+    "repo": "ArcadeAI/arcade-mcp",
+    "description": "MCP server framework and tool-development library for building custom agent capabilities and authenticated tool calls",
+    "stars": 920,
+    "suggestedCategory": "communication",
+    "allMatchedCategories": [
+      "communication"
+    ],
+    "topics": [
+      "ai",
+      "arcade",
+      "arcade-ai",
+      "claude",
+      "claude-code",
+      "claude-mcp",
+      "mcp",
+      "mcp-framework",
+      "mcp-gateway",
+      "mcp-runtime"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-06-14",
+    "name": "arcade-mcp"
+  },
+  {
+    "repo": "zhu1090093659/spec_driven_develop",
+    "description": "Spec-driven development workflow for AI coding agents: architecture-first planning, task decomposition, GitHub Issue/PR tracking, Deep Discuss, and adaptive control for Claude Code, Codex, Cursor, and",
+    "stars": 899,
+    "suggestedCategory": "task-decomposition",
+    "allMatchedCategories": [
+      "task-decomposition"
+    ],
+    "topics": [
+      "ai-agent",
+      "ai-assisted-development",
+      "ai-coding-assistant",
+      "claude-code",
+      "codex",
+      "cursor",
+      "dev-workflow",
+      "developer-tools",
+      "engineering-cybernetics",
+      "github-issues"
+    ],
+    "status": "pending",
+    "discoveredAt": "2026-06-14"
+  },
+  {
+    "repo": "CryptoDmitry/hermes-agent-control-room",
+    "description": "Control Room-first template for managing Hermes agents from one VPS agent to specialist teams and orchestrated workflows ",
+    "stars": 837,
+    "suggestedCategory": "orchestration",
+    "allMatchedCategories": [
+      "orchestration"
+    ],
+    "topics": [
+      "agent-control-room",
+      "ai-agent",
+      "ai-agents",
+      "ai-agents-framework",
+      "claude-code",
+      "claude-code-cli",
+      "development-tools",
+      "development-workflow",
+      "hermes-agent"
+    ],
+    "status": "pending",
+    "discoveredAt": "2026-06-14"
+  },
+  {
+    "repo": "H-mmer/pentest-agents",
+    "description": "Bug bounty agent framework for Claude Code, Codex, Gemini, Cursor, Windsurf, Copilot, and OpenClaw — 48 agents, 26 commands, 19 CLI tools, 2 MCP servers, autonomous hunt loops, exploit chain builder.",
+    "stars": 717,
+    "suggestedCategory": "communication",
+    "allMatchedCategories": [
+      "communication"
+    ],
+    "topics": [
+      "agents",
+      "bug-bounty",
+      "bugcrowd",
+      "claude-code",
+      "hackerone",
+      "mcp",
+      "pentesting",
+      "security-tools"
+    ],
+    "status": "pending",
+    "discoveredAt": "2026-06-14"
+  },
+  {
+    "repo": "kanwas-ai/kanwas",
+    "description": "Kanwas — Shared context board for teams and agents",
+    "stars": 717,
+    "suggestedCategory": "role-teams",
+    "allMatchedCategories": [
+      "role-teams"
+    ],
+    "topics": [
+      "agents",
+      "canvas",
+      "collaboration",
+      "context-management"
+    ],
+    "status": "pending",
+    "discoveredAt": "2026-06-14"
+  },
+  {
+    "repo": "swarmclawai/swarmclaw",
+    "description": "Open-source self-hosted AI agent runtime and multi-agent framework for autonomous agent swarms. Agent memory, MCP tools, schedules, delegation, and 23+ LLM providers (Claude, GPT, Gemini, OpenRouter, ",
+    "stars": 581,
+    "suggestedCategory": "frameworks",
+    "allMatchedCategories": [
+      "frameworks"
+    ],
+    "topics": [
+      "agent-framework",
+      "agent-memory",
+      "agent-runtime",
+      "agent-swarm",
+      "agents",
+      "ai",
+      "ai-agent-framework",
+      "ai-agents",
+      "autonomous-agents",
+      "claude"
+    ],
+    "status": "pending",
+    "discoveredAt": "2026-06-14"
+  },
+  {
+    "repo": "framerslab/agentos",
+    "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
+    "stars": 577,
+    "suggestedCategory": "frameworks",
+    "allMatchedCategories": [
+      "frameworks"
+    ],
+    "topics": [
+      "agent-framework",
+      "agent-memory",
+      "agentic-ai",
+      "ai-agent-framework",
+      "ai-agents",
+      "autonomous-agents",
+      "cognitive-memory",
+      "emergent-behavior",
+      "guardrails",
+      "hexaco"
+    ],
+    "status": "pending",
+    "discoveredAt": "2026-06-14"
+  },
+  {
+    "repo": "SWE-agent/SWE-ReX",
+    "description": "Sandboxed, massively-parallel code execution runtime for AI agents. Runs many agents locally or in the cloud; powers SWE-agent",
+    "stars": 528,
+    "suggestedCategory": "swarm-coding",
+    "allMatchedCategories": [
+      "task-decomposition"
+    ],
+    "topics": [
+      "agent",
+      "agents",
+      "ai",
+      "aws",
+      "cloud",
+      "coding-agents",
+      "docker",
+      "fargate",
+      "modal",
+      "swe-agent"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-06-14",
+    "name": "SWE-ReX"
+  },
+  {
+    "repo": "google-agentic-commerce/a2a-x402",
+    "description": "A2A protocol extension adding x402 on-chain payments, letting agents monetize services over Agent-to-Agent calls",
+    "stars": 527,
+    "suggestedCategory": "communication",
+    "allMatchedCategories": [
+      "communication"
+    ],
+    "topics": [],
+    "status": "added",
+    "discoveredAt": "2026-06-14",
+    "name": "A2A x402"
+  },
+  {
+    "repo": "desplega-ai/agent-swarm",
+    "description": "Intelligence that compounds. Every single day.",
+    "stars": 524,
+    "suggestedCategory": "intelligence",
+    "allMatchedCategories": [
+      "intelligence"
+    ],
+    "topics": [
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "swarm"
+    ],
+    "status": "pending",
+    "discoveredAt": "2026-06-14"
+  },
+  {
+    "repo": "win4r/openclaw-a2a-gateway",
+    "description": "OpenClaw plugin implementing the A2A (Agent-to-Agent) protocol v0.3.0 — bidirectional agent communication gateway",
+    "stars": 520,
+    "suggestedCategory": "communication",
+    "allMatchedCategories": [
+      "communication"
+    ],
+    "topics": [
+      "openclaw",
+      "openclaw-agent",
+      "openclaw-extension",
+      "openclaw-plugin",
+      "openclaw-skills"
+    ],
+    "status": "pending",
+    "discoveredAt": "2026-06-14"
+  },
+  {
+    "repo": "blader/taskmaster",
+    "description": "Stop hook for Claude Code that keeps the agent working until all plans and user requests are 100% complete",
+    "stars": 502,
+    "suggestedCategory": "task-decomposition",
+    "allMatchedCategories": [
+      "task-decomposition"
+    ],
+    "topics": [],
+    "status": "pending",
+    "discoveredAt": "2026-06-14"
   }
 ]
