@@ -10,7 +10,7 @@
       "orchestration",
       "production-ready"
     ],
-    "stars": 146404
+    "stars": 147216
   },
   {
     "name": "MetaGPT",
@@ -23,7 +23,7 @@
       "role-playing",
       "sops"
     ],
-    "stars": 68994,
+    "stars": 69134,
     "paper": "https://arxiv.org/abs/2308.00352"
   },
   {
@@ -37,7 +37,7 @@
       "multi-agent",
       "bytedance"
     ],
-    "stars": 74234
+    "stars": 75707
   },
   {
     "name": "AutoGen",
@@ -50,7 +50,7 @@
       "microsoft",
       "group-chat"
     ],
-    "stars": 59201
+    "stars": 59394
   },
   {
     "name": "CrewAI",
@@ -63,7 +63,7 @@
       "collaborative",
       "crews"
     ],
-    "stars": 54272
+    "stars": 54678
   },
   {
     "name": "ChatDev",
@@ -76,7 +76,7 @@
       "conversation-chains",
       "virtual-team"
     ],
-    "stars": 33542,
+    "stars": 33620,
     "paper": "https://arxiv.org/abs/2307.07924"
   },
   {
@@ -90,7 +90,7 @@
       "stateful",
       "durable-execution"
     ],
-    "stars": 35613
+    "stars": 36203
   },
   {
     "name": "AgentScope",
@@ -103,7 +103,7 @@
       "a2a",
       "trustworthy"
     ],
-    "stars": 27143
+    "stars": 27359
   },
   {
     "name": "Mastra",
@@ -116,7 +116,7 @@
       "modern",
       "gatsby-team"
     ],
-    "stars": 25406
+    "stars": 25647
   },
   {
     "name": "Swarm (OpenAI)",
@@ -129,7 +129,7 @@
       "educational",
       "handoffs"
     ],
-    "stars": 21713
+    "stars": 21755
   },
   {
     "name": "OpenAI Agents Python",
@@ -142,7 +142,7 @@
       "handoffs",
       "tracing"
     ],
-    "stars": 27392
+    "stars": 27547
   },
   {
     "name": "OWL",
@@ -155,7 +155,7 @@
       "task-automation",
       "workforce"
     ],
-    "stars": 19868
+    "stars": 19907
   },
   {
     "name": "Google ADK",
@@ -168,7 +168,7 @@
       "python",
       "deployment"
     ],
-    "stars": 20271
+    "stars": 20377
   },
   {
     "name": "CAMEL",
@@ -181,7 +181,7 @@
       "role-playing",
       "research"
     ],
-    "stars": 17261,
+    "stars": 17307,
     "paper": "https://arxiv.org/abs/2303.17760"
   },
   {
@@ -195,7 +195,7 @@
       "spring",
       "enterprise"
     ],
-    "stars": 10110
+    "stars": 10187
   },
   {
     "name": "Microsoft Agent Framework",
@@ -208,7 +208,7 @@
       "python",
       "dotnet"
     ],
-    "stars": 11618
+    "stars": 11800
   },
   {
     "name": "Agent Squad",
@@ -221,7 +221,7 @@
       "routing",
       "conversations"
     ],
-    "stars": 7665
+    "stars": 7674
   },
   {
     "name": "MindSearch",
@@ -234,7 +234,7 @@
       "decomposition",
       "aggregation"
     ],
-    "stars": 6877
+    "stars": 6883
   },
   {
     "name": "PraisonAI",
@@ -247,7 +247,7 @@
       "yaml-config",
       "tools"
     ],
-    "stars": 8230
+    "stars": 8333
   },
   {
     "name": "Swarms",
@@ -260,7 +260,7 @@
       "topologies",
       "production-ready"
     ],
-    "stars": 6878
+    "stars": 6904
   },
   {
     "name": "NeMo Guardrails",
@@ -273,7 +273,7 @@
       "nvidia",
       "policy-engine"
     ],
-    "stars": 6520
+    "stars": 6583
   },
   {
     "name": "Open Multi-Agent",
@@ -286,7 +286,7 @@
       "dag",
       "parallel"
     ],
-    "stars": 6424
+    "stars": 6475
   },
   {
     "name": "ClawTeam",
@@ -299,7 +299,7 @@
       "swarm-intelligence",
       "git-worktree"
     ],
-    "stars": 5346
+    "stars": 5361
   },
   {
     "name": "Agency Swarm",
@@ -312,7 +312,7 @@
       "agent-teams",
       "openai-sdk"
     ],
-    "stars": 4456
+    "stars": 4467
   },
   {
     "name": "HiClaw",
@@ -325,7 +325,7 @@
       "human-in-the-loop",
       "enterprise"
     ],
-    "stars": 4911
+    "stars": 4968
   },
   {
     "name": "EvoMap",
@@ -338,7 +338,7 @@
       "evolution",
       "governance"
     ],
-    "stars": 8753
+    "stars": 8831
   },
   {
     "name": "AFlow",
@@ -351,7 +351,7 @@
       "auto-design",
       "topology"
     ],
-    "stars": 541,
+    "stars": 544,
     "paper": "https://arxiv.org/abs/2410.10762"
   },
   {
@@ -365,7 +365,7 @@
       "continuous-space",
       "research"
     ],
-    "stars": 1004,
+    "stars": 1027,
     "paper": "https://arxiv.org/abs/2506.06637"
   },
   {
@@ -379,7 +379,7 @@
       "mcp",
       "cross-framework"
     ],
-    "stars": 370
+    "stars": 369
   },
   {
     "name": "GEP MCP Server",
@@ -405,7 +405,7 @@
       "finance",
       "llm"
     ],
-    "stars": 88270
+    "stars": 90119
   },
   {
     "name": "FastGPT",
@@ -418,7 +418,7 @@
       "claude",
       "deepseek"
     ],
-    "stars": 28613
+    "stars": 28756
   },
   {
     "name": "haystack",
@@ -431,7 +431,7 @@
       "agents",
       "ai"
     ],
-    "stars": 25654
+    "stars": 25793
   },
   {
     "name": "A2A",
@@ -444,7 +444,7 @@
       "a2a-mcp",
       "a2a-protocol"
     ],
-    "stars": 24439
+    "stars": 24566
   },
   {
     "name": "deepagents",
@@ -457,7 +457,7 @@
       "deepagents",
       "langchain"
     ],
-    "stars": 25055
+    "stars": 25496
   },
   {
     "name": "eliza",
@@ -470,7 +470,7 @@
       "agentic",
       "ai"
     ],
-    "stars": 18633
+    "stars": 18660
   },
   {
     "name": "trigger.dev",
@@ -483,7 +483,7 @@
       "ai-agent-framework",
       "ai-agents"
     ],
-    "stars": 15457
+    "stars": 15518
   },
   {
     "name": "mcp-use",
@@ -496,7 +496,7 @@
       "ai",
       "apps-sdk"
     ],
-    "stars": 10140
+    "stars": 10190
   },
   {
     "name": "astron-agent",
@@ -509,7 +509,7 @@
       "agentic-workflow",
       "ai"
     ],
-    "stars": 8575
+    "stars": 8585
   },
   {
     "name": "agent-orchestrator",
@@ -522,7 +522,7 @@
       "agent-swarm",
       "claude-code"
     ],
-    "stars": 7643
+    "stars": 7839
   },
   {
     "name": "ROMA",
@@ -531,7 +531,7 @@
     "category": "frameworks",
     "maintainer": "sentient-agi",
     "tags": [],
-    "stars": 5079
+    "stars": 5081
   },
   {
     "name": "LazyLLM",
@@ -544,7 +544,7 @@
       "ai-agent",
       "data"
     ],
-    "stars": 3847
+    "stars": 3850
   },
   {
     "name": "DeepResearchAgent",
@@ -557,7 +557,7 @@
       "general-purpose",
       "multiagent-systems"
     ],
-    "stars": 3470
+    "stars": 3473
   },
   {
     "name": "solace-agent-mesh",
@@ -570,7 +570,7 @@
       "agentframework",
       "agentic"
     ],
-    "stars": 4971
+    "stars": 4966
   },
   {
     "name": "fastmcp",
@@ -582,7 +582,7 @@
       "mcp",
       "sse"
     ],
-    "stars": 3204
+    "stars": 3213
   },
   {
     "name": "BotSharp",
@@ -608,7 +608,7 @@
       "openai",
       "openai-api"
     ],
-    "stars": 3277
+    "stars": 3308
   },
   {
     "name": "AgentNetworkProtocol",
@@ -621,7 +621,7 @@
       "communication",
       "protocol"
     ],
-    "stars": 1333
+    "stars": 1338
   },
   {
     "name": "Conductor",
@@ -634,7 +634,7 @@
       "durable-execution",
       "grpc"
     ],
-    "stars": 31960
+    "stars": 31983
   },
   {
     "name": "Hatchet",
@@ -647,7 +647,7 @@
       "dag",
       "distributed"
     ],
-    "stars": 7412
+    "stars": 7441
   },
   {
     "name": "stagewise",
@@ -660,7 +660,7 @@
       "agent-orchestration",
       "ide"
     ],
-    "stars": 6691
+    "stars": 6711
   },
   {
     "name": "trpc-agent-go",
@@ -673,7 +673,7 @@
       "a2a-protocol",
       "ag-ui"
     ],
-    "stars": 1398
+    "stars": 1466
   },
   {
     "name": "arcade-mcp",
@@ -686,7 +686,7 @@
       "arcade",
       "arcade-ai"
     ],
-    "stars": 932
+    "stars": 943
   },
   {
     "name": "SWE-ReX",
@@ -699,7 +699,7 @@
       "agents",
       "ai"
     ],
-    "stars": 539
+    "stars": 543
   },
   {
     "name": "A2A x402",
@@ -708,6 +708,6 @@
     "category": "communication",
     "maintainer": "google-agentic-commerce",
     "tags": [],
-    "stars": 527
+    "stars": 531
   }
 ]
