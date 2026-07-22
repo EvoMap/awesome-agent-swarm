@@ -165,6 +165,7 @@ Guardrails, policy engines, and governance frameworks for multi-agent systems.
 - [MAS-Orchestra: Understanding Multi-Agent Reasoning Through Holistic Orchestration](https://arxiv.org/abs/2601.14652) (arXiv'26) - Multi-agent orchestration as a function-calling RL problem. Introduces MASBENCH along 5 dimensions.
 - [AdaptOrch: Task-Adaptive Orchestration](https://arxiv.org/abs/2602.16873) (arXiv'26) - Dynamic topology selection (parallel, sequential, hierarchical, hybrid) based on task dependency graphs. 12-23% over static baselines.
 - [Puppeteer: Evolving Orchestration via Reinforcement Learning](https://arxiv.org/abs/2505.19591) (arXiv'25) - Centralized orchestrator trained via RL to dynamically direct agents in response to evolving task states.
+- [Agon: An Autonomous Large-Scale Omnidisciplinary Research System Built on Prompt Economy](https://arxiv.org/abs/2606.24177) (arXiv'26) - Orchestrates generate-critique loops across 10+ disciplines using 18 reusable roles. Built on Prompt Economy: treat prompting as engineering, maximize ROI. [Code](https://github.com/AutoResearch-Factory/Agon)
 
 ### Swarm Intelligence and Emergence
 
@@ -185,6 +186,7 @@ Guardrails, policy engines, and governance frameworks for multi-agent systems.
 - [SAGE: Multi-Agent Self-Evolution for LLM Reasoning](https://arxiv.org/abs/2603.15255) (arXiv'26) - Four co-evolving agents from shared LLM backbone.
 - [Group-Evolving Agents](https://arxiv.org/abs/2602.04837) (arXiv'26) - Agent groups as evolutionary units with experience sharing. 71.0% on SWE-bench Verified.
 - [CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery](https://arxiv.org/abs/2604.01658) (arXiv'26) - First framework for autonomous multi-agent evolution on open-ended problems. Persistent memory, asynchronous execution, and heartbeat-based interventions. 3-10x improvement over fixed baselines.
+- [PerspectiveGap: A Benchmark for Multi-Agent Orchestration Prompting](https://arxiv.org/abs/2606.08878) (arXiv'26) - 110 scenarios across 10 topologies testing whether LLMs can assign context fragments to correct sub-agent roles. 33 commercial models average 17.2% pass rate. [Code](https://github.com/WhymustIhaveaname/PerspectiveGap)
 
 ### Role-Based Teams and Software Engineering
 
