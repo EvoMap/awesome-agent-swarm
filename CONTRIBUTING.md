@@ -21,9 +21,19 @@ Projects should meet the following criteria:
 1. Fork this repository
 2. Add the project to `data/projects.json` following the schema below
 3. Run `node scripts/generate-readme.js` to regenerate the README
-4. Submit a pull request with a brief description of the project
+4. Run `node scripts/validate.js` and `node scripts/check-links.js`
+5. Submit a pull request with a brief description of the project and why it belongs in this list
 
-## Project JSON Schema
+## Scope and Cross-List Entries
+
+This list focuses on multi-agent coordination, swarm execution, orchestration, communication, collective intelligence, role-based teams, task decomposition, and swarm safety. Self-evolution and persistent memory systems without a meaningful multi-agent coordination focus should normally be submitted to [awesome-agent-evolution](https://github.com/EvoMap/awesome-agent-evolution).
+
+A project may appear in both lists only when it makes a substantial, independently relevant contribution to both scopes. Explain that contribution in the pull request; popularity alone is not a reason for duplicate inclusion.
+
+## Curation Standard
+
+Meeting the minimum checks does not guarantee inclusion. Maintainers also review technical relevance, evidence for claims, maintenance quality, licensing, documentation, distinctiveness, and whether the description is objective. Discovery scripts produce candidates for human review and never imply endorsement.
+
 
 Each entry in `data/projects.json` should follow this format:
 
