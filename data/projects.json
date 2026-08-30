@@ -717,5 +717,18 @@
       "protocol"
     ],
     "stars": 553
+  },
+  {
+    "name": "fractal",
+    "repo": "plasma-ai/fractal",
+    "description": "Hierarchical coding-agent orchestrator with recursive delegation, per-node Git worktrees, configurable limits, persistent state, and a live terminal UI.",
+    "category": "swarm-coding",
+    "maintainer": "plasma-ai",
+    "tags": [
+      "multi-agent",
+      "orchestration",
+      "open-source"
+    ],
+    "stars": 704
   }
 ]
