@@ -8,6 +8,7 @@ on:
 permissions:
   contents: write
   issues: read
+  checks: write
 
 jobs:
   monitor:
@@ -25,10 +26,17 @@ jobs:
         run: |
           node scripts/monitor-github.js --output data/monitor-results.json
 
-      - name: Commit results
+      - name: Commit and publish to main after validate
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/monitor-results.json
-          git diff --staged --quiet || git commit -m "chore: update monitor results $(date -u +%Y-%m-%d)"
-          git push
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git checkout -B "chore/monitor-$(date -u +%Y%m%d)"
+          git commit -m "chore: update monitor results $(date -u +%Y-%m-%d)"
+          bash scripts/push-verified-main.sh
