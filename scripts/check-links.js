@@ -10,7 +10,7 @@
  * Requires: gh CLI authenticated
  */
 
-const { execSync } = require('child_process');
+const { execFileSync } = require('child_process');
 const fs = require('fs');
 const path = require('path');
 
@@ -18,8 +18,7 @@ const PROJECTS_PATH = path.join(__dirname, '..', 'data', 'projects.json');
 
 function checkRepo(repo) {
   try {
-    const cmd = `gh api repos/${repo} --jq '{archived: .archived, disabled: .disabled, full_name: .full_name}'`;
-    const result = JSON.parse(execSync(cmd, { encoding: 'utf-8', timeout: 15000 }));
+    const result = JSON.parse(execFileSync('gh', ['api', `repos/${repo}`, '--jq', '{archived: .archived, disabled: .disabled, full_name: .full_name}'], { encoding: 'utf-8', timeout: 15000 }));
 
     if (result.archived) return { status: 'archived', repo };
     if (result.disabled) return { status: 'disabled', repo };
@@ -61,13 +60,30 @@ function main() {
     }
   }
 
-  console.log(`\nResults: ${ok} ok, ${issues.length} issues`);
+  const FAIL_STATUSES = new Set(['not_found', 'archived', 'disabled']);
+  const failures = issues.filter(i => FAIL_STATUSES.has(i.status));
+  const warnings = issues.filter(i => !FAIL_STATUSES.has(i.status));
 
-  if (issues.length > 0) {
-    console.log('\nIssues found:');
-    for (const issue of issues) {
+  console.log(`\nResults: ${ok} ok, ${failures.length} failures, ${warnings.length} warnings`);
+
+  const issuesOut = process.env.LINK_ISSUES_OUT;
+  if (issuesOut && issues.length > 0) {
+    fs.writeFileSync(issuesOut, JSON.stringify(issues, null, 2) + '\n');
+    console.log(`\nWrote ${issues.length} issue(s) to ${issuesOut}`);
+  }
+
+  if (warnings.length > 0) {
+    console.log('\nWarnings (non-fatal, please review when convenient):');
+    for (const issue of warnings) {
       console.log(`  [${issue.status}] ${issue.name} (${issue.repo})`);
       if (issue.target) console.log(`    -> redirected to: ${issue.target}`);
+    }
+  }
+
+  if (failures.length > 0) {
+    console.log('\nFailures:');
+    for (const issue of failures) {
+      console.log(`  [${issue.status}] ${issue.name} (${issue.repo})`);
       if (issue.error) console.log(`    -> ${issue.error}`);
     }
     process.exit(1);
