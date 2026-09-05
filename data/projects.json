@@ -730,5 +730,18 @@
       "open-source"
     ],
     "stars": 706
+  },
+  {
+    "name": "YYLO",
+    "repo": "yylo-dev/yylo",
+    "description": "Command-line orchestrator for coding agents with dedicated per-task branch/worktrees, a merge queue that owns risk-based sequential review, and receipt-backed repository changes.",
+    "category": "swarm-coding",
+    "maintainer": "yylo-dev",
+    "tags": [
+      "multi-agent",
+      "orchestration",
+      "git-worktree"
+    ],
+    "stars": 57
   }
 ]
