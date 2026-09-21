@@ -141,6 +141,7 @@ Agent swarms applied to collaborative software development and engineering workf
 - [**stagewise**](https://github.com/stagewise-io/stagewise#readme) - Open-source agentic IDE. Create and orchestrate multiple coding agents, preview apps, and run git workflows across model providers. by [@stagewise-io](https://github.com/stagewise-io) (6,814 stars)
 - [**fractal**](https://github.com/plasma-ai/fractal#readme) - Hierarchical coding-agent orchestrator with recursive delegation, per-node Git worktrees, configurable limits, persistent state, and a live terminal UI. by [@plasma-ai](https://github.com/plasma-ai) (725 stars)
 - [**SWE-ReX**](https://github.com/SWE-agent/SWE-ReX#readme) - Sandboxed, massively-parallel code execution runtime for AI agents. Runs many agents locally or in the cloud; powers SWE-agent. by [@SWE-agent](https://github.com/SWE-agent) (591 stars)
+- [**LoopTroop**](https://github.com/looptroop-ai/LoopTroop#readme) - Local coding-agent orchestrator with multi-model consensus planning councils, isolated Git worktrees, bounded retry loops, and human approval gates. by [@looptroop-ai](https://github.com/looptroop-ai) (152 stars)
 <!-- /AUTOGEN:swarm-coding -->
 
 ## Safety and Governance

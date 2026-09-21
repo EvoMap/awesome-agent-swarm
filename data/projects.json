@@ -730,5 +730,18 @@
       "open-source"
     ],
     "stars": 725
+  },
+  {
+    "name": "LoopTroop",
+    "repo": "looptroop-ai/LoopTroop",
+    "description": "Local coding-agent orchestrator with multi-model consensus planning councils, isolated Git worktrees, bounded retry loops, and human approval gates.",
+    "category": "swarm-coding",
+    "maintainer": "looptroop-ai",
+    "tags": [
+      "multi-agent",
+      "orchestration",
+      "open-source"
+    ],
+    "stars": 152
   }
 ]
