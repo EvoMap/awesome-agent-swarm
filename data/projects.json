@@ -730,5 +730,18 @@
       "open-source"
     ],
     "stars": 779
+  },
+  {
+    "name": "Ordewell",
+    "repo": "ordewell/ordewell",
+    "description": "Terminal CLI and TUI that turns one goal into an ordered, editable plan of coding agent tasks, each task running its own session with the runner, model and mode you pick for it, and a task counts as done only when its completion marker appears in that runner's output.",
+    "category": "swarm-coding",
+    "maintainer": "ordewell",
+    "tags": [
+      "multi-agent",
+      "orchestration",
+      "open-source"
+    ],
+    "stars": 183
   }
 ]
