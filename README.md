@@ -81,6 +81,7 @@ Orchestration engines, workflow builders, and pipeline frameworks for coordinati
 - [**astron-agent**](https://github.com/iflytek/astron-agent#readme) - Enterprise-grade, commercial-friendly agentic workflow platform by iFlytek for building next-generation SuperAgents. by [@iflytek](https://github.com/iflytek) (9,101 stars)
 - [**Hatchet**](https://github.com/hatchet-dev/hatchet#readme) - Orchestration engine for background tasks, AI agents, and durable workflows. Queues, scheduling, and durable execution for agent pipelines. by [@hatchet-dev](https://github.com/hatchet-dev) (8,033 stars)
 - [**Agent Squad**](https://github.com/2FastLabs/agent-squad#readme) - AWS framework for managing multiple AI agents and handling complex conversations with intelligent routing. by [@2FastLabs](https://github.com/2FastLabs) (7,778 stars)
+- [**LightAgent**](https://github.com/wanxingai/LightAgent#readme) - Python multi-agent framework with role-based routing, checkpointed workflows, and persistent dynamic DAGs with concurrent workers, restart recovery, and verification-gated artifacts. by [@wanxingai](https://github.com/wanxingai) (1,226 stars)
 <!-- /AUTOGEN:orchestration -->
 
 ## Agent Communication and Protocols

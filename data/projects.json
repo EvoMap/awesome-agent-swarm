@@ -730,5 +730,18 @@
       "open-source"
     ],
     "stars": 779
+  },
+  {
+    "name": "LightAgent",
+    "repo": "wanxingai/LightAgent",
+    "description": "Python multi-agent framework with role-based routing, checkpointed workflows, and persistent dynamic DAGs with concurrent workers, restart recovery, and verification-gated artifacts.",
+    "category": "orchestration",
+    "maintainer": "wanxingai",
+    "tags": [
+      "multi-agent",
+      "orchestration",
+      "lightweight"
+    ],
+    "stars": 1226
   }
 ]
