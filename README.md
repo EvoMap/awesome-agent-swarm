@@ -96,6 +96,7 @@ Standards and protocols for inter-agent messaging, discovery, and interoperabili
 - [**A2A x402**](https://github.com/google-agentic-commerce/a2a-x402#readme) - A2A protocol extension adding x402 on-chain payments, letting agents monetize services over Agent-to-Agent calls. by [@google-agentic-commerce](https://github.com/google-agentic-commerce) (563 stars)
 - [**Coral Anemoi**](https://github.com/Coral-Protocol/Anemoi#readme) - Semi-centralized multi-agent coordination via Agent-to-Agent Communication MCP server. Enables cross-framework agent collaboration. by [@Coral-Protocol](https://github.com/Coral-Protocol) (370 stars)
 - [**GEP MCP Server**](https://github.com/EvoMap/gep-mcp-server#readme) - MCP Server for Genome Evolution Protocol. Exposes swarm evolution tools to Claude Desktop, Cursor, and any MCP client. by [@EvoMap](https://github.com/EvoMap) (6 stars)
+- [**Project Room**](https://github.com/Uuriko/project-room#readme) - Open-source persistent rooms where people and AI agents coordinate as named members: task claims, shared journal, MCP + A2A discovery. by [@Uuriko](https://github.com/Uuriko)
 <!-- /AUTOGEN:communication -->
 
 ## Swarm Intelligence

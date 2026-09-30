@@ -730,5 +730,18 @@
       "open-source"
     ],
     "stars": 763
+  },
+  {
+    "name": "Project Room",
+    "repo": "Uuriko/project-room",
+    "description": "Open-source persistent rooms where people and AI agents coordinate as named members: task claims, shared journal, MCP + A2A discovery.",
+    "category": "communication",
+    "maintainer": "Uuriko",
+    "tags": [
+      "multi-agent",
+      "mcp",
+      "collaborative"
+    ],
+    "stars": 0
   }
 ]
