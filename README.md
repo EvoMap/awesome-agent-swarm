@@ -143,6 +143,7 @@ Agent swarms applied to collaborative software development and engineering workf
 - [**fractal**](https://github.com/plasma-ai/fractal#readme) - Hierarchical coding-agent orchestrator with recursive delegation, per-node Git worktrees, configurable limits, persistent state, and a live terminal UI. by [@plasma-ai](https://github.com/plasma-ai) (779 stars)
 - [**SWE-ReX**](https://github.com/SWE-agent/SWE-ReX#readme) - Sandboxed, massively-parallel code execution runtime for AI agents. Runs many agents locally or in the cloud; powers SWE-agent. by [@SWE-agent](https://github.com/SWE-agent) (610 stars)
 - [**Ordewell**](https://github.com/ordewell/ordewell#readme) - Terminal CLI and TUI that turns one goal into an ordered, editable plan of coding agent tasks, each task running its own session with the runner, model and mode you pick for it, and a task counts as done only when its completion marker appears in that runner's output. by [@ordewell](https://github.com/ordewell) (183 stars)
+- [**LoopTroop**](https://github.com/looptroop-ai/LoopTroop#readme) - Local coding-agent orchestrator with multi-model consensus planning councils, isolated Git worktrees, bounded retry loops, and human approval gates. by [@looptroop-ai](https://github.com/looptroop-ai) (152 stars)
 <!-- /AUTOGEN:swarm-coding -->
 
 ## Safety and Governance
