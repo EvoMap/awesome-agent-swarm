@@ -57,7 +57,6 @@ Core frameworks for building and managing multi-agent swarm systems.
 - [**PraisonAI**](https://github.com/MervinPraison/PraisonAI#readme) - Low-code multi-agent framework with 100+ built-in tools. Define agent swarms via YAML configuration. by [@MervinPraison](https://github.com/MervinPraison) (9,111 stars)
 - [**Swarms**](https://github.com/kyegomez/swarms#readme) - Enterprise-grade multi-agent orchestration framework. Sequential, parallel, hierarchical, and mesh swarm topologies. by [@kyegomez](https://github.com/kyegomez) (7,221 stars)
 - [**ROMA**](https://github.com/sentient-agi/ROMA#readme) - Recursive Open Meta-Agent framework to build high-performance multi-agent applications with composable architecture. by [@sentient-agi](https://github.com/sentient-agi) (5,182 stars)
-- [**solace-agent-mesh**](https://github.com/SolaceLabs/solace-agent-mesh#readme) - Event-driven framework for building and orchestrating multi-agent AI systems with seamless integration. by [@SolaceLabs](https://github.com/SolaceLabs) (4,923 stars)
 - [**Agency Swarm**](https://github.com/VRSEN/agency-swarm#readme) - Multi-agent orchestration framework built on OpenAI Agents SDK. Define agent teams with customizable roles and communication flows. by [@VRSEN](https://github.com/VRSEN) (4,586 stars)
 - [**LazyLLM**](https://github.com/LazyAGI/LazyLLM#readme) - Easiest and laziest way for building multi-agent LLM applications with minimal boilerplate. by [@LazyAGI](https://github.com/LazyAGI) (3,888 stars)
 - [**openai-agents-js**](https://github.com/openai/openai-agents-js#readme) - Lightweight JavaScript framework for multi-agent workflows and voice agents by OpenAI. by [@openai](https://github.com/openai) (3,882 stars)
@@ -176,7 +175,7 @@ Guardrails, policy engines, and governance frameworks for multi-agent systems.
 - [SwarmSys: Decentralized Swarm-Inspired Agents for Scalable Reasoning](https://arxiv.org/abs/2510.10047) (arXiv'25) - Explorers, Workers, and Validators with pheromone-inspired reinforcement. Coordination scaling vs model scaling.
 - [SIER: Swarm Intelligence Enhancing Reasoning](https://arxiv.org/abs/2505.17115) (arXiv'25) - Kernel density estimation and non-dominated sorting for swarm-guided LLM reasoning.
 - [Multi-Agent Systems Powered by LLMs: Applications in Swarm Intelligence](https://arxiv.org/abs/2503.03800) (arXiv'25) - LLMs integrated into multi-agent simulations for ant colony foraging and bird flocking.
-- [LatentMAS: Latent Collaboration in Multi-Agent Systems](https://arxiv.org/abs/2506.06637) (arXiv'25) - Agents collaborate in continuous latent space instead of natural language.
+- [LatentMAS: Latent Collaboration in Multi-Agent Systems](https://arxiv.org/abs/2511.20639) (arXiv'25) - Agents collaborate in continuous latent space instead of natural language.
 - [GPTSwarm: Language Agents as Optimizable Graphs](https://arxiv.org/abs/2402.16823) (ICML'24) - Graph-based optimization of agent collaboration topologies.
 - [Scaling Large-Language-Model-based Multi-Agent Collaboration](https://arxiv.org/abs/2406.07155) (arXiv'24) - Scaling laws and topology analysis for multi-agent collaboration.
 

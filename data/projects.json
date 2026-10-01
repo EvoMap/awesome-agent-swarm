@@ -366,7 +366,7 @@
       "research"
     ],
     "stars": 1135,
-    "paper": "https://arxiv.org/abs/2506.06637"
+    "paper": "https://arxiv.org/abs/2511.20639"
   },
   {
     "name": "Coral Anemoi",
@@ -562,19 +562,6 @@
       "multiagent-systems"
     ],
     "stars": 3553
-  },
-  {
-    "name": "solace-agent-mesh",
-    "repo": "SolaceLabs/solace-agent-mesh",
-    "description": "Event-driven framework for building and orchestrating multi-agent AI systems with seamless integration.",
-    "category": "frameworks",
-    "maintainer": "SolaceLabs",
-    "tags": [
-      "a2a",
-      "agentframework",
-      "agentic"
-    ],
-    "stars": 4923
   },
   {
     "name": "fastmcp",
