@@ -180,6 +180,7 @@ Guardrails, policy engines, and governance frameworks for multi-agent systems.
 - [Scaling Large-Language-Model-based Multi-Agent Collaboration](https://arxiv.org/abs/2406.07155) (arXiv'24) - Scaling laws and topology analysis for multi-agent collaboration.
 
 ### Multi-Agent Collaboration and Evolution
+- [AI Group Call](https://aigroupcall.app) - Live voice call with up to eight AI agents around one goal — they debate, brainstorm and hand you a summary and action items.
 
 - [Self-Evolving Multi-Agent Collaboration Networks](https://arxiv.org/abs/2410.02849) (ICLR'25) - Multi-agent systems that evolve their collaboration patterns through experience.
 - [AFlow: Automating Agentic Workflow Generation](https://arxiv.org/abs/2410.10762) (ICLR'25) - Monte Carlo tree search for automated multi-agent workflow design.
