@@ -756,5 +756,18 @@
       "open-source"
     ],
     "stars": 152
+  },
+  {
+    "name": "Cotal",
+    "repo": "Cotal-AI/Cotal",
+    "description": "Open pub/sub standard over NATS JetStream for agent coordination. Mixed coding agents share a space with presence, channels, durable direct messages, and role-addressed anycast where one free agent claims the work.",
+    "category": "communication",
+    "maintainer": "Cotal-AI",
+    "tags": [
+      "multi-agent",
+      "mcp",
+      "nats"
+    ],
+    "stars": 307
   }
 ]
