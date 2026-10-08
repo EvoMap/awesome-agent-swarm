@@ -756,5 +756,18 @@
       "open-source"
     ],
     "stars": 159
+  },
+  {
+    "name": "Crewly",
+    "repo": "stevehuang0115/crewly",
+    "description": "Open-source platform that runs teams of Claude Code, Codex and Gemini CLI agents with defined roles, task delegation, shared memory and a live web dashboard.",
+    "category": "role-teams",
+    "maintainer": "stevehuang0115",
+    "tags": [
+      "multi-agent",
+      "orchestration",
+      "open-source"
+    ],
+    "stars": 84
   }
 ]
