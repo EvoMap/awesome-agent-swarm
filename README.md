@@ -119,6 +119,7 @@ Frameworks that organize agents into specialized roles for collaborative task ex
 - [**CrewAI**](https://github.com/crewAIInc/crewAI#readme) - Framework for orchestrating role-playing, autonomous AI agents. Define crews with specialized roles, goals, and backstories for collaborative tasks. by [@crewAIInc](https://github.com/crewAIInc) (59,403 stars)
 - [**ChatDev**](https://github.com/OpenBMB/ChatDev#readme) - Virtual software company via LLM-powered multi-agent conversation chains. Agents play CEO, CTO, programmer, and tester roles. by [@OpenBMB](https://github.com/OpenBMB) (34,455 stars)
 - [**HiClaw**](https://github.com/agentscope-ai/AgentTeams#readme) - Collaborative Multi-Agent OS with Manager-Workers architecture. Human-in-the-loop task coordination with enterprise-grade security. by [@agentscope-ai](https://github.com/agentscope-ai) (5,702 stars)
+- [**Crewly**](https://github.com/stevehuang0115/crewly#readme) - Open-source platform that runs teams of Claude Code, Codex and Gemini CLI agents with defined roles, task delegation, shared memory and a live web dashboard. by [@stevehuang0115](https://github.com/stevehuang0115) (84 stars)
 <!-- /AUTOGEN:role-teams -->
 
 ## Task Decomposition and Planning
