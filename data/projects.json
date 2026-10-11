@@ -756,5 +756,18 @@
       "open-source"
     ],
     "stars": 159
+  },
+  {
+    "name": "Tale",
+    "repo": "tale-project/tale",
+    "description": "Self-hostable workspace for coordinating people and AI agents through delegated tasks, persistent sandbox workspaces, project knowledge, and human review of reports and deliverables.",
+    "category": "orchestration",
+    "maintainer": "tale-project",
+    "tags": [
+      "orchestration",
+      "collaborative",
+      "human-in-the-loop"
+    ],
+    "stars": 33
   }
 ]
