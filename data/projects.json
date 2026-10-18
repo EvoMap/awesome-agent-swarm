@@ -756,5 +756,18 @@
       "open-source"
     ],
     "stars": 162
+  },
+  {
+    "name": "Agent Swarm",
+    "repo": "desplega-ai/agent-swarm",
+    "description": "Multi-agent orchestration over MCP, with a lead agent delegating tasks to Docker-isolated workers running Claude Code, Codex, and other harnesses.",
+    "category": "orchestration",
+    "maintainer": "desplega-ai",
+    "tags": [
+      "multi-agent",
+      "orchestration",
+      "mcp"
+    ],
+    "stars": 903
   }
 ]
