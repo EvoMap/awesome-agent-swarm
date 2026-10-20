@@ -821,5 +821,18 @@
       "git-worktree"
     ],
     "stars": 57
+  },
+  {
+    "name": "Orkas",
+    "repo": "Orkas-AI/Orkas",
+    "description": "Local-first desktop app where a Commander coordinates specialist AI agents in parallel or sequence, including local sessions for external coding-agent CLIs.",
+    "category": "orchestration",
+    "maintainer": "Orkas-AI",
+    "tags": [
+      "multi-agent",
+      "orchestration",
+      "local-first"
+    ],
+    "stars": 2224
   }
 ]
