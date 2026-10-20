@@ -131,7 +131,7 @@ Systems for breaking complex goals into subtasks, building execution DAGs, and c
 
 <!-- AUTOGEN:task-decomposition -->
 - [**deepagents**](https://github.com/langchain-ai/deepagents#readme) - Agent harness built with LangChain and LangGraph with planning, filesystem backend, and multi-agent collaboration. by [@langchain-ai](https://github.com/langchain-ai) (30,235 stars)
-- [**agent-orchestrator**](https://github.com/Untrivial-ai/agent-orchestrator#readme) - Agentic orchestrator for parallel coding agents with task planning, agent spawning, and autonomous handoffs. by [@Untrivial-ai](https://github.com/Untrivial-ai) (13,151 stars)
+- [**agent-orchestrator**](https://github.com/OrchestratorInc/agent-orchestrator#readme) - Agentic orchestrator for parallel coding agents with task planning, agent spawning, and autonomous handoffs. by [@OrchestratorInc](https://github.com/OrchestratorInc) (13,151 stars)
 - [**Open Multi-Agent**](https://github.com/open-multi-agent/open-multi-agent#readme) - TypeScript multi-agent orchestration via single runTeam() call. Auto-decomposes goals into task DAGs and runs agents in parallel. by [@open-multi-agent](https://github.com/open-multi-agent) (6,996 stars)
 - [**MindSearch**](https://github.com/InternLM/MindSearch#readme) - Multi-agent web search engine. Decomposes search queries into sub-tasks, delegates to specialized agents, and aggregates results. by [@InternLM](https://github.com/InternLM) (6,942 stars)
 - [**AFlow**](https://github.com/FoundationAgents/AFlow#readme) - Automated multi-agent workflow generation via Monte Carlo tree search. Designs optimal agent topologies for given tasks. by [@FoundationAgents](https://github.com/FoundationAgents) (613 stars)
