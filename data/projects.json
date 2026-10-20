@@ -758,16 +758,16 @@
     "stars": 162
   },
   {
-    "name": "Cotal",
-    "repo": "Cotal-AI/Cotal",
-    "description": "Open pub/sub standard over NATS JetStream for agent coordination. Mixed coding agents share a space with presence, channels, durable direct messages, and role-addressed anycast where one free agent claims the work.",
-    "category": "communication",
-    "maintainer": "Cotal-AI",
+    "name": "Agent Swarm",
+    "repo": "desplega-ai/agent-swarm",
+    "description": "Multi-agent orchestration over MCP, with a lead agent delegating tasks to Docker-isolated workers running Claude Code, Codex, and other harnesses.",
+    "category": "orchestration",
+    "maintainer": "desplega-ai",
     "tags": [
       "multi-agent",
-      "mcp",
-      "nats"
+      "orchestration",
+      "mcp"
     ],
-    "stars": 307
+    "stars": 903
   }
 ]

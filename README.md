@@ -81,6 +81,7 @@ Orchestration engines, workflow builders, and pipeline frameworks for coordinati
 - [**Hatchet**](https://github.com/hatchet-dev/hatchet#readme) - Orchestration engine for background tasks, AI agents, and durable workflows. Queues, scheduling, and durable execution for agent pipelines. by [@hatchet-dev](https://github.com/hatchet-dev) (8,111 stars)
 - [**Agent Squad**](https://github.com/2FastLabs/agent-squad#readme) - AWS framework for managing multiple AI agents and handling complex conversations with intelligent routing. by [@2FastLabs](https://github.com/2FastLabs) (7,793 stars)
 - [**LightAgent**](https://github.com/wanxingai/LightAgent#readme) - Python multi-agent framework with role-based routing, checkpointed workflows, and persistent dynamic DAGs with concurrent workers, restart recovery, and verification-gated artifacts. by [@wanxingai](https://github.com/wanxingai) (1,233 stars)
+- [**Agent Swarm**](https://github.com/desplega-ai/agent-swarm#readme) - Multi-agent orchestration over MCP, with a lead agent delegating tasks to Docker-isolated workers running Claude Code, Codex, and other harnesses. by [@desplega-ai](https://github.com/desplega-ai) (903 stars)
 <!-- /AUTOGEN:orchestration -->
 
 ## Agent Communication and Protocols
@@ -95,7 +96,6 @@ Standards and protocols for inter-agent messaging, discovery, and interoperabili
 - [**arcade-mcp**](https://github.com/ArcadeAI/arcade-mcp#readme) - MCP server framework and tool-development library for building custom agent capabilities and authenticated tool calls. by [@ArcadeAI](https://github.com/ArcadeAI) (1,049 stars)
 - [**A2A x402**](https://github.com/google-agentic-commerce/a2a-x402#readme) - A2A protocol extension adding x402 on-chain payments, letting agents monetize services over Agent-to-Agent calls. by [@google-agentic-commerce](https://github.com/google-agentic-commerce) (564 stars)
 - [**Coral Anemoi**](https://github.com/Coral-Protocol/Anemoi#readme) - Semi-centralized multi-agent coordination via Agent-to-Agent Communication MCP server. Enables cross-framework agent collaboration. by [@Coral-Protocol](https://github.com/Coral-Protocol) (369 stars)
-- [**Cotal**](https://github.com/Cotal-AI/Cotal#readme) - Open pub/sub standard over NATS JetStream for agent coordination. Mixed coding agents share a space with presence, channels, durable direct messages, and role-addressed anycast where one free agent claims the work. by [@Cotal-AI](https://github.com/Cotal-AI) (307 stars)
 - [**GEP MCP Server**](https://github.com/EvoMap/gep-mcp-server#readme) - MCP Server for Genome Evolution Protocol. Exposes swarm evolution tools to Claude Desktop, Cursor, and any MCP client. by [@EvoMap](https://github.com/EvoMap) (6 stars)
 <!-- /AUTOGEN:communication -->
 
