@@ -81,6 +81,7 @@ Orchestration engines, workflow builders, and pipeline frameworks for coordinati
 - [**Hatchet**](https://github.com/hatchet-dev/hatchet#readme) - Orchestration engine for background tasks, AI agents, and durable workflows. Queues, scheduling, and durable execution for agent pipelines. by [@hatchet-dev](https://github.com/hatchet-dev) (8,111 stars)
 - [**Agent Squad**](https://github.com/2FastLabs/agent-squad#readme) - AWS framework for managing multiple AI agents and handling complex conversations with intelligent routing. by [@2FastLabs](https://github.com/2FastLabs) (7,793 stars)
 - [**LightAgent**](https://github.com/wanxingai/LightAgent#readme) - Python multi-agent framework with role-based routing, checkpointed workflows, and persistent dynamic DAGs with concurrent workers, restart recovery, and verification-gated artifacts. by [@wanxingai](https://github.com/wanxingai) (1,233 stars)
+- [**Agent Swarm**](https://github.com/desplega-ai/agent-swarm#readme) - Multi-agent orchestration over MCP, with a lead agent delegating tasks to Docker-isolated workers running Claude Code, Codex, and other harnesses. by [@desplega-ai](https://github.com/desplega-ai) (903 stars)
 <!-- /AUTOGEN:orchestration -->
 
 ## Agent Communication and Protocols
