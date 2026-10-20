@@ -513,10 +513,10 @@
   },
   {
     "name": "agent-orchestrator",
-    "repo": "Untrivial-ai/agent-orchestrator",
+    "repo": "OrchestratorInc/agent-orchestrator",
     "description": "Agentic orchestrator for parallel coding agents with task planning, agent spawning, and autonomous handoffs.",
     "category": "task-decomposition",
-    "maintainer": "Untrivial-ai",
+    "maintainer": "OrchestratorInc",
     "tags": [
       "agent-fleet",
       "agent-swarm",
