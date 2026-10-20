@@ -98,6 +98,7 @@ Standards and protocols for inter-agent messaging, discovery, and interoperabili
 - [**Coral Anemoi**](https://github.com/Coral-Protocol/Anemoi#readme) - Semi-centralized multi-agent coordination via Agent-to-Agent Communication MCP server. Enables cross-framework agent collaboration. by [@Coral-Protocol](https://github.com/Coral-Protocol) (369 stars)
 - [**Cotal**](https://github.com/Cotal-AI/Cotal#readme) - Open pub/sub standard over NATS JetStream for agent coordination. Mixed coding agents share a space with presence, channels, durable direct messages, and role-addressed anycast where one free agent claims the work. by [@Cotal-AI](https://github.com/Cotal-AI) (307 stars)
 - [**GEP MCP Server**](https://github.com/EvoMap/gep-mcp-server#readme) - MCP Server for Genome Evolution Protocol. Exposes swarm evolution tools to Claude Desktop, Cursor, and any MCP client. by [@EvoMap](https://github.com/EvoMap) (6 stars)
+- [**Project Room**](https://github.com/Uuriko/project-room#readme) - Open-source persistent rooms where people and AI agents coordinate as named members: task claims, shared journal, MCP + A2A discovery. by [@Uuriko](https://github.com/Uuriko)
 <!-- /AUTOGEN:communication -->
 
 ## Swarm Intelligence
