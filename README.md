@@ -174,7 +174,7 @@ Guardrails, policy engines, and governance frameworks for multi-agent systems.
 - [MAS-Orchestra: Understanding Multi-Agent Reasoning Through Holistic Orchestration](https://arxiv.org/abs/2601.14652) (arXiv'26) - Multi-agent orchestration as a function-calling RL problem. Introduces MASBENCH along 5 dimensions.
 - [AdaptOrch: Task-Adaptive Orchestration](https://arxiv.org/abs/2602.16873) (arXiv'26) - Dynamic topology selection (parallel, sequential, hierarchical, hybrid) based on task dependency graphs. 12-23% improvement over the single-best configuration.
 - [Puppeteer: Evolving Orchestration via Reinforcement Learning](https://arxiv.org/abs/2505.19591) (arXiv'25) - Centralized orchestrator trained via RL to dynamically direct agents in response to evolving task states.
-- [Agon: An Autonomous Large-Scale Omnidisciplinary Research System Built on Prompt Economy](https://arxiv.org/abs/2606.24177) (arXiv'26) - Orchestrates generate-critique loops across 10+ disciplines using 18 reusable roles. Built on Prompt Economy: treat prompting as engineering, maximize ROI. [Code](https://github.com/AutoResearch-Factory/Agon)
+- [Agon: An Autonomous Large-Scale Omnidisciplinary Research System Built on Prompt Economy](https://arxiv.org/abs/2606.24177) (arXiv'26) - Autonomous research system with idea, proposal, experiment, and paper workflows built on Prompt Economy. [Code](https://github.com/AutoResearch-Factory/Agon)
 
 ### Swarm Intelligence and Emergence
 
