@@ -808,5 +808,18 @@
       "collaborative"
     ],
     "stars": 0
+  },
+  {
+    "name": "YYLO",
+    "repo": "yylo-dev/yylo",
+    "description": "Command-line orchestrator for coding agents with dedicated per-task branches and worktrees, receipt-backed repository changes, and independently run external review and test workflows.",
+    "category": "swarm-coding",
+    "maintainer": "yylo-dev",
+    "tags": [
+      "multi-agent",
+      "orchestration",
+      "git-worktree"
+    ],
+    "stars": 57
   }
 ]

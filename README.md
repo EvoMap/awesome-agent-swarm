@@ -147,6 +147,7 @@ Agent swarms applied to collaborative software development and engineering workf
 - [**SWE-ReX**](https://github.com/SWE-agent/SWE-ReX#readme) - Sandboxed, massively-parallel code execution runtime for AI agents. Runs many agents locally or in the cloud; powers SWE-agent. by [@SWE-agent](https://github.com/SWE-agent) (618 stars)
 - [**Ordewell**](https://github.com/ordewell/ordewell#readme) - Terminal CLI and TUI that turns one goal into an ordered, editable plan of coding agent tasks, each task running its own session with the runner, model and mode you pick for it, and a task counts as done only when its completion marker appears in that runner's output. by [@ordewell](https://github.com/ordewell) (202 stars)
 - [**LoopTroop**](https://github.com/looptroop-ai/LoopTroop#readme) - Local coding-agent orchestrator with multi-model consensus planning councils, isolated Git worktrees, bounded retry loops, and human approval gates. by [@looptroop-ai](https://github.com/looptroop-ai) (162 stars)
+- [**YYLO**](https://github.com/yylo-dev/yylo#readme) - Command-line orchestrator for coding agents with dedicated per-task branches and worktrees, receipt-backed repository changes, and independently run external review and test workflows. by [@yylo-dev](https://github.com/yylo-dev) (57 stars)
 <!-- /AUTOGEN:swarm-coding -->
 
 ## Safety and Governance
