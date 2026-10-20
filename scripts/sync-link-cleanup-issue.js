@@ -5,8 +5,9 @@
  * a new "auto-link-cleanup" issue or update the most recent open one.
  *
  * Reads the issues array written by scripts/check-links.js (path comes from
- * env LINK_ISSUES_FILE, defaults to /tmp/link-issues.json). Exits cleanly
- * if there are no issues to report.
+ * env LINK_ISSUES_FILE, defaults to /tmp/link-issues.json). A missing,
+ * malformed, or incomplete report refuses all external mutations so a
+ * transient scan cannot refresh a cleanup issue.
  *
  * Requires: gh CLI authenticated; repo permissions issues: write.
  */
@@ -18,6 +19,7 @@ const LABEL = 'auto-link-cleanup';
 const LABEL_COLOR = 'fbca04';
 const LABEL_DESC = 'Automated repository link cleanup queue';
 const ISSUE_FILE = process.env.LINK_ISSUES_FILE || '/tmp/link-issues.json';
+const KNOWN_STATUSES = new Set(['not_found', 'archived', 'disabled', 'redirected', 'error']);
 
 function gh(args, opts = {}) {
 	return execFileSync('gh', args, { encoding: 'utf-8', stdio: opts.stdio ?? ['ignore', 'pipe', 'inherit'] });
@@ -83,13 +85,36 @@ function renderBody(issues, runUrl) {
 	return lines.join('\n');
 }
 
-function main() {
+function loadIssues() {
 	if (!fs.existsSync(ISSUE_FILE)) {
-		console.log('No issues file at ' + ISSUE_FILE + ', nothing to do.');
-		return;
+		console.error('No issues file at ' + ISSUE_FILE + '; refusing cleanup issue mutations without a completed link scan.');
+		process.exit(1);
 	}
-	const issues = JSON.parse(fs.readFileSync(ISSUE_FILE, 'utf-8'));
-	if (!Array.isArray(issues) || issues.length === 0) {
+
+	let issues;
+	try {
+		issues = JSON.parse(fs.readFileSync(ISSUE_FILE, 'utf-8'));
+	} catch (error) {
+		console.error('Could not read issues file ' + ISSUE_FILE + '; refusing cleanup issue mutations: ' + error.message);
+		process.exit(1);
+	}
+
+	if (!Array.isArray(issues) || issues.some(issue => !issue || !KNOWN_STATUSES.has(issue.status))) {
+		console.error('Issues file is not a valid completed link report: ' + ISSUE_FILE);
+		process.exit(1);
+	}
+	return issues;
+}
+
+function main() {
+	const issues = loadIssues();
+	const incomplete = issues.filter(issue => issue.status === 'error');
+	if (incomplete.length > 0) {
+		console.error('Link scan is incomplete (' + incomplete.length + ' API error(s)); refusing cleanup issue mutations.');
+		process.exit(1);
+	}
+
+	if (issues.length === 0) {
 		console.log('No link issues, skipping.');
 		return;
 	}
