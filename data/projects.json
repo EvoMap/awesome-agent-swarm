@@ -173,7 +173,7 @@
   {
     "name": "CAMEL",
     "repo": "camel-ai/camel",
-    "description": "The first multi-agent framework. Finding the Scaling Law of Agents through role-playing and communicative agent collaboration.",
+    "description": "Multi-agent framework for role-playing and communicative agent collaboration. Studies scaling laws of agents.",
     "category": "intelligence",
     "maintainer": "camel-ai",
     "tags": [

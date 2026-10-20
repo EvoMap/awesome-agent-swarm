@@ -108,7 +108,7 @@ Emergent behavior, collective reasoning, and self-organizing multi-agent systems
 <!-- AUTOGEN:intelligence -->
 - [**TradingAgents**](https://github.com/TauricResearch/TradingAgents#readme) - Multi-agent LLM financial trading framework with fund manager, analyst, and risk advisor roles. by [@TauricResearch](https://github.com/TauricResearch) (111,079 stars)
 - [**OWL**](https://github.com/camel-ai/owl#readme) - Optimized Workforce Learning framework built on CAMEL-AI. #1 on GAIA benchmark (69.09) among open-source multi-agent systems for real-world task automation. by [@camel-ai](https://github.com/camel-ai) (20,150 stars)
-- [**CAMEL**](https://github.com/camel-ai/camel#readme) - The first multi-agent framework. Finding the Scaling Law of Agents through role-playing and communicative agent collaboration. by [@camel-ai](https://github.com/camel-ai) (17,884 stars)
+- [**CAMEL**](https://github.com/camel-ai/camel#readme) - Multi-agent framework for role-playing and communicative agent collaboration. Studies scaling laws of agents. by [@camel-ai](https://github.com/camel-ai) (17,884 stars)
 - [**ClawTeam**](https://github.com/HKUDS/ClawTeam#readme) - Agent Swarm Intelligence framework. Agents self-organize into collaborative teams with dynamic task allocation, inter-agent messaging, and git worktree isolation. by [@HKUDS](https://github.com/HKUDS) (5,534 stars)
 - [**LatentMAS**](https://github.com/Gen-Verse/LatentMAS#readme) - Latent collaboration in multi-agent systems. Agents reason and collaborate in continuous latent space instead of natural language, reducing communication overhead. by [@Gen-Verse](https://github.com/Gen-Verse) (1,147 stars)
 <!-- /AUTOGEN:intelligence -->
@@ -169,9 +169,9 @@ Guardrails, policy engines, and governance frameworks for multi-agent systems.
 
 ### Swarm Orchestration and Architecture
 
-- [AgentOrchestra: A Hierarchical Multi-Agent Framework for General-Purpose Task Solving](https://arxiv.org/abs/2506.12508) (arXiv'25) - Conductor-inspired hierarchical framework with MCP Manager Agent. 83.39% on GAIA benchmark.
+- [AgentOrchestra: A Hierarchical Multi-Agent Framework for General-Purpose Task Solving](https://arxiv.org/abs/2506.12508v3) (arXiv'25) - Conductor-inspired hierarchical framework with MCP Manager Agent. 83.39% on GAIA benchmark.
 - [MAS-Orchestra: Understanding Multi-Agent Reasoning Through Holistic Orchestration](https://arxiv.org/abs/2601.14652) (arXiv'26) - Multi-agent orchestration as a function-calling RL problem. Introduces MASBENCH along 5 dimensions.
-- [AdaptOrch: Task-Adaptive Orchestration](https://arxiv.org/abs/2602.16873) (arXiv'26) - Dynamic topology selection (parallel, sequential, hierarchical, hybrid) based on task dependency graphs. 12-23% over static baselines.
+- [AdaptOrch: Task-Adaptive Orchestration](https://arxiv.org/abs/2602.16873) (arXiv'26) - Dynamic topology selection (parallel, sequential, hierarchical, hybrid) based on task dependency graphs. 12-23% improvement over the single-best configuration.
 - [Puppeteer: Evolving Orchestration via Reinforcement Learning](https://arxiv.org/abs/2505.19591) (arXiv'25) - Centralized orchestrator trained via RL to dynamically direct agents in response to evolving task states.
 - [Agon: An Autonomous Large-Scale Omnidisciplinary Research System Built on Prompt Economy](https://arxiv.org/abs/2606.24177) (arXiv'26) - Orchestrates generate-critique loops across 10+ disciplines using 18 reusable roles. Built on Prompt Economy: treat prompting as engineering, maximize ROI. [Code](https://github.com/AutoResearch-Factory/Agon)
 
@@ -186,14 +186,14 @@ Guardrails, policy engines, and governance frameworks for multi-agent systems.
 
 ### Multi-Agent Collaboration and Evolution
 
-- [Self-Evolving Multi-Agent Collaboration Networks](https://arxiv.org/abs/2410.02849) (ICLR'25) - Multi-agent systems that evolve their collaboration patterns through experience.
+- [Self-Evolving Multi-Agent Collaboration Networks for Software Development](https://arxiv.org/abs/2410.16946) (ICLR'25) - Evolves multi-agent collaboration networks for software development using text-based environmental feedback.
 - [AFlow: Automating Agentic Workflow Generation](https://arxiv.org/abs/2410.10762) (ICLR'25) - Monte Carlo tree search for automated multi-agent workflow design.
 - [Automated Design of Agentic Systems (ADAS)](https://arxiv.org/abs/2408.08435) (ICLR'25) - Meta-learning for automatic agent system design.
 - [AgentVerse: Facilitating Multi-Agent Collaboration](https://arxiv.org/abs/2308.10848) (ICLR'24) - Emergent behaviors in multi-agent environments.
 - [SEMAG: Self-Evolutionary Multi-Agent Code Generation](https://arxiv.org/abs/2603.15707) (arXiv'26) - Self-evolutionary agents that auto-upgrade backbone models.
 - [SAGE: Multi-Agent Self-Evolution for LLM Reasoning](https://arxiv.org/abs/2603.15255) (arXiv'26) - Four co-evolving agents from shared LLM backbone.
 - [Group-Evolving Agents](https://arxiv.org/abs/2602.04837) (arXiv'26) - Agent groups as evolutionary units with experience sharing. 71.0% on SWE-bench Verified.
-- [CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery](https://arxiv.org/abs/2604.01658) (arXiv'26) - First framework for autonomous multi-agent evolution on open-ended problems. Persistent memory, asynchronous execution, and heartbeat-based interventions. 3-10x improvement over fixed baselines.
+- [CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery](https://arxiv.org/abs/2604.01658) (arXiv'26) - First framework for autonomous multi-agent evolution on open-ended problems. Persistent memory, asynchronous execution, and heartbeat-based interventions. Reports 3-10 times higher improvement rates than fixed evolutionary-search baselines.
 - [PerspectiveGap: A Benchmark for Multi-Agent Orchestration Prompting](https://arxiv.org/abs/2606.08878) (arXiv'26) - 110 scenarios across 10 topologies testing whether LLMs can assign context fragments to correct sub-agent roles. 33 commercial models average 17.2% pass rate. [Code](https://github.com/WhymustIhaveaname/PerspectiveGap)
 
 ### Role-Based Teams and Software Engineering
@@ -208,8 +208,8 @@ Guardrails, policy engines, and governance frameworks for multi-agent systems.
 ### Task Decomposition and Planning
 
 - [Modular Task Decomposition and Dynamic Collaboration in Multi-Agent Systems](https://arxiv.org/abs/2511.01149) (arXiv'25) - Hierarchical sub-task decomposition with dynamic scheduling and constraint parsing.
-- [CodeAgents: Token-Efficient Multi-Agent Reasoning](https://arxiv.org/abs/2507.03254) (arXiv'25) - Multi-agent reasoning codified into modular pseudocode. 55-87% token reduction.
-- [ReWOO: Decoupling Reasoning from Observations](https://arxiv.org/abs/2305.18323) (ICML'24) - Efficient tool-augmented reasoning by decoupling planning from execution.
+- [CodeAgents: Token-Efficient Multi-Agent Reasoning](https://arxiv.org/abs/2507.03254) (arXiv'25) - Multi-agent reasoning codified into modular pseudocode. 55-87% input-token reduction and 41-70% output-token reduction.
+- [ReWOO: Decoupling Reasoning from Observations](https://arxiv.org/abs/2305.18323) (arXiv'23) - Efficient tool-augmented reasoning by decoupling planning from execution.
 - [Tree of Thoughts: Deliberate Problem Solving with LLMs](https://arxiv.org/abs/2305.10601) (NeurIPS'23) - Tree-structured reasoning for complex problem solving.
 - [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends](https://arxiv.org/abs/2303.17580) (NeurIPS'23) - Task decomposition across specialized AI models.
 
@@ -224,7 +224,7 @@ Guardrails, policy engines, and governance frameworks for multi-agent systems.
 - [AGENTSAFE: Unified Framework for Ethical Assurance and Governance in Agentic AI](https://arxiv.org/abs/2512.03180) (arXiv'25) - Design, runtime, and audit controls covering the agentic loop (plan, act, observe, reflect).
 - [MI9: Integrated Runtime Governance Framework for Agentic AI](https://arxiv.org/abs/2508.03858) (arXiv'25) - Agency-risk index, semantic telemetry, conformance engines, and graduated containment.
 - [The Alignment Flywheel: Governance-Centric Hybrid Multi-Agent Architecture](https://arxiv.org/abs/2603.02259) (arXiv'26) - Proposer + Safety Oracle with patch locality for runtime governance.
-- [OpenGuardrails: Context-Aware AI Guardrails Platform](https://arxiv.org/abs/2510.19169) (arXiv'25) - Context-aware safety detection and model-manipulation prevention.
+- [OpenGuardrails: Context-Aware AI Guardrails Platform](https://arxiv.org/abs/2510.19169) (arXiv'25) - Per-request configurable detection for content-safety violations, model-manipulation attacks, and sensitive-data leakage.
 
 ## Benchmarks and Evaluation
 
