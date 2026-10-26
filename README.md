@@ -54,7 +54,6 @@ Core frameworks for building and managing multi-agent swarm systems.
 - [**Microsoft Agent Framework**](https://github.com/microsoft/agent-framework#readme) - Framework for building, orchestrating and deploying multi-agent systems with support for Python and .NET. by [@microsoft](https://github.com/microsoft) (14,239 stars)
 - [**Spring AI Alibaba**](https://github.com/alibaba/spring-ai-alibaba#readme) - Enterprise-grade multi-agent framework for Java developers by Alibaba. Spring ecosystem integration with agent orchestration. by [@alibaba](https://github.com/alibaba) (11,044 stars)
 - [**PraisonAI**](https://github.com/MervinPraison/PraisonAI#readme) - Low-code multi-agent framework with 100+ built-in tools. Define agent swarms via YAML configuration. by [@MervinPraison](https://github.com/MervinPraison) (9,281 stars)
-- [**EvoMap**](https://github.com/EvoMap/evolver#readme) - Agent Swarm platform with task decomposition, Worker Pool orchestration, Evolution Circles, AI Council multi-agent governance, Privacy Computing, and ARC-AGI-2 arena. by [@EvoMap](https://github.com/EvoMap) (8,688 stars)
 - [**Swarms**](https://github.com/kyegomez/swarms#readme) - Enterprise-grade multi-agent orchestration framework. Sequential, parallel, hierarchical, and mesh swarm topologies. by [@kyegomez](https://github.com/kyegomez) (7,285 stars)
 - [**ROMA**](https://github.com/sentient-agi/ROMA#readme) - Recursive Open Meta-Agent framework to build high-performance multi-agent applications with composable architecture. by [@sentient-agi](https://github.com/sentient-agi) (5,183 stars)
 - [**Agency Swarm**](https://github.com/VRSEN/agency-swarm#readme) - Multi-agent orchestration framework built on OpenAI Agents SDK. Define agent teams with customizable roles and communication flows. by [@VRSEN](https://github.com/VRSEN) (4,605 stars)
@@ -110,6 +109,7 @@ Emergent behavior, collective reasoning, and self-organizing multi-agent systems
 - [**TradingAgents**](https://github.com/TauricResearch/TradingAgents#readme) - Multi-agent LLM financial trading framework with fund manager, analyst, and risk advisor roles. by [@TauricResearch](https://github.com/TauricResearch) (112,416 stars)
 - [**OWL**](https://github.com/camel-ai/owl#readme) - Optimized Workforce Learning framework built on CAMEL-AI. #1 on GAIA benchmark (69.09) among open-source multi-agent systems for real-world task automation. by [@camel-ai](https://github.com/camel-ai) (20,153 stars)
 - [**CAMEL**](https://github.com/camel-ai/camel#readme) - Multi-agent framework for role-playing and communicative agent collaboration. Studies scaling laws of agents. by [@camel-ai](https://github.com/camel-ai) (17,941 stars)
+- [**Evolver**](https://github.com/EvoMap/evolver#readme) - GEP-powered self-evolution engine with opt-in EvoMap worker-pool participation and shared Genes and Capsules for collaborative agent evolution. by [@EvoMap](https://github.com/EvoMap) (8,688 stars)
 - [**ClawTeam**](https://github.com/HKUDS/ClawTeam#readme) - Agent Swarm Intelligence framework. Agents self-organize into collaborative teams with dynamic task allocation, inter-agent messaging, and git worktree isolation. by [@HKUDS](https://github.com/HKUDS) (5,536 stars)
 - [**LatentMAS**](https://github.com/Gen-Verse/LatentMAS#readme) - Latent collaboration in multi-agent systems. Agents reason and collaborate in continuous latent space instead of natural language, reducing communication overhead. by [@Gen-Verse](https://github.com/Gen-Verse) (1,158 stars)
 <!-- /AUTOGEN:intelligence -->
@@ -245,7 +245,7 @@ _No projects yet. [Submit one!](https://github.com/EvoMap/awesome-agent-swarm/is
 
 ## Footnotes
 
-Maintained by [EvoMap](https://evomap.ai). See [contributing guidelines](contributing.md) for how to submit a project or paper.
+Maintained by [EvoMap](https://evomap.ai). See [contributing guidelines](CONTRIBUTING.md) for how to submit a project or paper.
 
 Also check out [Awesome Agent Evolution](https://github.com/EvoMap/awesome-agent-evolution) for agent self-evolution, memory systems, and autonomous self-improvement.
 

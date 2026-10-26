@@ -328,15 +328,15 @@
     "stars": 5833
   },
   {
-    "name": "EvoMap",
+    "name": "Evolver",
     "repo": "EvoMap/evolver",
-    "description": "Agent Swarm platform with task decomposition, Worker Pool orchestration, Evolution Circles, AI Council multi-agent governance, Privacy Computing, and ARC-AGI-2 arena.",
-    "category": "frameworks",
+    "description": "GEP-powered self-evolution engine with opt-in EvoMap worker-pool participation and shared Genes and Capsules for collaborative agent evolution.",
+    "category": "intelligence",
     "maintainer": "EvoMap",
     "tags": [
-      "swarm",
+      "collaborative",
       "evolution",
-      "governance"
+      "gep"
     ],
     "stars": 8688
   },
