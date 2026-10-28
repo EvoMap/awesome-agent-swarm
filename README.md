@@ -44,24 +44,24 @@ graph LR
 Core frameworks for building and managing multi-agent swarm systems.
 
 <!-- AUTOGEN:frameworks -->
-- [**AutoGen**](https://github.com/microsoft/autogen#readme) - Programming framework for agentic AI by Microsoft. Build multi-agent applications with conversational patterns and group chat. by [@microsoft](https://github.com/microsoft) (61,502 stars)
-- [**AgentScope**](https://github.com/agentscope-ai/agentscope#readme) - Production-ready multi-agent framework with ReAct, memory, planning, and A2A support. Build and run agents you can see, understand and trust. by [@agentscope-ai](https://github.com/agentscope-ai) (33,569 stars)
-- [**OpenAI Agents Python**](https://github.com/openai/openai-agents-python#readme) - Production-ready multi-agent framework from OpenAI. Features agent handoffs, guardrails, and tracing for swarm workflows. by [@OpenAI](https://github.com/OpenAI) (30,190 stars)
-- [**Mastra**](https://github.com/mastra-ai/mastra#readme) - TypeScript framework for building AI-powered multi-agent applications. From the team behind Gatsby. by [@mastra-ai](https://github.com/mastra-ai) (28,969 stars)
-- [**Swarm (OpenAI)**](https://github.com/openai/swarm#readme) - Educational framework exploring lightweight multi-agent orchestration. Demonstrates handoffs and routines patterns for agent coordination. by [@OpenAI](https://github.com/OpenAI) (22,065 stars)
-- [**Google ADK**](https://github.com/google/adk-python#readme) - Open-source Python toolkit by Google for building, evaluating, and deploying multi-agent systems with orchestration support. by [@google](https://github.com/google) (21,932 stars)
-- [**eliza**](https://github.com/elizaOS/eliza#readme) - Autonomous agent framework for building and deploying multi-agent swarms with personality-driven interactions. by [@elizaOS](https://github.com/elizaOS) (19,631 stars)
-- [**Microsoft Agent Framework**](https://github.com/microsoft/agent-framework#readme) - Framework for building, orchestrating and deploying multi-agent systems with support for Python and .NET. by [@microsoft](https://github.com/microsoft) (14,239 stars)
-- [**Spring AI Alibaba**](https://github.com/alibaba/spring-ai-alibaba#readme) - Enterprise-grade multi-agent framework for Java developers by Alibaba. Spring ecosystem integration with agent orchestration. by [@alibaba](https://github.com/alibaba) (11,044 stars)
-- [**PraisonAI**](https://github.com/MervinPraison/PraisonAI#readme) - Low-code multi-agent framework with 100+ built-in tools. Define agent swarms via YAML configuration. by [@MervinPraison](https://github.com/MervinPraison) (9,281 stars)
-- [**Swarms**](https://github.com/kyegomez/swarms#readme) - Enterprise-grade multi-agent orchestration framework. Sequential, parallel, hierarchical, and mesh swarm topologies. by [@kyegomez](https://github.com/kyegomez) (7,285 stars)
-- [**ROMA**](https://github.com/sentient-agi/ROMA#readme) - Recursive Open Meta-Agent framework to build high-performance multi-agent applications with composable architecture. by [@sentient-agi](https://github.com/sentient-agi) (5,183 stars)
-- [**Agency Swarm**](https://github.com/VRSEN/agency-swarm#readme) - Multi-agent orchestration framework built on OpenAI Agents SDK. Define agent teams with customizable roles and communication flows. by [@VRSEN](https://github.com/VRSEN) (4,605 stars)
-- [**openai-agents-js**](https://github.com/openai/openai-agents-js#readme) - Lightweight JavaScript framework for multi-agent workflows and voice agents by OpenAI. by [@openai](https://github.com/openai) (3,932 stars)
+- [**AutoGen**](https://github.com/microsoft/autogen#readme) - Programming framework for agentic AI by Microsoft. Build multi-agent applications with conversational patterns and group chat. by [@microsoft](https://github.com/microsoft) (61,599 stars)
+- [**AgentScope**](https://github.com/agentscope-ai/agentscope#readme) - Production-ready multi-agent framework with ReAct, memory, planning, and A2A support. Build and run agents you can see, understand and trust. by [@agentscope-ai](https://github.com/agentscope-ai) (34,535 stars)
+- [**OpenAI Agents Python**](https://github.com/openai/openai-agents-python#readme) - Production-ready multi-agent framework from OpenAI. Features agent handoffs, guardrails, and tracing for swarm workflows. by [@OpenAI](https://github.com/OpenAI) (30,345 stars)
+- [**Mastra**](https://github.com/mastra-ai/mastra#readme) - TypeScript framework for building AI-powered multi-agent applications. From the team behind Gatsby. by [@mastra-ai](https://github.com/mastra-ai) (29,136 stars)
+- [**Swarm (OpenAI)**](https://github.com/openai/swarm#readme) - Educational framework exploring lightweight multi-agent orchestration. Demonstrates handoffs and routines patterns for agent coordination. by [@OpenAI](https://github.com/OpenAI) (22,080 stars)
+- [**Google ADK**](https://github.com/google/adk-python#readme) - Open-source Python toolkit by Google for building, evaluating, and deploying multi-agent systems with orchestration support. by [@google](https://github.com/google) (22,028 stars)
+- [**eliza**](https://github.com/elizaOS/eliza#readme) - Autonomous agent framework for building and deploying multi-agent swarms with personality-driven interactions. by [@elizaOS](https://github.com/elizaOS) (19,687 stars)
+- [**Microsoft Agent Framework**](https://github.com/microsoft/agent-framework#readme) - Framework for building, orchestrating and deploying multi-agent systems with support for Python and .NET. by [@microsoft](https://github.com/microsoft) (14,348 stars)
+- [**Spring AI Alibaba**](https://github.com/alibaba/spring-ai-alibaba#readme) - Enterprise-grade multi-agent framework for Java developers by Alibaba. Spring ecosystem integration with agent orchestration. by [@alibaba](https://github.com/alibaba) (11,077 stars)
+- [**PraisonAI**](https://github.com/MervinPraison/PraisonAI#readme) - Low-code multi-agent framework with 100+ built-in tools. Define agent swarms via YAML configuration. by [@MervinPraison](https://github.com/MervinPraison) (9,301 stars)
+- [**Swarms**](https://github.com/kyegomez/swarms#readme) - Enterprise-grade multi-agent orchestration framework. Sequential, parallel, hierarchical, and mesh swarm topologies. by [@kyegomez](https://github.com/kyegomez) (7,307 stars)
+- [**ROMA**](https://github.com/sentient-agi/ROMA#readme) - Recursive Open Meta-Agent framework to build high-performance multi-agent applications with composable architecture. by [@sentient-agi](https://github.com/sentient-agi) (5,189 stars)
+- [**Agency Swarm**](https://github.com/VRSEN/agency-swarm#readme) - Multi-agent orchestration framework built on OpenAI Agents SDK. Define agent teams with customizable roles and communication flows. by [@VRSEN](https://github.com/VRSEN) (4,617 stars)
+- [**openai-agents-js**](https://github.com/openai/openai-agents-js#readme) - Lightweight JavaScript framework for multi-agent workflows and voice agents by OpenAI. by [@openai](https://github.com/openai) (3,947 stars)
 - [**LazyLLM**](https://github.com/LazyAGI/LazyLLM#readme) - Easiest and laziest way for building multi-agent LLM applications with minimal boilerplate. by [@LazyAGI](https://github.com/LazyAGI) (3,889 stars)
-- [**DeepResearchAgent**](https://github.com/SkyworkAI/DeepResearchAgent#readme) - Hierarchical multi-agent system for deep research tasks with adaptive planning and tool integration. by [@SkyworkAI](https://github.com/SkyworkAI) (3,565 stars)
+- [**DeepResearchAgent**](https://github.com/SkyworkAI/DeepResearchAgent#readme) - Hierarchical multi-agent system for deep research tasks with adaptive planning and tool integration. by [@SkyworkAI](https://github.com/SkyworkAI) (3,563 stars)
 - [**BotSharp**](https://github.com/SciSharp/BotSharp#readme) - AI multi-agent framework in .NET for building enterprise conversational agent systems. by [@SciSharp](https://github.com/SciSharp) (3,115 stars)
-- [**trpc-agent-go**](https://github.com/trpc-group/trpc-agent-go#readme) - Go framework for production multi-agent systems with graph workflows, tools, memory, and built-in A2A and MCP support. by [@trpc-group](https://github.com/trpc-group) (1,873 stars)
+- [**trpc-agent-go**](https://github.com/trpc-group/trpc-agent-go#readme) - Go framework for production multi-agent systems with graph workflows, tools, memory, and built-in A2A and MCP support. by [@trpc-group](https://github.com/trpc-group) (1,879 stars)
 <!-- /AUTOGEN:frameworks -->
 
 ## Orchestration and Workflow
@@ -69,19 +69,19 @@ Core frameworks for building and managing multi-agent swarm systems.
 Orchestration engines, workflow builders, and pipeline frameworks for coordinating agent swarms.
 
 <!-- AUTOGEN:orchestration -->
-- [**Dify**](https://github.com/langgenius/dify#readme) - Production-ready platform for agentic workflow development. Visual workflow builder with multi-agent orchestration, RAG pipeline, and model management. by [@langgenius](https://github.com/langgenius) (159,090 stars)
-- [**DeerFlow**](https://github.com/bytedance/deer-flow#readme) - Open-source long-horizon SuperAgent harness by ByteDance. Multi-agent collaboration for research, coding, and content creation. by [@bytedance](https://github.com/bytedance) (84,227 stars)
-- [**LangGraph**](https://github.com/langchain-ai/langgraph#readme) - Build resilient language agents as graphs. Low-level orchestration framework for stateful, multi-actor applications with durable execution. by [@langchain-ai](https://github.com/langchain-ai) (43,609 stars)
-- [**Conductor**](https://github.com/conductor-oss/conductor#readme) - Event-driven agentic workflow engine providing durable, highly resilient orchestration for applications and AI agent pipelines. by [@conductor-oss](https://github.com/conductor-oss) (32,357 stars)
-- [**FastGPT**](https://github.com/labring/FastGPT#readme) - Knowledge-based platform built on LLMs with comprehensive out-of-the-box data processing and workflow orchestration. by [@labring](https://github.com/labring) (29,887 stars)
-- [**haystack**](https://github.com/deepset-ai/haystack#readme) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. by [@deepset-ai](https://github.com/deepset-ai) (26,796 stars)
-- [**trigger.dev**](https://github.com/triggerdotdev/trigger.dev#readme) - Build and deploy fully managed AI agents and multi-agent workflows with durable execution. by [@triggerdotdev](https://github.com/triggerdotdev) (16,590 stars)
-- [**astron-agent**](https://github.com/iflytek/astron-agent#readme) - Enterprise-grade, commercial-friendly agentic workflow platform by iFlytek for building next-generation SuperAgents. by [@iflytek](https://github.com/iflytek) (8,920 stars)
-- [**Hatchet**](https://github.com/hatchet-dev/hatchet#readme) - Orchestration engine for background tasks, AI agents, and durable workflows. Queues, scheduling, and durable execution for agent pipelines. by [@hatchet-dev](https://github.com/hatchet-dev) (8,159 stars)
-- [**Agent Squad**](https://github.com/2FastLabs/agent-squad#readme) - AWS framework for managing multiple AI agents and handling complex conversations with intelligent routing. by [@2FastLabs](https://github.com/2FastLabs) (7,793 stars)
-- [**Orkas**](https://github.com/Orkas-AI/Orkas#readme) - Local-first desktop app where a Commander coordinates specialist AI agents in parallel or sequence, including local sessions for external coding-agent CLIs. by [@Orkas-AI](https://github.com/Orkas-AI) (2,226 stars)
-- [**LightAgent**](https://github.com/wanxingai/LightAgent#readme) - Python multi-agent framework with role-based routing, checkpointed workflows, and persistent dynamic DAGs with concurrent workers, restart recovery, and verification-gated artifacts. by [@wanxingai](https://github.com/wanxingai) (1,237 stars)
-- [**Agent Swarm**](https://github.com/desplega-ai/agent-swarm#readme) - Multi-agent orchestration over MCP, with a lead agent delegating tasks to Docker-isolated workers running Claude Code, Codex, and other harnesses. by [@desplega-ai](https://github.com/desplega-ai) (911 stars)
+- [**Dify**](https://github.com/langgenius/dify#readme) - Production-ready platform for agentic workflow development. Visual workflow builder with multi-agent orchestration, RAG pipeline, and model management. by [@langgenius](https://github.com/langgenius) (159,763 stars)
+- [**DeerFlow**](https://github.com/bytedance/deer-flow#readme) - Open-source long-horizon SuperAgent harness by ByteDance. Multi-agent collaboration for research, coding, and content creation. by [@bytedance](https://github.com/bytedance) (84,517 stars)
+- [**LangGraph**](https://github.com/langchain-ai/langgraph#readme) - Build resilient language agents as graphs. Low-level orchestration framework for stateful, multi-actor applications with durable execution. by [@langchain-ai](https://github.com/langchain-ai) (44,022 stars)
+- [**Conductor**](https://github.com/conductor-oss/conductor#readme) - Event-driven agentic workflow engine providing durable, highly resilient orchestration for applications and AI agent pipelines. by [@conductor-oss](https://github.com/conductor-oss) (32,390 stars)
+- [**FastGPT**](https://github.com/labring/FastGPT#readme) - Knowledge-based platform built on LLMs with comprehensive out-of-the-box data processing and workflow orchestration. by [@labring](https://github.com/labring) (29,928 stars)
+- [**haystack**](https://github.com/deepset-ai/haystack#readme) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. by [@deepset-ai](https://github.com/deepset-ai) (26,863 stars)
+- [**trigger.dev**](https://github.com/triggerdotdev/trigger.dev#readme) - Build and deploy fully managed AI agents and multi-agent workflows with durable execution. by [@triggerdotdev](https://github.com/triggerdotdev) (16,636 stars)
+- [**astron-agent**](https://github.com/iflytek/astron-agent#readme) - Enterprise-grade, commercial-friendly agentic workflow platform by iFlytek for building next-generation SuperAgents. by [@iflytek](https://github.com/iflytek) (8,933 stars)
+- [**Hatchet**](https://github.com/hatchet-dev/hatchet#readme) - Orchestration engine for background tasks, AI agents, and durable workflows. Queues, scheduling, and durable execution for agent pipelines. by [@hatchet-dev](https://github.com/hatchet-dev) (8,193 stars)
+- [**Agent Squad**](https://github.com/2FastLabs/agent-squad#readme) - AWS framework for managing multiple AI agents and handling complex conversations with intelligent routing. by [@2FastLabs](https://github.com/2FastLabs) (7,795 stars)
+- [**Orkas**](https://github.com/Orkas-AI/Orkas#readme) - Local-first desktop app where a Commander coordinates specialist AI agents in parallel or sequence, including local sessions for external coding-agent CLIs. by [@Orkas-AI](https://github.com/Orkas-AI) (2,591 stars)
+- [**LightAgent**](https://github.com/wanxingai/LightAgent#readme) - Python multi-agent framework with role-based routing, checkpointed workflows, and persistent dynamic DAGs with concurrent workers, restart recovery, and verification-gated artifacts. by [@wanxingai](https://github.com/wanxingai) (1,240 stars)
+- [**Agent Swarm**](https://github.com/desplega-ai/agent-swarm#readme) - Multi-agent orchestration over MCP, with a lead agent delegating tasks to Docker-isolated workers running Claude Code, Codex, and other harnesses. by [@desplega-ai](https://github.com/desplega-ai) (954 stars)
 <!-- /AUTOGEN:orchestration -->
 
 ## Agent Communication and Protocols
@@ -89,14 +89,14 @@ Orchestration engines, workflow builders, and pipeline frameworks for coordinati
 Standards and protocols for inter-agent messaging, discovery, and interoperability.
 
 <!-- AUTOGEN:communication -->
-- [**A2A**](https://github.com/a2aproject/A2A#readme) - Agent2Agent open protocol by Google enabling communication and interoperability between opaque agent systems. by [@a2aproject](https://github.com/a2aproject) (26,227 stars)
-- [**mcp-use**](https://github.com/mcp-use/mcp-use#readme) - Fullstack MCP framework to develop MCP applications for ChatGPT, Claude, and AI agents. by [@mcp-use](https://github.com/mcp-use) (10,791 stars)
+- [**A2A**](https://github.com/a2aproject/A2A#readme) - Agent2Agent open protocol by Google enabling communication and interoperability between opaque agent systems. by [@a2aproject](https://github.com/a2aproject) (26,316 stars)
+- [**mcp-use**](https://github.com/mcp-use/mcp-use#readme) - Fullstack MCP framework to develop MCP applications for ChatGPT, Claude, and AI agents. by [@mcp-use](https://github.com/mcp-use) (10,818 stars)
 - [**fastmcp**](https://github.com/punkpeye/fastmcp#readme) - TypeScript framework for building MCP servers with minimal setup. by [@punkpeye](https://github.com/punkpeye) (3,277 stars)
-- [**AgentNetworkProtocol**](https://github.com/agent-network-protocol/AgentNetworkProtocol#readme) - Open source protocol for agent communication with discovery, routing, and cross-network interoperability. by [@agent-network-protocol](https://github.com/agent-network-protocol) (1,456 stars)
-- [**arcade-mcp**](https://github.com/ArcadeAI/arcade-mcp#readme) - MCP server framework and tool-development library for building custom agent capabilities and authenticated tool calls. by [@ArcadeAI](https://github.com/ArcadeAI) (1,056 stars)
-- [**A2A x402**](https://github.com/google-agentic-commerce/a2a-x402#readme) - A2A protocol extension adding x402 on-chain payments, letting agents monetize services over Agent-to-Agent calls. by [@google-agentic-commerce](https://github.com/google-agentic-commerce) (565 stars)
+- [**AgentNetworkProtocol**](https://github.com/agent-network-protocol/AgentNetworkProtocol#readme) - Open source protocol for agent communication with discovery, routing, and cross-network interoperability. by [@agent-network-protocol](https://github.com/agent-network-protocol) (1,459 stars)
+- [**arcade-mcp**](https://github.com/ArcadeAI/arcade-mcp#readme) - MCP server framework and tool-development library for building custom agent capabilities and authenticated tool calls. by [@ArcadeAI](https://github.com/ArcadeAI) (1,060 stars)
+- [**A2A x402**](https://github.com/google-agentic-commerce/a2a-x402#readme) - A2A protocol extension adding x402 on-chain payments, letting agents monetize services over Agent-to-Agent calls. by [@google-agentic-commerce](https://github.com/google-agentic-commerce) (569 stars)
 - [**Coral Anemoi**](https://github.com/Coral-Protocol/Anemoi#readme) - Semi-centralized multi-agent coordination via Agent-to-Agent Communication MCP server. Enables cross-framework agent collaboration. by [@Coral-Protocol](https://github.com/Coral-Protocol) (369 stars)
-- [**Cotal**](https://github.com/Cotal-AI/Cotal#readme) - Open pub/sub standard over NATS JetStream for agent coordination. Mixed coding agents share a space with presence, channels, durable direct messages, and role-addressed anycast where one free agent claims the work. by [@Cotal-AI](https://github.com/Cotal-AI) (333 stars)
+- [**Cotal**](https://github.com/Cotal-AI/Cotal#readme) - Open pub/sub standard over NATS JetStream for agent coordination. Mixed coding agents share a space with presence, channels, durable direct messages, and role-addressed anycast where one free agent claims the work. by [@Cotal-AI](https://github.com/Cotal-AI) (362 stars)
 - [**GEP MCP Server**](https://github.com/EvoMap/gep-mcp-server#readme) - MCP Server for Genome Evolution Protocol. Exposes swarm evolution tools to Claude Desktop, Cursor, and any MCP client. by [@EvoMap](https://github.com/EvoMap) (6 stars)
 - [**Project Room**](https://github.com/Uuriko/project-room#readme) - Open-source persistent rooms where people and AI agents coordinate as named members: task claims, shared journal, MCP + A2A discovery. by [@Uuriko](https://github.com/Uuriko) (2 stars)
 <!-- /AUTOGEN:communication -->
@@ -106,12 +106,12 @@ Standards and protocols for inter-agent messaging, discovery, and interoperabili
 Emergent behavior, collective reasoning, and self-organizing multi-agent systems.
 
 <!-- AUTOGEN:intelligence -->
-- [**TradingAgents**](https://github.com/TauricResearch/TradingAgents#readme) - Multi-agent LLM financial trading framework with fund manager, analyst, and risk advisor roles. by [@TauricResearch](https://github.com/TauricResearch) (112,416 stars)
-- [**OWL**](https://github.com/camel-ai/owl#readme) - Optimized Workforce Learning framework built on CAMEL-AI. #1 on GAIA benchmark (69.09) among open-source multi-agent systems for real-world task automation. by [@camel-ai](https://github.com/camel-ai) (20,153 stars)
-- [**CAMEL**](https://github.com/camel-ai/camel#readme) - Multi-agent framework for role-playing and communicative agent collaboration. Studies scaling laws of agents. by [@camel-ai](https://github.com/camel-ai) (17,941 stars)
-- [**Evolver**](https://github.com/EvoMap/evolver#readme) - GEP-powered self-evolution engine with opt-in EvoMap worker-pool participation and shared Genes and Capsules for collaborative agent evolution. by [@EvoMap](https://github.com/EvoMap) (8,688 stars)
-- [**ClawTeam**](https://github.com/HKUDS/ClawTeam#readme) - Agent Swarm Intelligence framework. Agents self-organize into collaborative teams with dynamic task allocation, inter-agent messaging, and git worktree isolation. by [@HKUDS](https://github.com/HKUDS) (5,536 stars)
-- [**LatentMAS**](https://github.com/Gen-Verse/LatentMAS#readme) - Latent collaboration in multi-agent systems. Agents reason and collaborate in continuous latent space instead of natural language, reducing communication overhead. by [@Gen-Verse](https://github.com/Gen-Verse) (1,158 stars)
+- [**TradingAgents**](https://github.com/TauricResearch/TradingAgents#readme) - Multi-agent LLM financial trading framework with fund manager, analyst, and risk advisor roles. by [@TauricResearch](https://github.com/TauricResearch) (117,485 stars)
+- [**OWL**](https://github.com/camel-ai/owl#readme) - Optimized Workforce Learning framework built on CAMEL-AI. #1 on GAIA benchmark (69.09) among open-source multi-agent systems for real-world task automation. by [@camel-ai](https://github.com/camel-ai) (20,165 stars)
+- [**CAMEL**](https://github.com/camel-ai/camel#readme) - Multi-agent framework for role-playing and communicative agent collaboration. Studies scaling laws of agents. by [@camel-ai](https://github.com/camel-ai) (17,986 stars)
+- [**Evolver**](https://github.com/EvoMap/evolver#readme) - GEP-powered self-evolution engine with opt-in EvoMap worker-pool participation and shared Genes and Capsules for collaborative agent evolution. by [@EvoMap](https://github.com/EvoMap) (8,702 stars)
+- [**ClawTeam**](https://github.com/HKUDS/ClawTeam#readme) - Agent Swarm Intelligence framework. Agents self-organize into collaborative teams with dynamic task allocation, inter-agent messaging, and git worktree isolation. by [@HKUDS](https://github.com/HKUDS) (5,544 stars)
+- [**LatentMAS**](https://github.com/Gen-Verse/LatentMAS#readme) - Latent collaboration in multi-agent systems. Agents reason and collaborate in continuous latent space instead of natural language, reducing communication overhead. by [@Gen-Verse](https://github.com/Gen-Verse) (1,166 stars)
 <!-- /AUTOGEN:intelligence -->
 
 ## Role-Based Agent Teams
@@ -119,11 +119,11 @@ Emergent behavior, collective reasoning, and self-organizing multi-agent systems
 Frameworks that organize agents into specialized roles for collaborative task execution.
 
 <!-- AUTOGEN:role-teams -->
-- [**MetaGPT**](https://github.com/FoundationAgents/MetaGPT#readme) - Virtual software company via multi-agent collaboration. SOPs encoded as prompts assign PM, architect, developer, and QA roles. by [@FoundationAgents](https://github.com/FoundationAgents) (70,942 stars)
-- [**CrewAI**](https://github.com/crewAIInc/crewAI#readme) - Framework for orchestrating role-playing, autonomous AI agents. Define crews with specialized roles, goals, and backstories for collaborative tasks. by [@crewAIInc](https://github.com/crewAIInc) (59,932 stars)
-- [**ChatDev**](https://github.com/OpenBMB/ChatDev#readme) - Virtual software company via LLM-powered multi-agent conversation chains. Agents play CEO, CTO, programmer, and tester roles. by [@OpenBMB](https://github.com/OpenBMB) (34,560 stars)
-- [**HiClaw**](https://github.com/agentscope-ai/AgentTeams#readme) - Collaborative Multi-Agent OS with Manager-Workers architecture. Human-in-the-loop task coordination with enterprise-grade security. by [@agentscope-ai](https://github.com/agentscope-ai) (5,833 stars)
-- [**Crewly**](https://github.com/stevehuang0115/crewly#readme) - Open-source platform that runs teams of Claude Code, Codex and Gemini CLI agents with defined roles, task delegation, shared memory and a live web dashboard. by [@stevehuang0115](https://github.com/stevehuang0115) (88 stars)
+- [**MetaGPT**](https://github.com/FoundationAgents/MetaGPT#readme) - Virtual software company via multi-agent collaboration. SOPs encoded as prompts assign PM, architect, developer, and QA roles. by [@FoundationAgents](https://github.com/FoundationAgents) (71,040 stars)
+- [**CrewAI**](https://github.com/crewAIInc/crewAI#readme) - Framework for orchestrating role-playing, autonomous AI agents. Define crews with specialized roles, goals, and backstories for collaborative tasks. by [@crewAIInc](https://github.com/crewAIInc) (60,193 stars)
+- [**ChatDev**](https://github.com/OpenBMB/ChatDev#readme) - Virtual software company via LLM-powered multi-agent conversation chains. Agents play CEO, CTO, programmer, and tester roles. by [@OpenBMB](https://github.com/OpenBMB) (34,601 stars)
+- [**HiClaw**](https://github.com/agentscope-ai/AgentTeams#readme) - Collaborative Multi-Agent OS with Manager-Workers architecture. Human-in-the-loop task coordination with enterprise-grade security. by [@agentscope-ai](https://github.com/agentscope-ai) (5,880 stars)
+- [**Crewly**](https://github.com/stevehuang0115/crewly#readme) - Open-source platform that runs teams of Claude Code, Codex and Gemini CLI agents with defined roles, task delegation, shared memory and a live web dashboard. by [@stevehuang0115](https://github.com/stevehuang0115) (90 stars)
 <!-- /AUTOGEN:role-teams -->
 
 ## Task Decomposition and Planning
@@ -131,11 +131,11 @@ Frameworks that organize agents into specialized roles for collaborative task ex
 Systems for breaking complex goals into subtasks, building execution DAGs, and coordinating parallel agent work.
 
 <!-- AUTOGEN:task-decomposition -->
-- [**deepagents**](https://github.com/langchain-ai/deepagents#readme) - Agent harness built with LangChain and LangGraph with planning, filesystem backend, and multi-agent collaboration. by [@langchain-ai](https://github.com/langchain-ai) (30,463 stars)
-- [**agent-orchestrator**](https://github.com/OrchestratorInc/agent-orchestrator#readme) - Agentic orchestrator for parallel coding agents with task planning, agent spawning, and autonomous handoffs. by [@OrchestratorInc](https://github.com/OrchestratorInc) (13,428 stars)
-- [**Open Multi-Agent**](https://github.com/open-multi-agent/open-multi-agent#readme) - TypeScript multi-agent orchestration via single runTeam() call. Auto-decomposes goals into task DAGs and runs agents in parallel. by [@open-multi-agent](https://github.com/open-multi-agent) (7,009 stars)
-- [**MindSearch**](https://github.com/InternLM/MindSearch#readme) - Multi-agent web search engine. Decomposes search queries into sub-tasks, delegates to specialized agents, and aggregates results. by [@InternLM](https://github.com/InternLM) (6,946 stars)
-- [**AFlow**](https://github.com/FoundationAgents/AFlow#readme) - Automated multi-agent workflow generation via Monte Carlo tree search. Designs optimal agent topologies for given tasks. by [@FoundationAgents](https://github.com/FoundationAgents) (622 stars)
+- [**deepagents**](https://github.com/langchain-ai/deepagents#readme) - Agent harness built with LangChain and LangGraph with planning, filesystem backend, and multi-agent collaboration. by [@langchain-ai](https://github.com/langchain-ai) (30,658 stars)
+- [**agent-orchestrator**](https://github.com/OrchestratorInc/agent-orchestrator#readme) - Agentic orchestrator for parallel coding agents with task planning, agent spawning, and autonomous handoffs. by [@OrchestratorInc](https://github.com/OrchestratorInc) (13,799 stars)
+- [**Open Multi-Agent**](https://github.com/open-multi-agent/open-multi-agent#readme) - TypeScript multi-agent orchestration via single runTeam() call. Auto-decomposes goals into task DAGs and runs agents in parallel. by [@open-multi-agent](https://github.com/open-multi-agent) (7,025 stars)
+- [**MindSearch**](https://github.com/InternLM/MindSearch#readme) - Multi-agent web search engine. Decomposes search queries into sub-tasks, delegates to specialized agents, and aggregates results. by [@InternLM](https://github.com/InternLM) (6,944 stars)
+- [**AFlow**](https://github.com/FoundationAgents/AFlow#readme) - Automated multi-agent workflow generation via Monte Carlo tree search. Designs optimal agent topologies for given tasks. by [@FoundationAgents](https://github.com/FoundationAgents) (626 stars)
 <!-- /AUTOGEN:task-decomposition -->
 
 ## Swarm Coding and Engineering
@@ -143,12 +143,12 @@ Systems for breaking complex goals into subtasks, building execution DAGs, and c
 Agent swarms applied to collaborative software development and engineering workflows.
 
 <!-- AUTOGEN:swarm-coding -->
-- [**stagewise**](https://github.com/stagewise-io/stagewise#readme) - Open-source agentic IDE. Create and orchestrate multiple coding agents, preview apps, and run git workflows across model providers. by [@stagewise-io](https://github.com/stagewise-io) (6,825 stars)
-- [**fractal**](https://github.com/plasma-ai/fractal#readme) - Hierarchical coding-agent orchestrator with recursive delegation, per-node Git worktrees, configurable limits, persistent state, and a live terminal UI. by [@plasma-ai](https://github.com/plasma-ai) (783 stars)
-- [**SWE-ReX**](https://github.com/SWE-agent/SWE-ReX#readme) - Sandboxed, massively-parallel code execution runtime for AI agents. Runs many agents locally or in the cloud; powers SWE-agent. by [@SWE-agent](https://github.com/SWE-agent) (622 stars)
-- [**Ordewell**](https://github.com/ordewell/ordewell#readme) - Terminal CLI and TUI that turns one goal into an ordered, editable plan of coding agent tasks, each task running its own session with the runner, model and mode you pick for it, and a task counts as done only when its completion marker appears in that runner's output. by [@ordewell](https://github.com/ordewell) (203 stars)
+- [**stagewise**](https://github.com/stagewise-io/stagewise#readme) - Open-source agentic IDE. Create and orchestrate multiple coding agents, preview apps, and run git workflows across model providers. by [@stagewise-io](https://github.com/stagewise-io) (6,830 stars)
+- [**fractal**](https://github.com/plasma-ai/fractal#readme) - Hierarchical coding-agent orchestrator with recursive delegation, per-node Git worktrees, configurable limits, persistent state, and a live terminal UI. by [@plasma-ai](https://github.com/plasma-ai) (787 stars)
+- [**SWE-ReX**](https://github.com/SWE-agent/SWE-ReX#readme) - Sandboxed, massively-parallel code execution runtime for AI agents. Runs many agents locally or in the cloud; powers SWE-agent. by [@SWE-agent](https://github.com/SWE-agent) (628 stars)
+- [**Ordewell**](https://github.com/ordewell/ordewell#readme) - Terminal CLI and TUI that turns one goal into an ordered, editable plan of coding agent tasks, each task running its own session with the runner, model and mode you pick for it, and a task counts as done only when its completion marker appears in that runner's output. by [@ordewell](https://github.com/ordewell) (205 stars)
 - [**LoopTroop**](https://github.com/looptroop-ai/LoopTroop#readme) - Local coding-agent orchestrator with multi-model consensus planning councils, isolated Git worktrees, bounded retry loops, and human approval gates. by [@looptroop-ai](https://github.com/looptroop-ai) (164 stars)
-- [**YYLO**](https://github.com/yylo-dev/yylo#readme) - Command-line orchestrator for coding agents with dedicated per-task branches and worktrees, receipt-backed repository changes, and independently run external review and test workflows. by [@yylo-dev](https://github.com/yylo-dev) (65 stars)
+- [**YYLO**](https://github.com/yylo-dev/yylo#readme) - Command-line orchestrator for coding agents with dedicated per-task branches and worktrees, receipt-backed repository changes, and independently run external review and test workflows. by [@yylo-dev](https://github.com/yylo-dev) (66 stars)
 <!-- /AUTOGEN:swarm-coding -->
 
 ## Safety and Governance
@@ -156,7 +156,7 @@ Agent swarms applied to collaborative software development and engineering workf
 Guardrails, policy engines, and governance frameworks for multi-agent systems.
 
 <!-- AUTOGEN:safety -->
-- [**NeMo Guardrails**](https://github.com/NVIDIA-NeMo/Guardrails#readme) - NVIDIA's toolkit for adding programmable guardrails to LLM systems. Policy-based safety controls for multi-agent deployments. by [@NVIDIA-NeMo](https://github.com/NVIDIA-NeMo) (7,338 stars)
+- [**NeMo Guardrails**](https://github.com/NVIDIA-NeMo/Guardrails#readme) - NVIDIA's toolkit for adding programmable guardrails to LLM systems. Policy-based safety controls for multi-agent deployments. by [@NVIDIA-NeMo](https://github.com/NVIDIA-NeMo) (7,384 stars)
 <!-- /AUTOGEN:safety -->
 
 ## Key Research Papers
