@@ -175,6 +175,7 @@ Guardrails, policy engines, and governance frameworks for multi-agent systems.
 - [AdaptOrch: Task-Adaptive Orchestration](https://arxiv.org/abs/2602.16873) (arXiv'26) - Dynamic topology selection (parallel, sequential, hierarchical, hybrid) based on task dependency graphs. 12-23% improvement over the single-best configuration.
 - [Puppeteer: Evolving Orchestration via Reinforcement Learning](https://arxiv.org/abs/2505.19591) (arXiv'25) - Centralized orchestrator trained via RL to dynamically direct agents in response to evolving task states.
 - [Agon: An Autonomous Large-Scale Omnidisciplinary Research System Built on Prompt Economy](https://arxiv.org/abs/2606.24177) (arXiv'26) - Autonomous research system with idea, proposal, experiment, and paper workflows built on Prompt Economy. [Code](https://github.com/AutoResearch-Factory/Agon)
+- [AgonAlpha: Autonomous Alpha Discovery via Prompt Economy and Scalable Agentic Search](https://arxiv.org/abs/2608.11250) (arXiv'26) - Parallel workers search for alphas under a pending-aware budget allocator, tested with 10 concurrent workers. A fresh-context reviewer re-runs each candidate and can veto it. [Code](https://github.com/AutoResearch-Factory/AgonAlpha)
 
 ### Swarm Intelligence and Emergence
 
@@ -205,6 +206,7 @@ Guardrails, policy engines, and governance frameworks for multi-agent systems.
 - [Self-Organizing Multi-Agent Systems for Continuous Software Development](https://arxiv.org/abs/2603.25928) (arXiv'26) - Manager agents dynamically hire/assign/fire workers. Multi-day continuous development.
 - [AgentMesh: Cooperative Multi-Agent Framework for Software Development](https://arxiv.org/abs/2507.19902) (arXiv'25) - Planner, Coder, Debugger, Reviewer agents for end-to-end development.
 - [MoRAgent: Parameter Efficient Agent Tuning with Mixture-of-Roles](https://arxiv.org/abs/2512.21708) (arXiv'25) - Reasoner, executor, and summarizer roles via specialized LoRA groups.
+- [OptimAI: Optimization from Natural Language Using LLM-Powered AI Agents](https://arxiv.org/abs/2504.16918) (arXiv'25) - Formulator, Planner, Coder, and Code Critic agents turn optimization problems in natural language into solver code. UCB selects among candidate plans. 88.1% on NLP4LP.
 
 ### Task Decomposition and Planning
 
