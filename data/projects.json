@@ -847,5 +847,18 @@
       "open-source"
     ],
     "stars": 1085
+  },
+  {
+    "name": "Concord",
+    "repo": "Get-Concord-AI/concord-mcp",
+    "description": "Local-first MCP server for coding-agent communication with shared presence, file claims, task handoffs, and review packets.",
+    "category": "communication",
+    "maintainer": "Get-Concord-AI",
+    "tags": [
+      "mcp",
+      "multi-agent",
+      "collaborative"
+    ],
+    "stars": 835
   }
 ]
