@@ -834,5 +834,18 @@
       "local-first"
     ],
     "stars": 2591
+  },
+  {
+    "name": "Sno Station",
+    "repo": "sno-ai/sno-station",
+    "description": "Local runtime that puts the Codex, Claude Code, Cursor, Hermes Agent and OpenClaw sessions you already run on one squad: when one agent hits its usage limit mid-task another picks the task up, and a review always goes to a different agent than the author.",
+    "category": "swarm-coding",
+    "maintainer": "sno-ai",
+    "tags": [
+      "multi-agent",
+      "orchestration",
+      "open-source"
+    ],
+    "stars": 1085
   }
 ]
