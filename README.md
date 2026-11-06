@@ -187,6 +187,7 @@ Guardrails, policy engines, and governance frameworks for multi-agent systems.
 - [LatentMAS: Latent Collaboration in Multi-Agent Systems](https://arxiv.org/abs/2511.20639) (arXiv'25) - Agents collaborate in continuous latent space instead of natural language.
 - [GPTSwarm: Language Agents as Optimizable Graphs](https://arxiv.org/abs/2402.16823) (ICML'24) - Graph-based optimization of agent collaboration topologies.
 - [Scaling Large-Language-Model-based Multi-Agent Collaboration](https://arxiv.org/abs/2406.07155) (arXiv'24) - Scaling laws and topology analysis for multi-agent collaboration.
+- [SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization](https://arxiv.org/abs/2611.08483) (arXiv'26) - Swarms of hundreds of latent agents share KV caches instead of text to evolve programs. Improves on three AlphaEvolve results with Qwen3 8B. [Code](https://github.com/Qile-J/SwarmEvolve)
 
 ### Multi-Agent Collaboration and Evolution
 
