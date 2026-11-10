@@ -209,6 +209,7 @@ Guardrails, policy engines, and governance frameworks for multi-agent systems.
 - [AgentMesh: Cooperative Multi-Agent Framework for Software Development](https://arxiv.org/abs/2507.19902) (arXiv'25) - Planner, Coder, Debugger, Reviewer agents for end-to-end development.
 - [MoRAgent: Parameter Efficient Agent Tuning with Mixture-of-Roles](https://arxiv.org/abs/2512.21708) (arXiv'25) - Reasoner, executor, and summarizer roles via specialized LoRA groups.
 - [OptimAI: Optimization from Natural Language Using LLM-Powered AI Agents](https://arxiv.org/abs/2504.16918v3) (arXiv'25) - Formulator, Planner, Coder, and Code Critic agents turn natural-language optimization problems into solver code. UCB schedules debugging across candidate plan-code branches. Reports 88.1% zero-shot Pass@1 on NLP4LP with an o1-mini Planner and GPT-4o for the other roles.
+- [AutoNumerics: An Autonomous, PDE-Agnostic Multi-Agent Pipeline for Scientific Computing](https://arxiv.org/abs/2602.17607v1) (arXiv'26) - Formulator, Planner, Feature, Selector, Coder, and Critic agents design, debug, and verify classical numerical PDE solvers from natural-language descriptions. The Critic fixes logic bugs on a coarse grid before the solver runs at full resolution. Reports the lowest nRMSE on all 5 CodePDE problems, about six orders of magnitude below CodePDE and FNO.
 
 ### Task Decomposition and Planning
 
