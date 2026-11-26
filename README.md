@@ -44,14 +44,12 @@ graph LR
 Core frameworks for building and managing multi-agent swarm systems.
 
 <!-- AUTOGEN:frameworks -->
-- [**AutoGen**](https://github.com/microsoft/autogen#readme) - Programming framework for agentic AI by Microsoft. Build multi-agent applications with conversational patterns and group chat. by [@microsoft](https://github.com/microsoft) (61,779 stars)
 - [**AgentScope**](https://github.com/agentscope-ai/agentscope#readme) - Production-ready multi-agent framework with ReAct, memory, planning, and A2A support. Build and run agents you can see, understand and trust. by [@agentscope-ai](https://github.com/agentscope-ai) (35,769 stars)
 - [**OpenAI Agents Python**](https://github.com/openai/openai-agents-python#readme) - Production-ready multi-agent framework from OpenAI. Features agent handoffs, guardrails, and tracing for swarm workflows. by [@OpenAI](https://github.com/OpenAI) (30,606 stars)
 - [**Mastra**](https://github.com/mastra-ai/mastra#readme) - TypeScript framework for building AI-powered multi-agent applications. From the team behind Gatsby. by [@mastra-ai](https://github.com/mastra-ai) (29,460 stars)
 - [**Google ADK**](https://github.com/google/adk-python#readme) - Open-source Python toolkit by Google for building, evaluating, and deploying multi-agent systems with orchestration support. by [@google](https://github.com/google) (22,177 stars)
 - [**Swarm (OpenAI)**](https://github.com/openai/swarm#readme) - Educational framework exploring lightweight multi-agent orchestration. Demonstrates handoffs and routines patterns for agent coordination. by [@OpenAI](https://github.com/OpenAI) (22,124 stars)
 - [**eliza**](https://github.com/elizaOS/eliza#readme) - Autonomous agent framework for building and deploying multi-agent swarms with personality-driven interactions. by [@elizaOS](https://github.com/elizaOS) (19,841 stars)
-- [**Microsoft Agent Framework**](https://github.com/microsoft/agent-framework#readme) - Framework for building, orchestrating and deploying multi-agent systems with support for Python and .NET. by [@microsoft](https://github.com/microsoft) (14,626 stars)
 - [**Spring AI Alibaba**](https://github.com/alibaba/spring-ai-alibaba#readme) - Enterprise-grade multi-agent framework for Java developers by Alibaba. Spring ecosystem integration with agent orchestration. by [@alibaba](https://github.com/alibaba) (11,133 stars)
 - [**PraisonAI**](https://github.com/MervinPraison/PraisonAI#readme) - Low-code multi-agent framework with 100+ built-in tools. Define agent swarms via YAML configuration. by [@MervinPraison](https://github.com/MervinPraison) (9,333 stars)
 - [**Swarms**](https://github.com/kyegomez/swarms#readme) - Enterprise-grade multi-agent orchestration framework. Sequential, parallel, hierarchical, and mesh swarm topologies. by [@kyegomez](https://github.com/kyegomez) (7,367 stars)

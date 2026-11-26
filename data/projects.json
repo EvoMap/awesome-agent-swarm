@@ -40,19 +40,6 @@
     "stars": 85234
   },
   {
-    "name": "AutoGen",
-    "repo": "microsoft/autogen",
-    "description": "Programming framework for agentic AI by Microsoft. Build multi-agent applications with conversational patterns and group chat.",
-    "category": "frameworks",
-    "maintainer": "microsoft",
-    "tags": [
-      "conversational",
-      "microsoft",
-      "group-chat"
-    ],
-    "stars": 61779
-  },
-  {
     "name": "CrewAI",
     "repo": "crewAIInc/crewAI",
     "description": "Framework for orchestrating role-playing, autonomous AI agents. Define crews with specialized roles, goals, and backstories for collaborative tasks.",
@@ -196,19 +183,6 @@
       "enterprise"
     ],
     "stars": 11133
-  },
-  {
-    "name": "Microsoft Agent Framework",
-    "repo": "microsoft/agent-framework",
-    "description": "Framework for building, orchestrating and deploying multi-agent systems with support for Python and .NET.",
-    "category": "frameworks",
-    "maintainer": "microsoft",
-    "tags": [
-      "microsoft",
-      "python",
-      "dotnet"
-    ],
-    "stars": 14626
   },
   {
     "name": "Agent Squad",
